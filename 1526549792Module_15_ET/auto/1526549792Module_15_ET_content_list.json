@@ -1,0 +1,1494 @@
+[
+    {
+        "type": "text",
+        "text": "Powder Diffraction",
+        "text_level": 1,
+        "bbox": [
+            415,
+            132,
+            583,
+            148
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Learning Objectives",
+        "text_level": 2,
+        "bbox": [
+            112,
+            200,
+            276,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": " Introduction to Powder X-ray Diffracion",
+        "bbox": [
+            140,
+            234,
+            472,
+            251
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": " Bragg’s Law of Diffraction",
+        "bbox": [
+            142,
+            257,
+            377,
+            275
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": " Application of Powder XRD",
+        "bbox": [
+            142,
+            281,
+            385,
+            299
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": " Determination of an Unknown",
+        "bbox": [
+            142,
+            306,
+            400,
+            323
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": " Strengths and Limitations of X-ray Powder Diffraction",
+        "bbox": [
+            142,
+            329,
+            575,
+            347
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "15.1 Introduction to Powder X-ray Diffraction",
+        "text_level": 2,
+        "bbox": [
+            112,
+            405,
+            475,
+            422
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Powder X-ray diffraction (PXRD) is perhaps the most widely used analytical technique for characterizing materials. As the name suggests, the sample is usually in a powdery form, consisting of fine grains of single crystalline material to be studied. The technique is also used widely for studying particles in liquid suspensions or polycrystalline solids (bulk or thin film materials).",
+        "bbox": [
+            111,
+            439,
+            887,
+            530
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The term 'powder' really means that the crytalline domains are randomly oriented in the sample. Therefore when the 2-D diffraction pattern is recorded, it shows concentric rings of scattering peaks corresponding to the various d spacings in the crystal lattice.",
+        "bbox": [
+            111,
+            546,
+            885,
+            614
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f883fbcedc4afa60c8e2b8183608da1b147ffae39727c2803e9093e0e9e16648.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            142,
+            660,
+            851,
+            799
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The positions and the intensities of the peaks are used for identifying the underlying structure (or phase) of the material. For example, the diffraction lines of graphite would be different from diamond even though they both are made of carbon atoms. This phase identification is important because the material properties are highly dependent on structure (just think of graphite and diamond).",
+        "bbox": [
+            111,
+            861,
+            885,
+            904
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Module 15",
+        "bbox": [
+            797,
+            90,
+            885,
+            106
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            111,
+            90,
+            885,
+            133
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/d4decf5b59f5f12431a6815bafb0f2295ebea9c6916380362525a32a9fab35db.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "bbox": [
+            119,
+            171,
+            470,
+            390
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/cf691c32e997a8b093e403a3e6c9d63f8f165fc6097b988ae661a1753bd7e94c.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "bbox": [
+            501,
+            174,
+            872,
+            391
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Powder diffraction data can be collected using either reflection or transmission geometry, as shown below.",
+        "bbox": [
+            111,
+            414,
+            883,
+            449
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec71fcfce1300e75971917df7baf5898bb04cd208553ab2d3ac0f1272ce3e52e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            116,
+            446,
+            861,
+            628
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because the particles in the powder sample are randomly oriented, these two methods will yield the same data.",
+        "bbox": [
+            111,
+            655,
+            883,
+            698
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A powder XRD scan typically represents a plot of scattering intensity v/s. the scattering angle 2θ or the corresponding d-spacing. The peak positions, intensities, widths and shapes all provide important information about the structure of the material.",
+        "bbox": [
+            111,
+            715,
+            885,
+            784
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/7d290a31cac578ef5c2200c237d400f3fc144d2c9598efcece72bd42cf0b492b.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "bbox": [
+            299,
+            98,
+            718,
+            343
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The diffraction from ideal crystalline substances are characterized by well defined Bragg peaks in X-ray diffraction. The crystalline substances have long range order. The amorphous substances do not possess this long range order. So the diffraction from them do not show sharp Bragg peaks. In amorphous phase, X-rays will be scattered in many directions leading to a large bump distributed in a wide range (2θ) instead of high intensity narrower peaks.",
+        "bbox": [
+            111,
+            363,
+            885,
+            479
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Max von Laue, in 1912, discovered that crystalline substances act as three-dimensional diffraction gratings for X-ray wavelengths similar to the spacing of planes in a crystal lattice. X-ray diffraction is based on constructive interference of monochromatic X-rays and a crystalline sample. These X-rays are generated by a cathode ray tube, filtered to produce monochromatic radiation, collimated to concentrate, and directed toward the sample. In principle, X-ray diffractometers consist of three basic elements: an X-ray tube, a sample holder, and an X-ray detector.",
+        "bbox": [
+            111,
+            497,
+            885,
+            636
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a8f0f2407d7a049e5c02be4fc26ccd110c78b5ce1a439f38ae1496f8e07d646.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            264,
+            646,
+            743,
+            880
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/75457723d09a368a0b9fb42d4f4a03b27e891a89b5545d6833bc1bdc8713a835.jpg",
+        "image_caption": [
+            "The X-ray wavelengths are characteristic of the target material (Cu, Fe, Mo, Cr). Filtering, by foils or crystal monochrometers, is required to produce monochromatic X-rays needed for diffraction. $\\mathrm { K } _ { { \\mathfrak { a l } } }$ and $\\mathrm { K } _ { 0 2 }$ are sufficiently close in wavelength such that a weighted average of the two is used. Copper is the most common target material for single-crystal diffraction, with $\\operatorname { C u K } _ { \\alpha } \\operatorname { r a d i a t i o n } = 1 . 5 4 1 8 \\mathrm { \\AA }$ . These X-rays are collimated and directed onto the sample. As the sample and detector are rotated, the intensity of the reflected X-rays is recorded. When the geometry of the incident X-rays impinging the sample satisfies the Bragg Equation, constructive interference occurs and a peak in intensity occurs. A detector records and processes this X-ray signal and converts the signal to a count rate which is then output to a device such as a printer or computer monitor."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            259,
+            90,
+            740,
+            367
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The interaction of the incident rays with the sample produces constructive interference (and a diffracted ray) when conditions satisfy Bragg's Law. This law relates the wavelength of electromagnetic radiation to the diffraction angle and the lattice spacing in a crystalline sample. These diffracted X-rays are then detected, processed and counted. By scanning the sample through a range of 2θ angles, all possible diffraction directions of the lattice should be attained due to the random orientation of the powdered material. Conversion of the diffraction peaks to d-spacings allows identification of the material because each material has a set of unique d-spacings. Typically, this is achieved by comparison of dspacings with standard reference patterns.",
+        "bbox": [
+            111,
+            630,
+            885,
+            815
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BRAGG'SLAWOFDIFFRACTION",
+        "text_level": 2,
+        "bbox": [
+            199,
+            82,
+            699,
+            108
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nopeakisobservedunlesstheconditionforconstructiveinterference (δ=n,with nan integer)ispreciselymet:",
+        "bbox": [
+            202,
+            127,
+            869,
+            170
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "chart",
+        "img_path": "images/e2e6eca1cb0b5f7fcb9883ce414af3a94db0c4d6bd14046a21fa06912de1b85c.jpg",
+        "content": "",
+        "chart_caption": [
+            "When Bragg'sLawissatisfied,\"reflected\"beamsareinphase andinterfereconstructively.Specular\"reflections\"can occuronlyat theseangles."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            223,
+            193,
+            843,
+            400
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The geometry of an X-ray diffractometer is such that the sample rotates in the path of the collimated X-ray beam at an angle θ while the X-ray detector is mounted on an arm to collect the diffracted X-rays and rotates at an angle of 2θ. The instrument used to maintain the angle and rotate the sample is termed a goniometer. For typical powder patterns, data is collected at 2θ from ${ \\sim } 5 ^ { \\circ }$ to 70°, angles that are preset in the X-ray scan.",
+        "bbox": [
+            111,
+            500,
+            885,
+            616
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "15.2. Ways to prepare a powder sample",
+        "text_level": 2,
+        "bbox": [
+            112,
+            638,
+            450,
+            659
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Top-loading a bulk powder into a well:",
+        "text_level": 2,
+        "bbox": [
+            112,
+            664,
+            419,
+            683
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1) Deposit powder in a shallow well of a sample holder. Use a slightly rough flat surface to press down on the powder, packing it into the well.",
+        "bbox": [
+            140,
+            688,
+            883,
+            729
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2) Using a slightly rough surface to pack the powder can help minimize preferred orientation.",
+        "bbox": [
+            140,
+            736,
+            831,
+            755
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3) Mixing the sample with filler such as flour or glass powder may also help minimize preferred orientation.",
+        "bbox": [
+            140,
+            758,
+            885,
+            800
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4) Powder may need to be mixed with a binder to prevent it from falling out of the sample holder",
+        "bbox": [
+            140,
+            806,
+            857,
+            825
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5) Alternatively, the well of the sample holder can be coated with a thin layer of Vaseline.",
+        "bbox": [
+            140,
+            830,
+            808,
+            849
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Dispersing a thin powder layer on a smooth surface:",
+        "text_level": 2,
+        "bbox": [
+            112,
+            90,
+            555,
+            108
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1) A smooth surface such as a glass slide or a Zero Background Holder (ZBH) may be used to hold a thin layer of powder.",
+        "bbox": [
+            140,
+            116,
+            883,
+            156
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a) glass will contribute an amorphous hump to the diffraction pattern.",
+        "bbox": [
+            220,
+            164,
+            740,
+            181
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "b) the ZBH avoids this problem by using an off-axis cut single crystal.",
+        "bbox": [
+            220,
+            188,
+            745,
+            205
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2) Dispersing the powder with alcohol onto the sample holder and then allowing the alcohol to evaporate, often provides a nice, even coating of powder that will adhere to the sample holder.",
+        "bbox": [
+            142,
+            212,
+            883,
+            253
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3) Powder may be gently sprinkled onto a piece of double-sided tape or a thin layer of Vaseline to adhere it to the sample holder.",
+        "bbox": [
+            142,
+            260,
+            883,
+            300
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a) The double-sided tape will contribute to the diffraction pattern.",
+        "bbox": [
+            228,
+            308,
+            709,
+            325
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4) These methods are necessary for mounting small amounts of powder.",
+        "bbox": [
+            151,
+            332,
+            679,
+            349
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5) These methods help alleviate problems with preferred orientation.",
+        "bbox": [
+            151,
+            356,
+            655,
+            372
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6) The constant volume assumption is not valid for this type of sample, and so quantitative and Rietveld analysis will require extra work and may not be possible.",
+        "bbox": [
+            151,
+            380,
+            841,
+            421
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Important characteristics of samples for XRPD:",
+        "text_level": 2,
+        "bbox": [
+            112,
+            452,
+            522,
+            470
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1) A flat plate sample for XRPD should have a smooth flat surface",
+        "text_level": 2,
+        "bbox": [
+            114,
+            503,
+            599,
+            521
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "If the surface is not smooth and flat, X-ray absorption may reduce the intensity of low angle peaks.",
+        "bbox": [
+            112,
+            527,
+            883,
+            570
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Parallel-beam optics can be used to analyze samples with odd shapes or rough surfaces",
+        "bbox": [
+            169,
+            575,
+            803,
+            593
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2) Densely packed",
+        "text_level": 2,
+        "bbox": [
+            112,
+            599,
+            254,
+            617
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3) Randomly oriented grains/crystallites",
+        "bbox": [
+            112,
+            623,
+            410,
+            641
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4) Grain size less than 10 microns infinitely thick",
+        "bbox": [
+            112,
+            647,
+            475,
+            665
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "15.3. Applications",
+        "text_level": 2,
+        "bbox": [
+            112,
+            689,
+            258,
+            707
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "X-ray powder diffraction is most widely used for the identification of unknown crystalline materials (e.g. minerals, inorganic compounds). Determination of unknown solids is critical to studies in geology, environmental science, material science, engineering and biology.",
+        "bbox": [
+            111,
+            723,
+            883,
+            790
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Other applications include:",
+        "bbox": [
+            112,
+            813,
+            313,
+            829
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "characterization of crystalline materials",
+        "bbox": [
+            142,
+            854,
+            464,
+            871
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "identification of fine-grained minerals such as clays",
+        "bbox": [
+            142,
+            877,
+            552,
+            895
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": " determination of unit cell dimensions",
+        "bbox": [
+            140,
+            90,
+            447,
+            106
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "measurement of sample purity",
+        "bbox": [
+            142,
+            114,
+            397,
+            131
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "With specialized techniques, XRD can be used to:",
+        "text_level": 2,
+        "bbox": [
+            112,
+            155,
+            480,
+            172
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": " determine crystal structures using Rietveld refinement",
+        "bbox": [
+            140,
+            196,
+            570,
+            213
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "determine the amounts of minerals (quantitative analysis)",
+        "bbox": [
+            142,
+            222,
+            591,
+            238
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "characterize thin films samples by:",
+        "bbox": [
+            142,
+            246,
+            429,
+            262
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "o determining lattice mismatch between film and substrate and to inferring stress and strain",
+        "bbox": [
+            199,
+            268,
+            880,
+            286
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "o determining dislocation density and quality of the film by rocking curve measurements",
+        "bbox": [
+            199,
+            292,
+            864,
+            310
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "o measuring superlattices in multilayered epitaxial structures",
+        "bbox": [
+            199,
+            316,
+            663,
+            334
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "o determining the thickness, roughness and density of the film using glancing incidence Xray reflectivity measurements",
+        "bbox": [
+            199,
+            340,
+            883,
+            381
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": " make textural measurements, such as the orientation of grains, in a polycrystalline sample",
+        "bbox": [
+            142,
+            388,
+            825,
+            406
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "15.4. Strengths and Limitations of X-ray Powder Diffraction (XRD)?",
+        "text_level": 2,
+        "bbox": [
+            112,
+            430,
+            647,
+            448
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Strengths",
+        "text_level": 2,
+        "bbox": [
+            112,
+            464,
+            194,
+            481
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": " Powerful and rapid (< 20 min) technique for identification of an unknown mineral",
+        "bbox": [
+            140,
+            500,
+            769,
+            517
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": " In most cases, it provides an unambiguous mineral determination",
+        "bbox": [
+            140,
+            525,
+            648,
+            541
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Minimal sample preparation is required",
+        "bbox": [
+            140,
+            547,
+            467,
+            565
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "XRD units are widely available",
+        "bbox": [
+            140,
+            571,
+            408,
+            589
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Data interpretation is relatively straight forward",
+        "bbox": [
+            140,
+            595,
+            522,
+            613
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Limitations",
+        "text_level": 2,
+        "bbox": [
+            112,
+            638,
+            209,
+            655
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Homogeneous and single phase material is best for identification of an unknown",
+        "bbox": [
+            140,
+            674,
+            759,
+            690
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": " Must have access to a standard reference file of inorganic compounds (d-spacings, hkl’s)",
+        "bbox": [
+            142,
+            696,
+            816,
+            715
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Requires atleast 100 mg of material which must be ground into a powder",
+        "bbox": [
+            140,
+            722,
+            705,
+            739
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": " For unit cell determinations, indexing of patterns for non-isometric crystal systems is complicated",
+        "bbox": [
+            140,
+            746,
+            883,
+            762
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": " Peak overlay may occur and worsens for high angle 'reflections'",
+        "bbox": [
+            140,
+            770,
+            640,
+            786
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Determination of an unknown requires: the material, an instrument for grinding, and a sample holder.",
+        "bbox": [
+            112,
+            123,
+            856,
+            141
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Obtain a few tenths of a gram (or more) of the material, as pure as possible",
+        "bbox": [
+            140,
+            165,
+            718,
+            183
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Grind the sample to a fine powder, typically in a fluid to minimize inducing extra strain (surface energy) that can offset peak positions, and to randomize orientation. Powder less than \\~10 μm(or 200-mesh) in size is preferred",
+        "bbox": [
+            140,
+            189,
+            885,
+            253
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Place into a sample holder or onto the sample surface:",
+        "bbox": [
+            142,
+            261,
+            568,
+            279
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "15.5. Determination of an Unknown",
+        "text_level": 2,
+        "bbox": [
+            112,
+            337,
+            395,
+            353
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The d-spacing of each peak is then obtained by solution of the Bragg equation for the appropriate value of λ. Once all d-spacings have been determined, automated search/match routines compare the d’s of the unknown to those of known materials. Because each mineral has a unique set of d-spacings, matching these d-spacings provides an identification of the unknown sample.",
+        "bbox": [
+            111,
+            369,
+            885,
+            460
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cc55e312c3d3c72a1688e8a5105a6cc11d1ca023cabd8a13dd830ff29cacc41.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            116,
+            472,
+            313,
+            622
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "chart",
+        "img_path": "images/7921b454c5a9982d39aa83cf7bfe0fee6f4f8eb598f0687331c1e789332b5bf5.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "bbox": [
+            320,
+            479,
+            676,
+            703
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A systematic procedure is used by ordering the d-spacings in terms of their intensity beginning with the most intense peak. Files of d-spacings for hundreds of thousands of inorganic compounds are available from the International Centre for Diffraction Data as the Powder Diffraction File (PDF). Many other sites contain d-spacings of minerals such as the American Mineralogist Crystal Structure Database. Commonly this information is an integral portion of the software that comes with the instrumentation.",
+        "bbox": [
+            111,
+            719,
+            887,
+            857
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/31fdb05c3f52037a5df4ffbe42b03e49b81e62615af2ace76fe8b3d2f0e087fa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"10\">PDF #461212,Wavelength = 1.540562 (A) -□</td></tr><tr><td>46-1212 Quality: *</td><td colspan=\"8\">cx-Al2 03</td></tr><tr><td>CAS Number:</td><td colspan=\"10\" rowspan=\"2\">Aluminum Oxide Ref: Huang,T et al.,Adv.X-Ray Anal.,33, 295 [1990]</td></tr><tr><td>Molecular Weight:101.96</td></tr><tr><td>Volume[CD]:254.81 Dx3.987 Dm</td><td rowspan=\"2\">4</td><td colspan=\"8\"></td></tr><tr><td>Sys: Hexagonal Lattice:_Rhomb-centered</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0660</td><td></td></tr><tr><td>S.G.: R3c [167] Cell Parameters:</td><td>ptrej g spexi</td><td colspan=\"2\"></td><td></td><td colspan=\"2\"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>a 4.758b c 12.99 x β Y</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.5</td><td>1.3</td><td></td><td></td><td></td></tr><tr><td>SS/FOM: F25=358(.0028, 25)</td><td></td><td></td><td>5.9</td><td>3.0</td><td></td><td>2.0</td><td></td><td></td><td></td><td>d[A]</td><td></td></tr><tr><td>I/lcor: Rad:CuKa1</td><td>dA]</td><td>Int-f</td><td>h</td><td>k 一</td><td>[A]</td><td>Int-f</td><td>h k</td><td>一</td><td>dA]</td><td>Int-f h k</td><td></td></tr><tr><td>Lambda: 1.540562</td><td>3.4797</td><td>45</td><td>0</td><td>24 1</td><td>1.5150</td><td>214</td><td>1 2</td><td>284058</td><td>1.1897</td><td>2 20</td><td></td></tr><tr><td>Filter:</td><td>2.5508</td><td>100</td><td>1</td><td>0</td><td>1.5110</td><td></td><td>0 1</td><td></td><td>1.1600</td><td>21 3</td><td>0 6</td></tr><tr><td>d-sp: diffractometer</td><td>2.3794</td><td>21</td><td>1 1</td><td>0</td><td>1.4045</td><td>23</td><td>2 1</td><td></td><td>1.1472</td><td>3 2</td><td>2 3</td></tr><tr><td>Mineral Name:</td><td></td><td></td><td>0</td><td>0 6</td><td>1.3737</td><td>27</td><td>3 0</td><td></td><td>1.1386</td><td>&lt;1 1</td><td>3 1</td></tr><tr><td>Corundum, syn</td><td>2.1654</td><td></td><td></td><td></td><td>1.3359</td><td></td><td>1 2</td><td></td><td>1.1256</td><td>3</td><td>2</td></tr><tr><td></td><td>2.0853</td><td>266134</td><td>12012</td><td>3 1</td><td>1.2755</td><td>1228</td><td>2</td><td>0</td><td>1.1241</td><td>1</td><td>8</td></tr><tr><td></td><td>1.9643</td><td></td><td></td><td>0 2 2 4</td><td>1.2391</td><td></td><td>1</td><td>010</td><td>1.0990</td><td>239 0</td><td>210</td></tr><tr><td></td><td>1.7400</td><td>89</td><td></td><td>1 6</td><td>1.2343</td><td>12</td><td>1</td><td>1 9</td><td></td><td></td><td></td></tr><tr><td></td><td>1.6015</td><td></td><td>Y</td><td></td><td>1.1931</td><td>1</td><td>2</td><td>1 7</td><td></td><td></td><td></td></tr><tr><td></td><td>1.5466</td><td>1</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            119,
+            90,
+            877,
+            415
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Determination of Unit Cell Dimensions",
+        "text_level": 2,
+        "bbox": [
+            112,
+            433,
+            419,
+            450
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For determination of unit cell parameters, each reflection must be indexed to a specific hkl.",
+        "bbox": [
+            169,
+            468,
+            831,
+            487
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "15.6. Use of Powder diffraction in identification of compounds in Kidney stones",
+        "text_level": 2,
+        "bbox": [
+            112,
+            503,
+            782,
+            522
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Figure given below shows the powder diffraction pattern with different d-spacing. The scale of plot is intensity peak on y-axis and 2θ on x-axis. Uric acid and whewellite are the compounds identified in the kidney stones using powder diffraction pattern.",
+        "bbox": [
+            112,
+            529,
+            885,
+            603
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "chart",
+        "img_path": "images/809a69629f73f1832cc6f380931a271f19f1836cd2fa67fc3599525c7bd70284.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fe:P.23.raw-Star:2.0000-End:80.005-Step:0.007-Stepme13.6s-Anode:Ou-WL.1:1.5406-Creao13.07.201612:21:44 Operations:Smooth0.0g2|Background 0.0o,0.00o|mrt"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            202,
+            608,
+            818,
+            872
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "chart",
+        "img_path": "images/fdf28e208c317db3d93de19c3447b949f3c5632c3731b280fa40fdb54651a421.jpg",
+        "content": "",
+        "chart_caption": [
+            "File: P-23.raw - Start: 2.0000 \\* - End: 80.0058 \\* - Step: 0.0067 \\* - Step time: 13.6 s - Anode: Cu - WL1: 1.5406 - Creation: 13.07.2016 12:21:44 Opessons: Smoeth 0.092 | Background 0.000,0.00o | Import"
+        ],
+        "chart_footnote": [
+            "31-1982(\\*)-Umicathd-CSH6M4O3-Y:50.00%-dxby:1,-WL: 1.5406-Mongdini -1ilcPDF 0.9-S-Q 59.3%-",
+            "7-1962(C)-WawdCaNCOO}2H2O-Y:50.C0%dxby:1.WL:1.506-Monclnc-cPOF1.4-S-Q40.7 %-"
+        ],
+        "bbox": [
+            130,
+            118,
+            866,
+            391
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "15.7. Data formats",
+        "text_level": 2,
+        "bbox": [
+            114,
+            462,
+            274,
+            478
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Powder diffractograms comes in many formats; typically every manufacturer and each synchrotron has their own format. Most manufacturers offer the possibility to transfer the data into a set whose formats are generally accepted. The simplest format of all is the xy-format; one column with 2θ- values and one with recorded intensities. There are some variations of that simple theme, for instance by starting the file with information on wavelength, measuring time etc. Many programs will be able to read the data anyway, but sometimes it is necessary to delete those initial lines. Another common and more compact format is to start with a line giving start, stop and step values in 2θ and in the following lines giving the recorded intensities with ten intensity values per line. One disadvantage with rewriting into the general formats is that the information on the measurement like time, wavelength, diffractometer settings etc, are lost in the translation.",
+        "bbox": [
+            111,
+            513,
+            887,
+            748
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "15.8. Rietveld method:",
+        "text_level": 2,
+        "bbox": [
+            114,
+            794,
+            308,
+            810
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The basic idea behind the Rietveld method is to calculate the entire powder pattern using a variety of refinable parameters and to improve a selection of these parameters by minimizing the weighted sum of the squared differences between the observed and the calculated powder pattern using least squares methods. That way, the intrinsic problem of the powder diffraction method with systematic and accidental peak overlap is overcome in a clever way. It was the intention of Hugo Rietveld, who invented the method a few decades ago, to extract as much information as possible from a powder pattern. At the beginning this was mainly restricted to atomic positions from neutron diffraction patterns. On the other hand, there is much more information hidden in a powder pattern which may be subjected to Rietveld refinement. Simultaneous Rietveld refinements of several datasets can e.g. be used for full texture analysis. In general, fast detectors like image plate readers in combination with powerful microcomputers reveal a new aspect of Rietveld-refinement: time dependence. By recording full powder patterns in short time intervals, the change of the crystal structure in dependence on pressure, temperature or during a chemical reaction is monitored and dynamical processes can be visualized.",
+        "bbox": [
+            111,
+            832,
+            885,
+            898
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            111,
+            90,
+            885,
+            324
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The Rietveld method is a least-squares procedure, which minimizes the quantity",
+        "bbox": [
+            112,
+            342,
+            696,
+            359
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "img_path": "images/f27f0130918d8f7437fe005b1e997a7e65dc22f232f783253a6252f7af93f031.jpg",
+        "text": "$$\nS _ { y } = \\sum _ { i } w _ { i } ( Y _ { i } - Y _ { c i } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            406,
+            412,
+            586,
+            445
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Where, $\\mathrm { Y _ { i } }$ is the observed intensity at point i of the observed powder pattern and $\\mathrm { Y _ { c i } }$ is the calculated intensity. The weight, $\\mathrm { W _ { i } , }$ is based on the counting statistics, $\\mathrm { { \\bf W } i = } \\mathrm { { Y } _ { i } ^ { - 1 } }$ , although at different stages of the refinements it may be advantageous to use for instance $\\mathrm { \\mathbf { W _ { i } } \\mathrm { = Y _ { c i } } \\tilde { \\Phi } ^ { - 1 } }$ . The contribution to $\\mathrm { Y _ { c i } }$ from Bragg reflections, diffraction optics effects and instrumental factors is expressed as",
+        "bbox": [
+            111,
+            477,
+            885,
+            566
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "img_path": "images/1d7743ae86d6c22dae4ceaf985cba768094525ad0e37dc1fbf5eeba2d47fea4d.jpg",
+        "text": "$$\nY _ { c i } \\mathrm { \\large = } s \\sum _ { H } L M _ { H } | F _ { H } | ^ { 2 } \\varphi ( 2 \\theta _ { i } - 2 \\theta _ { H } ) P _ { H } A + Y _ { b i }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            321,
+            597,
+            673,
+            628
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Where,",
+        "bbox": [
+            112,
+            660,
+            171,
+            675
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "s is the overall scale factor,",
+        "bbox": [
+            112,
+            684,
+            316,
+            700
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "H represents the Miller indices for the Bragg reflection,",
+        "bbox": [
+            112,
+            707,
+            517,
+            724
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "L contains the Lorentz and polarization factors,",
+        "bbox": [
+            112,
+            731,
+            460,
+            747
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { M } _ { \\mathrm { H } }$ is the multiplicity,",
+        "bbox": [
+            112,
+            756,
+            279,
+            772
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FH is the structure factor for Hth Bragg reflection, and",
+        "bbox": [
+            112,
+            780,
+            508,
+            796
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\varphi ( 2 \\theta _ { i } - 2 \\theta _ { H } )$ is a profile function, where $2 \\theta _ { i }$ is corrected for the 2θ zero error,",
+        "bbox": [
+            112,
+            804,
+            694,
+            820
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { P _ { H } }$ is a preferred orientation function,",
+        "bbox": [
+            112,
+            829,
+            388,
+            845
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A is the absorption factor,",
+        "bbox": [
+            112,
+            853,
+            307,
+            869
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { Y _ { b i } }$ is the background intensity at step i.",
+        "bbox": [
+            112,
+            877,
+            403,
+            893
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The Bragg reflections contained in the summation at each point of the powder pattern are determined from a sorted list of the possible reflections and their profile widths at 2θi. The structure factor as usual contains the structural information",
+        "bbox": [
+            111,
+            90,
+            885,
+            156
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "img_path": "images/268036e9dbd1c56de896d28bc2f8cd1bbd64a458b690028cf108fdbf298e87af.jpg",
+        "text": "$$\nF _ { H } = \\sum f _ { j } g _ { i } e x p - 2 \\pi i ( h x _ { j } + k y _ { j } + l z _ { j } ) \\mathrm { e x p } ( - B _ { j } s i n ^ { 2 } \\theta / \\lambda ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "bbox": [
+            269,
+            162,
+            725,
+            194
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Where,",
+        "text_level": 2,
+        "bbox": [
+            112,
+            223,
+            171,
+            239
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "fj is the scattering factor, or in the case of neutron data the scattering length, of atom j, gj is the occupancy factor, $\\mathbf { X _ { i } } , \\mathbf { y _ { i } }$ and $\\mathrm { Z i }$ are the fractional coordinates, and $\\mathrm { B _ { j } }$ the temperature factor coefficient. We can obtain the parameters from Eq. $\\begin{array} { r } { S _ { y } = \\sum _ { i } w _ { i } ( Y _ { i } - Y _ { c i } ) ^ { 2 } } \\end{array}$ , by putting its derivatives with respect to its parameters to zero. It gives us a set of non-linear equations, which are as Taylor series, where only the first term is retained.",
+        "bbox": [
+            111,
+            247,
+            879,
+            363
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Rietveld method requires digitized data (i.e., it cannot be used on analogic chart recordings or traces) and knowledge of an approximate structural model (ie., lattice parameters, space group symmetry and fractional atomic coordinates). A number of other starting parameters, mostly instrumental, can be guessed by visual inspection (background coefficients, zero angle, etc.) or refined to reasonable values from arbitrary choices (this is particularly true for the scale factor, which can be determined by linear least squares in a single cycle at the very beginning of the simulation). The most reliable values which can be obtained by a standard Rietveld approach are probably the lattice parameters, since they are less biased by errors in the structural model.",
+        "bbox": [
+            111,
+            395,
+            887,
+            580
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For the three dimensional molecular structure determination using powder XRD, there are some limitations in the Rietveld method. The total number of atoms in the molecule has to be around 30. SIRPOW is a computer program to obtain the molecular structure from the powder pattern. This program is from Prof. C. Giacovazzo’s group from university of Bari, Bari, Italy.",
+        "bbox": [
+            111,
+            601,
+            885,
+            691
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Summary",
+        "text_level": 2,
+        "bbox": [
+            112,
+            747,
+            196,
+            765
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": " The module deals with the introduction of powder X-ray diffraction which is one of the widely used analytical methods to study materials.",
+        "bbox": [
+            142,
+            781,
+            883,
+            821
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": " The module throws light on how to and in what cases the powder diffraction can be used. The conditions and methodology to be followed are detailed.",
+        "bbox": [
+            140,
+            829,
+            883,
+            869
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": " The Bragg’s law of diffraction is explained in detail.",
+        "bbox": [
+            142,
+            877,
+            555,
+            893
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": " The applications of powder XRD are discussed along with the strengths and limitations of technique.",
+        "bbox": [
+            140,
+            89,
+            885,
+            131
+        ],
+        "page_idx": 12
+    }
+]

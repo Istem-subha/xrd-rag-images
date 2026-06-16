@@ -1,0 +1,511 @@
+[
+    {
+        "type": "text",
+        "text": "Powder X-ray Diffraction Protocol/SOP",
+        "text_level": 1,
+        "bbox": [
+            299,
+            90,
+            697,
+            111
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Note: the usage of the machine is NOT allowed without a proper training by the manager of the facility!",
+        "bbox": [
+            140,
+            164,
+            856,
+            200
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction",
+        "text_level": 2,
+        "bbox": [
+            142,
+            217,
+            256,
+            233
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Powder X-ray diffraction (PXRD) is used to gain information about the crystallinity of materials in the solid state. An amorphous (disordered, non-crystalline) material will not diffract, while a material with any ordering/crystallinity, even if mixed with amorphous material, will diffract.",
+        "bbox": [
+            140,
+            251,
+            856,
+            323
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is usually not possible to determine the structure of a material of unknown structure using PXRD, so if a structure determination is desired, single-crystal X-ray diffraction (SCXRD) is the preferred method. Usually with small molecules it is possible to grow crystals of sufficient size (at least \\~30 microns on a side) to perform a SCXRD structure determination. PXRD is useful for materials that cannot be obtained as single crystals, as is generally true for polymers such as biomass or extended-crystalline materials such as metal-organic frameworks.",
+        "bbox": [
+            140,
+            338,
+            856,
+            462
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Even though PXRD generally does not yield a crystal structure, it does offer other information. The presence of known crystalline phases (e.g., AgCl) as impurities in a sample can be determined. For samples with very small crystallite sizes (10-20 nm or smaller), the average crystallite size can be determined using the Scherrer equation. For samples that diffract well, it is often possible to determine the unit cell dimensions. Finally, if the crystal structure of a material is known (usually from a SCXRD structure determination), a theoretical PXRD pattern can be compared to an experimental pattern to determine if a bulk multicrystalline sample is the same material with the same structure.",
+        "bbox": [
+            140,
+            478,
+            857,
+            636
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sample Preparation",
+        "text_level": 2,
+        "bbox": [
+            142,
+            652,
+            318,
+            671
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "If \\~200 mg or more of sample is available, the regular sample holder can be used (see Figure 1 below). Keep in mind that PXRD is a non-destructive technique, so the sample will be unchanged after data collection and can be saved and re-used for other purposes. The height of the sample has a significant effect on the 2θ angle of the peaks observed, and the instrument is adjusted such that the top of the sample should be flush with the top of the outer ring on the sample holder. It is convenient to use a glass microscope slide to tamp down a sample so that it is flat and flush with the top of the sample holder.",
+        "bbox": [
+            140,
+            688,
+            856,
+            813
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The low Zero-background sample holder, at right in Figure 1, is useful and popular, and can work with as little as a few mg of sample. It is a single-crystal piece of silicon, cut at an angle such that no diffraction from it will occur. Your sample can be applied as a powder (again tamping down with a microscope slide so that it is flat and extends only a fraction of a millimeter above the top of the silicon), or as an evaporated film of a polymer, or even as a suspension of solid within a liquid/solvent directly from a reaction mixture. For the last method, be aware that the liquid will attenuate the X-rays that reach the detector, sometimes significantly.",
+        "bbox": [
+            140,
+            827,
+            857,
+            900
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            138,
+            90,
+            856,
+            162
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Once your sample is loaded into either the regular or low-background sample holder, the sample holder is placed on top of the spring-loaded mechanism shown in Figure 1, and the final piece shown at the bottom is locked in place on the top.",
+        "bbox": [
+            140,
+            176,
+            856,
+            232
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a382ad5ba657dd68db902fa6d604a32d715af55d0edf8fc0efa7770c04af80c.jpg",
+        "image_caption": [
+            "Figure 1. PXRD regular sample holder (left), low-background sample holder (right), and spring-loaded sample holder (top and bottom). There is a third sample holder which is more advised to use since this one cut intensities at low angles."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            215,
+            251,
+            748,
+            526
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Collecting Data",
+        "text_level": 2,
+        "bbox": [
+            142,
+            671,
+            279,
+            690
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "First check that the diffractometer is not currently running. If it not, the door can be opened, but only after first pushing the door-open button on the right side of the front face of the diffractometer:",
+        "bbox": [
+            140,
+            707,
+            857,
+            760
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d01b84ef61a28f2d7d796c10958eb8674227266ece1ddb299db5bffe02d9f9b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            418,
+            775,
+            606,
+            901
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mount your sample from the bottom as shown below. It is held in place magnetically.",
+        "bbox": [
+            171,
+            90,
+            848,
+            109
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2fdd7297442edc6c8bb3bad3b94a8efa64ae8eb8e999a23a505841e85c485aa.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            174,
+            159,
+            831,
+            540
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3dae07979dc9585056eff03d978b62a7112040e91d9a78976e5f24c1ace735b2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            173,
+            88,
+            857,
+            486
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note that there are notches in both the sample holder and place where it is mounted. It is best to line them up, in particular if you will collect data below $2 \\theta = 1 0 ^ { \\circ }$ (keep in mind the intensities below 10° will be lower than they supposed to be with this holder). Close the front door of the diffractometer once your sample is in place.",
+        "bbox": [
+            140,
+            503,
+            856,
+            577
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In general you will find the software control program open on the computer, which will look like this:",
+        "bbox": [
+            140,
+            590,
+            854,
+            627
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/154528a5c61db061fbb57140b5662732bde78782f603f4a15678e4b7e419eef3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            171,
+            88,
+            942,
+            425
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At the bottom are most of the parameters used to set up your experiment. The most common experiment type will be a “Coupled TwoTheta/Theta” scan (Do not change it). Some typical parameters are shown below:",
+        "bbox": [
+            140,
+            441,
+            856,
+            496
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/06c0059b6d4ab08d5ff883c2d202fc9ae20d3ea48f664b889488d0589099ac67.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            173,
+            508,
+            782,
+            684
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here 2θ is scanned from $5 ^ { \\circ }$ to $4 0 ^ { \\circ } .$ . If your compound is strongly diffracting and has small unit cell axes (as in inorganic solids such as ZnO), then useful data can be found at higher angles and you can collect to $6 0 ^ { \\circ }$ or more as appropriate. If your compound has big unit cell axes and therefore diffracts at angles less than $5 ^ { \\circ }$ (no lower than $3 ^ { \\circ }$ or higher than 120°), then you can decrease the starting 2θ angle appropriately. However, it is best to decrease the “PSD opening” (position sensitive detector and area detectors, which allow collection from multiple angles at once) to half of the lowest 2θ. For example, if you are starting at $2 \\Theta = 3 ^ { \\circ }$ , then decrease “PSD opening” to 1.5. The last parameter you can adjust is the “Time”. This time corresponds to the time the diffractometer would collect data at each angular increment $( 0 . 0 2 0 4 7 ^ { \\circ }$ in the setup above, preferred increment for publication), even though it is actually performing a continuous scan. Increasing the time will, obviously, increase the total scan time, and will also increase the signal-to-noise of your diffraction pattern. The total time for your scan is calculated and shown at “Effective Total Time,” 371 seconds (just over 6 minutes) in the setup above.",
+        "bbox": [
+            138,
+            703,
+            857,
+            898
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            140,
+            90,
+            856,
+            161
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Some more relevant experimental parameters are found at the left of the screen:",
+        "bbox": [
+            169,
+            178,
+            803,
+            195
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f1dfba0d72d32b61c691f672691c752fa6013401fb9c5c41965c54c08d902a9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            315,
+            208,
+            710,
+            678
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The numbers in the right column are set by the user, and those in the left column reflect the actual instrument state. For example, the X-ray generator is usually set at 40 kV and 40 mA for data collection. If the instrument has been idle for an extended period (30-40 mins), it will go into standby mode at 20 kV and 5 mA (as shown by the numbers at the left), but the settings at the right stay at 40 kV and 40 mA and will ramp up to that automatically when you start the data acquisition. Do not touch the shutter bottoms at any circumstances. Never turn off the X-ray generator.",
+        "bbox": [
+            140,
+            695,
+            856,
+            820
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "You can have your sample rotate, which gives a better averaging over crystallite orientations, by setting “Variable rota” to something like 15 rot/min and clicking the check box. However (true for sample holder in Figure 1, for the usage of the second holder ignore this note), for data below about 10° 2θ, the metal ridges on the sample holder will interfere with data collection. If you have data below 10°, it is advisable not to rotate the sample, but instead set Phi to 0 degrees and click the checkbox for Phi. This will rotate the sample stage such that the notches will align with the source and detector.",
+        "bbox": [
+            140,
+            835,
+            857,
+            907
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            140,
+            89,
+            856,
+            145
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Once the parameters are set, click the start button near the bottom to begin the experiment.",
+        "bbox": [
+            140,
+            160,
+            854,
+            195
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6573812d056d577bb98de4019d6255e96954c186a918ab6491506ac3b3806f93.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            419,
+            210,
+            606,
+            291
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When data collection is complete, save your data by clicking the save icon at the upper left.",
+        "bbox": [
+            140,
+            310,
+            854,
+            347
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/352b285e33a9b45254f1b13f826a5fdd00a88e3d55bf7bdba202217385e52999.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            457,
+            361,
+            571,
+            450
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Save your data in C:\\data\\your folder (create “your folder” if you haven’t already). It is recommended that you save the data in three formats: BRML file (Bruker mark-up language, useful to open your data in Eva or TOPAS), RAW V3 is useful for PXRD based software packages like EVA and X'pert HighScore, and TXT file (which you can later open in Excel or origin for data manipulation and presentation).",
+        "bbox": [
+            140,
+            467,
+            856,
+            558
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Clean up the sample holder and you are done ONLY with alcohols. The control program on the computer remains open and the diffractometer remains on.",
+        "bbox": [
+            140,
+            571,
+            854,
+            609
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Data Presentation",
+        "text_level": 2,
+        "bbox": [
+            171,
+            626,
+            330,
+            642
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PXRD is most commonly used in our group to determine if a material contains any known solids (phase identification) using the following protocol:",
+        "bbox": [
+            140,
+            642,
+            854,
+            678
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1. Prepare a single figure containing the PXRD pattern of the material being characterized along with either measured or calculated PXRDs of known materials.",
+        "bbox": [
+            200,
+            678,
+            856,
+            728
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": " In general, if the PXRD of a known phase is not plotted against the sample, then one cannot say whether that phase is present or absent.",
+        "bbox": [
+            258,
+            729,
+            854,
+            765
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2. Normalize the data on a 0 to 100 scale in order to make visual comparison of all PXRD patterns possible. Use different colors to represent different scans.",
+        "bbox": [
+            199,
+            765,
+            856,
+            800
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. By visually comparing the patterns, assign each PXRD peak from the sample as belonging to one of the known materials or as a new phase.",
+        "bbox": [
+            200,
+            800,
+            854,
+            835
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Depending on the goal of the measurement, certain peaks should be emphasized (for instance, all matching peaks of a known phase to prove that phase was made, all unmatching peaks compared to a starting material to prove a reaction occurred).",
+        "bbox": [
+            199,
+            835,
+            856,
+            906
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Emphasize these peaks in the figure with a circle or box and give the 2-theta and intensity values.",
+        "bbox": [
+            259,
+            92,
+            854,
+            127
+        ],
+        "page_idx": 7
+    }
+]

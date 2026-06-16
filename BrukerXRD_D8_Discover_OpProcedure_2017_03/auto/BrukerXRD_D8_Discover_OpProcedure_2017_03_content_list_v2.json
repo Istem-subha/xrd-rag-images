@@ -1,0 +1,1637 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Operating Procedure for Bruker D8 Discover X-ray Diffractometer"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                117,
+                92,
+                877,
+                114
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Preparation:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                131,
+                215,
+                147
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Log into login computer"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                150,
+                370,
+                167
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Check System Control Buttons (located at the lower right or left of the system. [see below]). Make sure the “Ready” and “On” LED lights are on. If the D8 is at low current and voltage (standby mode), the “Alarm” LED will blink because the chilled water is too cold. As the current/voltage is increased to maximum intensity (normal usage), the “Alarm” LED will stop blinking."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                167,
+                879,
+                256
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/690a63a854dc1b33ad2529e58a7b32429f5cc4f4ca5a5ee56dfa425d8c67be72.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                112,
+                289,
+                267,
+                601
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Stop Button: Emergency Stop!"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                302,
+                281,
+                558,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "If hit, immediately switches off the control electronics and high-voltage generator. X-ray source is turned off and all moving drives will stop instantly"
+                    }
+                ]
+            },
+            "bbox": [
+                300,
+                299,
+                872,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Turn Off Power: Switches off the control electronics, high voltage generator and all components connected to the AC outlets"
+                    }
+                ]
+            },
+            "bbox": [
+                302,
+                352,
+                839,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Turn On Power: Switches on the control electronics, high voltage generator and all components connected to the AC outlets"
+                    }
+                ]
+            },
+            "bbox": [
+                302,
+                397,
+                913,
+                434
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "High Voltage Rotary Switch: Turning the switch to the right position and hold until the orange “X-RAY ON” status LED starts flashing. Powers up High Voltage: “X-RAY ON” will turn solid orange when done powering up."
+                    }
+                ]
+            },
+            "bbox": [
+                300,
+                444,
+                905,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Open Door Button: Under normal operating conditions the door handles are locked by a mechanical latch. To open the front door(s) this button must be pressed first (to release the latch). Then the front door(s) can be opened. Pressing the “Open Door” button while the X-ray tube shutter is open will cause the shutter to close automatically."
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                508,
+                901,
+                597
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Before Loading Specimen:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                621,
+                331,
+                637
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Before opening the D8 door, check for abnormalities in and around the instrument. On the back wall of the D8, the “X-RAY-ON” four red LED and “SHUTTER CLOSED” four green LED lights should be lit."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                638,
+                784,
+                691
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "If XRD Commander is not opened, double-click the icon to open it. The icon is found in the upper right corner of the desktop. Once the software is opened, the computer will communicate with the D8 Discover hardware."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                693,
+                792,
+                744
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cf368d5cf00306ca8d37e740404de0990bbf86ed569a367923aba90b11eac632.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                816,
+                633,
+                877,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "o If XRD Commander was not opened initially, upon opening, all drives must be initialized. Select using the check boxes (preferably two at a time rather than all at once) and click initialize drives button:"
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                746,
+                882,
+                806
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "o Set the primary and secondary optics . There is only one “Default” primary."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                814,
+                828,
+                852
+            ]
+        }
+    ],
+    [
+        {
+            "type": "algorithm",
+            "content": {
+                "algorithm_caption": [],
+                "algorithm_content": [
+                    {
+                        "type": "text",
+                        "content": "Theta: 0 X: 0 2 Theta: 0 Y: 0 Chi: 0 Z: -0.9 Phi: 0"
+                    }
+                ],
+                "algorithm_footnote": []
+            },
+            "bbox": [
+                228,
+                535,
+                393,
+                611
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ced5d337f11f58ca5809fe695e1db05120a6b054c79036ffac9f1bae97ec6dad.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "o If the D8 setup is as shown on the reference page (end of document), the secondary optics is “Pathfinder” (mounted at 350), with the path determined by your desired experiment (either Bragg-Brentano or Triple Mirror). “Default” secondary correlates with a soller slit leading to the detector mount (used for Grazing Incident Detection (GID) (detector mount at 300. Soller slit mounted flush in front of it))."
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1>Secondary Optic Path Name</td><td rowspan=1 colspan=1>Mounting location</td><td rowspan=1 colspan=1>Description</td></tr><tr><td rowspan=1 colspan=1>&quot;Default Optic&quot;</td><td rowspan=1 colspan=1>front of detector at 300.Soller slit in front</td><td rowspan=1 colspan=1> Used for grazing incidencedetection (GID) or to maximizethe amount of signal that reachesthe detector</td></tr><tr><td rowspan=1 colspan=1>&quot;Pathfinder: Variable Slit&quot;</td><td rowspan=1 colspan=1>front of Pathfinder at 350.Detector mounted at adiagonal in the back</td><td rowspan=1 colspan=1>Standard Bragg-Brentanomeasurements</td></tr><tr><td rowspan=1 colspan=1>&quot;Pathfinder: Ge 220 Mirror&quot;</td><td rowspan=1 colspan=1>front of Pathfinder at 350.Detector mounted at adiagonal in the back</td><td rowspan=1 colspan=1>Mirrors cut down on signal</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                122,
+                88,
+                851,
+                300
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Start-Up:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                424,
+                192,
+                440
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Increase voltage (kV) and current (mA) from 20/10 (standby) => 40/40 (operating)"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                443,
+                830,
+                460
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Set absorber to the maximum “5145” value to prevent saturation of the detector."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                460,
+                807,
+                478
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "o NOTE: after changing the pull-down, you have to click “Set” to the left of the menu for the change to occur."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                478,
+                849,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Move drives. <= Enter values into field and press “Move Drives” button."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                513,
+                750,
+                532
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Perform a Detector scan (-1 to 1). If a peak is visible, zero initialize (ZI) the peak value. If there is no observable peak, confirm that you have selected the appropriate primary and secondary optics from the pull-down menu and try again."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                619,
+                883,
+                672
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "o DO NOT click “ZI” if you do not see an observable peak as the software will try to find a peak amongst the noise and may significantly alter the zero value."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                671,
+                870,
+                707
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Set absorber back to “Auto” value."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                708,
+                450,
+                726
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Loading Specimen:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                742,
+                272,
+                760
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• To open the doors, press “Open Door” green button (on system control panel) to disable the mechanical latch. Pull handles toward you and slide both doors open."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                761,
+                869,
+                796
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Mount your sample at the center of the stage (large grey circle) using double-sided tape."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                797,
+                867,
+                832
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To close the doors, slide the doors closed and push handles toward the back of the machine until you hear the “click” of the mechanical latch engaging."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                833,
+                823,
+                869
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "o NOTE: If both handles are not firmly locked, DO NOT continue. Instead, press the “Open Door” button, open the door and shut it again. Failure to close the door properly could result in a full system lock."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                90,
+                852,
+                143
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Optimizing sample position in the beam path:"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                160,
+                478,
+                176
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Perform a Z scan (-0.9 to 1.9), setting the Z position center to the location correlated with intensity (I) at ½ maximum beam (MB)"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                178,
+                879,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "If ½ MB is not visible, spacers need to be added or removed to move the sample to an appropriate z position."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                213,
+                583,
+                265
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8e2d6ecdc7739af665836f5a92aadea1b3f15eebd52c66b6eebb7aa539d65eed.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                104,
+                246,
+                196,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stage can be removed using three hex-key set screws located as shown to the left."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                266,
+                596,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Spacers are metal plates with holes mounted beneath the stage. Each spacer thickness is twice the smaller-size. Default for thin"
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                301,
+                586,
+                352
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/dde22694af2a4ff3115c8b7b10edf20a009ca0f3253463dcab959499124fa2d9.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                624,
+                212,
+                867,
+                347
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "film/materials is two spacers (smallest and medium size)."
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                353,
+                686,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "o Double click on the curve where the intensity is ½ MB"
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                371,
+                668,
+                387
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Perform a rocking curve (-1 to 1), double click on the peak location"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                388,
+                709,
+                405
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "o NOTE: If the peak is not obvious on your sample, you are better off not doubleclicking (leaving theta = 0). Any deviation from zero here will shift your 2 Theta/Omega scan values later."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                406,
+                862,
+                457
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Perform a Z scan (-1 to 1), double click on the curve where the intensity is ½ MB"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                459,
+                816,
+                477
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Perform a preliminary 2 Theta/Omega scan in the range you expect a strong peak. Double click on the peak (this will enter the 2 Theta value into the 2 Theta field)."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                478,
+                882,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Perform a rocking curve (+/- a few degrees equal to ½ the 2 Theta peak). Double click on the peak (this will enter the Theta value into the Theta field)."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                513,
+                880,
+                547
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Perform a Chi scan (-3 to 3), double click on the peak if there is one."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                550,
+                715,
+                568
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Data Collection:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                602,
+                250,
+                618
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Perform a 2 Theta/Omega (note: “omega” = “theta” except that theta and 2 theta are uncoupled) scan. Choose a 2 Theta range that will encompass your target peak(s) (i.e. 28.443 for Si 111 standard) and step size appropriate for the resolution you desire."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                621,
+                851,
+                672
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "o For optimal identification, make sure each peak has a minimum of 3 data points on the rising side and 3 on the falling side."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                672,
+                862,
+                707
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Save the measured data as a “RAW” data file."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                708,
+                539,
+                726
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Shut Down:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                743,
+                214,
+                760
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Set voltage (kV) and current (mA) to 20/10 (standby mode)."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                762,
+                648,
+                780
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Minimize XRD Commander. Do not close the program."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                781,
+                629,
+                797
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Remove sample(s) and clean up."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                800,
+                434,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Transfer data if necessary."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                819,
+                383,
+                835
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Data Processing:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                111,
+                90,
+                253,
+                108
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Load the saved .raw file in Eva."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                108,
+                429,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Process the XRD result with options such as background removal, peak smoothing, and Y-scale etc. in Eva."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                127,
+                866,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Export the processed result to another .raw file. (File > Export > Current Scan (whole data range)"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                162,
+                851,
+                199
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For ease of XRD data processing, we have installed the Bruker software package on one of the computers in Bowen 114 (middle computer of the three computers directly to the right)"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                214,
+                862,
+                251
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Turn on computer, log in using: User: PRZ-53KG3M1\\iacguest and Password: iacguest"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                252,
+                856,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Windows Start button => All Programs => Windows Virtual PC => Windows XP Mode"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                270,
+                849,
+                287
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "o Or alternatively, double-click “Windows XP Mode” icon on desktop"
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                289,
+                769,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "o This will open up an instance of Windows XP in a window."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                306,
+                697,
+                324
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Within XP window: USB => HASP HL 3.25 <Attach>"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                325,
+                589,
+                343
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "o This enables the security license required for the software(s) operation"
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                344,
+                782,
+                362
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Then open the software you need to use. Icons for EVA, Leptos, Topos are available on the XP desktop or through Windows Start => All Programs."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                363,
+                872,
+                398
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Converting .raw to .uxd (Excel/Origin Readable Format):"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                433,
+                571,
+                450
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Load the processed .raw file in File Exchange."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                452,
+                549,
+                469
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Format the conversion parameter. (File > UXD Format)."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                470,
+                620,
+                488
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Raw Data Format: “Angle + Intensity”"
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                487,
+                485,
+                505
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Peak List Format: “Angle + Intensity”"
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                505,
+                480,
+                522
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Special Formatting: “Skip Headers Information” and “,” as the field separator."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                522,
+                792,
+                540
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Convert the .raw to .uxd. (File > Translate > UXD)."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                541,
+                584,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• UXD can be opened by text editing software such as Notepad, Excel, and Origin etc."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                559,
+                843,
+                578
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Remember:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                786,
+                220,
+                803
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Sign the logbook and LOGOUT from the Login system computer."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                803,
+                669,
+                823
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Please contact Paul Shao (8-3851. pshao@princeton.edu, Andlinger Bldg) or Nan Yao (8- 6394. nyao@princeton.edu, 033 Andlinger Bldg) if you have any problems."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                837,
+                877,
+                875
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7514cb23d2b7949c640eeaa5e3afea13804d353b0143e70b5859bb8fd0b877e9.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Reference Diagrams:"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "D8 Discover (Diagram) Top-Down View"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                122,
+                972,
+                513
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fb06d591b56b89f5e7da5b718b64d905b18e1085404279f7750c0b97d6b18601.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                37,
+                582,
+                1000,
+                933
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fc04d498c714fbeef74b1f20df8252ad8dedb1398b05d03ced14767d8a14ec15.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                205,
+                147,
+                599,
+                550
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Emergency Information:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                632,
+                375,
+                648
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Medical Emergencies: Contact 911 and Public Safety (609) 258-1000"
+                    }
+                ]
+            },
+            "bbox": [
+                228,
+                648,
+                692,
+                665
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Room / facility emergencies: Contact Public Safety (609) 258-1000"
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                664,
+                678,
+                679
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Issues related to the instrument:"
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                680,
+                455,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Contact IAC Staff."
+                    }
+                ]
+            },
+            "bbox": [
+                289,
+                695,
+                441,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. If unsure, leave system as is."
+                    }
+                ]
+            },
+            "bbox": [
+                289,
+                710,
+                513,
+                724
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Try to turn off X-rays and shut down system."
+                    }
+                ]
+            },
+            "bbox": [
+                289,
+                726,
+                619,
+                741
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Audible/Siren Emergency Alerts:"
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                741,
+                452,
+                756
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Follow previous steps 2 & 3 and leave the building."
+                    }
+                ]
+            },
+            "bbox": [
+                307,
+                756,
+                650,
+                771
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Emergency Contact Information:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                806,
+                442,
+                824
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Nan Yao: Office (609)258-6394; Cell (908) 922-2236 Email: nyao@princeton.edu John Schreiber: Office (609)258-0034; Cell (215) 431-4670 Email: js51@princeton.edu Paul Shao: Office (609)258-3851; Cell (847) 721-086 Email: pshao@princeton.edu"
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                832,
+                867,
+                880
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Stage:"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                90,
+                168,
+                108
+            ]
+        }
+    ]
+]

@@ -1,0 +1,4021 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Thin film Characterization Techniques"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                270,
+                86,
+                726,
+                108
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Introduction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                123,
+                305,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The growth mechanism and properties of the films can be well understood by their characterizations using a variety of investigative techniques. The optimization is the most important aspect to control material processing and regularize sensor performance. Before using the films in applications, one has to characterize the films to achieve optimum performance of the films prepared. The complete characterization of any material consists of phase analysis, compositional characterization, structural elucidation, micro-structural analysis and surface characterization, which have strong bearing on the properties of materials. In this section, the structural, morphological, electrical and optical analysis was carried out by X-ray diffraction, field emission scanning electron microscope (FESEM), Atomic force microscope (AFM), electrical resistivity, optical spectroscopy, etc. Further, gas sensing performance of the as-characterized undoped and doped ZnO films was tested using a homemade gas sensor assembly."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                152,
+                852,
+                574
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The intent of this section is to facilitate the comprehension of the work by an inexperienced reader in characterization and, in some way, to include a general description of a group of essential characterization techniques in a clear way. For that, different analytical instrumental techniques used to characterize our thin films are described with relevant principles of their operation and working."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                581,
+                853,
+                746
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Differential Thermal Analyses and Thermo Gravimetric Analysis Thermal analysis includes a group of techniques in which physical and chemical property of a substance is measured as a function of temperature while the substance is subjected to a controlled temperature program in different gas environments. Modern thermal analysis instrument measures phase transition temperature, weight losses in materials, and energies of transitions, dimensional changes, and modulus and viscoelastic properties. Current applications include environmental measurements, product reliability, compositional analysis, stability, chemical reactions and dynamic properties."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                783,
+                850,
+                890
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                927,
+                505,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                144,
+                85,
+                852,
+                249
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "a. Differential Thermal Analysis (DTA)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                286,
+                549,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In DTA, the temperature of a sample and a thermally inert reference material are measured as a function of temperature (usually sample temperature). Any phase transition that the sample undergoes will result in liberation or absorption of energy by the sample with a corresponding deviation of its temperature from that of the reference. This differential temperature (DT) versus the programmed temperature (T) at which the whole system is being changed yields the temperature of transitions and the nature of the transition such as exothermic or endothermic."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                316,
+                835,
+                537
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "b. Thermo Gravimetric Analysis (TGA)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                574,
+                554,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It provides a quantitative measurement of any weight change associated with a transition. Thermogravimetric can directly record the loss or gain in weight with time or temperature due to oxide phase formation, dehydration or decomposition. Thermogravimetric curves are characteristic for a given compound or systems because of the unique sequence of physiochemical reactions, which occur over definite temperature ranges and at rates that are function of the molecular structures. Changes in weight are due to rupture or formation of various physical and chemical bonds at elevated temperatures that lead to the evolution of volatile products or the formation of heavier reaction products."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                601,
+                831,
+                910
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                927,
+                507,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "From such curves data are obtained concerning the thermodynamics and kinetics of the various chemical reactions, reaction mechanism and the intermediate and final reaction products. The usual temperature range is from ambient to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 0 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with inert or reactive atmospheres. All weightchange processes absorb or release energy and are thus measurable by DTA or DSC, but not all energy-change processes are accompanied by changes in weight. This difference in the two techniques enables a clear distinction to be made between physical and chemical changes when the samples are subjected to both DTA and TGA tests."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                85,
+                836,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In general, each substance will give a DSC or DTA curve whose shape, number and position of the various endothermic and exothermic features serve as a means of qualitative and quantitative identification of the substance. When an endothermic change occurs the sample temperature lags behind the reference temperature because of the heat in the sample. The initiation point for a phase change or chemical reaction is the point at which the curve first deviates from the base line."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                343,
+                847,
+                537
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When the transition is complete thermal diffusion brings the sample back to equilibrium quickly. The peak (or minimum) temperature indicates the temperature at which the reaction is completed. Endotherms generally represent physical rather than chemical changes. Sharp endotherms are indicative of crystalline rearrangements, fusion, or solid-state transition for relatively pure materials. Broader endotherms cover behavior ranging from dehydration, temperature-dependent phase behaviors to melting of polymers. Exothermic behavior (without decomposition) is associated with the decrease in enthalpy of a phase or chemical system. Narrow exotherms usually indicate crystallization (ordering) of a metastable system, whether it is super cooled organic, inorganic, amorphous polymer or liquid, or annealing of stored energy resulting from mechanical stress."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                544,
+                845,
+                910
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                927,
+                505,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Broad exotherms denote chemical reactions, polymerization or curing of thermosetting resins. Exotherms with decomposition can be either narrow or broad depending on kinetics of the behavior. The area of exotherms or endotherms can be used to calculate the heat of the reaction or the heat of a phase formation."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                85,
+                848,
+                221
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Specifications"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                229,
+                294,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is SDT-2960 from TA Instruments, USA. It is capable of performing both DSC and TGA at the same time. DTA can also be carried out using SDT 2960. It measures the heat flow and weight changes associated with transitions and reactions in material over the temperature range from RT to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 0 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". These experiments can be carried out in either of the optional environment like N2, O2, Ar or air at pre decided flow-rate (ml/min) and heating rate (°C/min). The gas-switching accessory is used to turn on and off or to switch between two different purge gases during SDT experiment. Heat-flow accuracy is equal to 1 % where as DTA sensitivity is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 0 1 \\ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and that of weight is 0.1 μ gm. This SDT- 2960 controller is connected to PC and the special software makes the thermal analysis. It stores the data as well as runs the analysis programs."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                258,
+                853,
+                595
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Thickness Measurement"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                632,
+                423,
+                650
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The thickness of the film is the most significant parameter that affects the properties of the thin film. It may be measured either by in situ monitoring of the rate of the deposition or after the film is taken out from deposition chamber. Technique of the first type often referred to as monitor methods generally allow both monitoring and controlling of deposition rate film thickness. Any known physical quantity related to film thickness can be used to measure the thickness. The method chosen should be convenient, reliable and simple."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                659,
+                845,
+                882
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                505,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "One of the most convenient and advanced methods for determining film thickness is surface profilometer method. Basically, profilometer is a measuring instrument used to measure a surface's profile, in order to quantify its roughness. Vertical resolution is usually in the nanometer level, though lateral resolution is usually poorer."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                85,
+                831,
+                221
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Contact Profilometer"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                229,
+                368,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A diamond stylus is moved vertically in contact with a sample and then moved laterally across the sample for a specified distance and specified contact force. A profilometer can measure small surface variations in vertical stylus displacement as a function of position."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                258,
+                826,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A typical profilometer can measure small vertical features ranging in height from 10 nm to 1 mm. The height position of the diamond stylus generates an analog signal which is converted into a digital signal stored, analyzed and displayed. The radius of diamond stylus ranges from 20 nm to 25 μm, and the horizontal resolution is controlled by the scan speed and data signal sampling rate. The stylus tracking force can range from less than 1 to 50 milligrams."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                373,
+                843,
+                564
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Non-contact Profilometer"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                575,
+                411,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "An optical profilometer is a non-contact method for providing much of the same information as a stylus based profilometer. There are many different techniques which are currently being employed, such as laser triangulation (triangulation sensor), confocal microscopy (used for profiling of very small objects) and digital holography."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                602,
+                825,
+                738
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to measure the film thickness, a ‘step’ has to be made on the film (either by doctor blade or by dipping the film in acidic medium)."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                746,
+                847,
+                795
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "While measurement the stylus is scanned over this step at various (step) positions and the average step height will prove the film thickness."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                803,
+                836,
+                852
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Roughness is a measure of the texture of a surface. It is quantified by the vertical deviations of a real surface from its ideal form."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                860,
+                840,
+                909
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                927,
+                505,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "If these deviations are large, the surface is rough; if they are small the surface is smooth. Roughness is typically considered to be the high frequency, short wavelength component of a measured surface."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                85,
+                816,
+                164
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c348ae03bc8c593c9baaab838f712232fde46a708dc22aa2013d3f867041e1a6.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Surface Profilometer"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                253,
+                179,
+                803,
+                491
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. X-Ray Diffraction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                575,
+                366,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X-ray diffraction (XRD) is a powerful technique used to uniquely identify the crystalline phases present in materials and to measure the structural properties (strain state, grain size, epitaxy, phase composition, preferred orientation, and defect structure) of these phases. XRD is also used to determine the thickness of thin films and multilayers, and atomic arrangements in amorphous materials (including polymers) and at interfaces. XRD offers unparalleled accuracy in the measurement of atomic spacing and is the technique of choice for determining strain states in thin films. XRD is noncontact and nondestructive, which makes it ideal for in situ studies. The intensities measured with XRD can provide quantitative, accurate information on the atomic arrangements at"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                604,
+                853,
+                913
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                927,
+                507,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "interfaces (e.g., in multilayers). Materials composed of any element can be successfully studied with XRD, but XRD is most sensitive to high-Z elements, since the diffracted intensity from these is much larger than from low-Z elements. As a consequence, the sensitivity of XRD depends on the material of interest."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                85,
+                838,
+                221
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/98f1fb57d39a835a1a3dc28e8bdde3dc115cc4477a71b188c9d4f0e2bf5ef993.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Schematics of X-ray Diffractometer"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                245,
+                230,
+                747,
+                495
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This figure shows the schematics of X-ray diffractometer. Diffraction in general occurs only when the wavelength of the wave motion is of the same order of magnitude as the repeat distance between scattering centers."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                542,
+                831,
+                648
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This condition of diffraction is nothing but Bragg’s law and is given as,"
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                656,
+                831,
+                676
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "2 \\mathsf { d } \\sin \\Theta = \\mathsf { n } \\lambda",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/43a2e3a168af0a4ded4558271756f4222d3532afd9f644972982c8b23a41947e.jpg"
+                }
+            },
+            "bbox": [
+                379,
+                686,
+                517,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where, d = interplaner spacing, Ө= diffraction angle, λ = wavelength of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { X - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ray, n = order of diffraction."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                714,
+                850,
+                763
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                927,
+                505,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/92b54cb2dcdf33fb65089a55e5aeaf64618f8c0c378da1e0672518b54efe05e2.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1: X-ray diffraction methods"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Method</td><td rowspan=1 colspan=1>入</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Laue Method</td><td rowspan=1 colspan=1>Variable</td><td rowspan=1 colspan=1>Fixed</td></tr><tr><td rowspan=1 colspan=1>Rotating CrystalMethod</td><td rowspan=1 colspan=1>Fixed</td><td rowspan=1 colspan=1>Variable(in part)</td></tr><tr><td rowspan=1 colspan=1>Powder Method</td><td rowspan=1 colspan=1>Fixed</td><td rowspan=1 colspan=1>Variable</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                139,
+                140,
+                858,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In crystalline solids the atoms are ordered in particular repeated pattern referred as unit cell with its interatomic spacing comparable to wave length of x-rays (0.5 to 2.5Å). Hence crystals are the best gratings for the diffraction of x-rays. The directions of diffracted x-rays give information about the atomic arrangements and hence the crystal structure and phase formation can be confirmed by x-ray diffraction studies."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                318,
+                852,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The way of satisfying Bragg’s condition is devised and this can be done by continuously varying either l or q during the experiment. The way, in which these quantities are varied, distinguish the three main diffraction methods and tabulated in Table 1."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                489,
+                852,
+                596
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In powder method the crystal to be examined is reduced to a fine powder and placed in a beam of a monochromatic x-rays. Each particle of the powder is the tiny crystal, or assemblage of smaller crystals, oriented at random with respect to incident beam. Some of the crystals will be correctly oriented so that their (100) planes, for example, can reflect the incident beam. Other crystals will be correctly oriented for (110) reflections and so on. The result is that every set of lattice planes will be capable of reflection. This is the principle of a powder diffractometer."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                605,
+                853,
+                828
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ideally, according to Bragg’s law, for the particular d value, the constructive interference of x-rays should occur only at particular Ө value i. e Bragg’s angle and for all other angles there should be destructive interference and intensity of diffracted beam will be minimum there."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                834,
+                852,
+                884
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                927,
+                507,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                144,
+                85,
+                852,
+                134
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Identification of Phases"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                142,
+                389,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "One of the most important uses of thin-film XRD is phase identification. Although other techniques (e.g., RBS, XPS, and XRF) yield film stoichiometries, XRD provides positive phase identification. This identification is done by comparing the measured d-spacing in the diffraction pattern and, to a lesser extent, their integrated intensities with known standards in the JCPDS Powder Diffraction File (Joint Committee on Powder Diffraction Standards, Swathmore, Pennsylvania, 1986) and the reflections can be indexed with Miller indices."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                172,
+                853,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "However, if the size of the diffracting tiny crystal is small, there is no more complete destructive interference at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { q } } { \\pm } \\_ { \\mathsf { q } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which broadens the peak corresponding to diffracted beam in proportion to the size of the tiny crystal. This can be used to calculate the particle size. The relation for the same is given by Debye-Scherer and formulated as,"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                401,
+                853,
+                537
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm { D = 0 . 9 \\ : \\lambda / \\beta \\cos { \\Theta _ { B } } }",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e9c6f093f039f66638177b3af6f5e12e0681c54ff5ed7835aab8cbfb1f575352.jpg"
+                }
+            },
+            "bbox": [
+                309,
+                544,
+                509,
+                564
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Where, D =particle size, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Theta _ { \\mathbf { B } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "=diffraction angle, λ =wavelength of X-rays and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "line broadening at Full Width at Half Maxima (FWHM)."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                573,
+                852,
+                623
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Further, the powder diffractometer can also be used for X-ray diffraction from thin films. Epitaxial or polycrystalline (may or may not be oriented) thin films can be considered as single crystal or powder (crystals or assembly of crystals spread on substrate) respectively."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                631,
+                852,
+                738
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hence, a typical epitaxial or oriented film may not show all corresponding reflections and show only few reflections for example say, a c-axis oriented film will show only (hkl) for which h and k indices are zero and l is non zero. However, these hidden peaks can be detected by small angle X-ray diffraction technique."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                745,
+                852,
+                882
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                927,
+                505,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Transmission Electron Microscopy (TEM)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                85,
+                610,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Transmission electron microscopy (TEM) is an imaging technique whereby a beam of electrons is focused onto a specimen causing an enlarged version to appear on a fluorescent screen or a layer of photographic film, or to be detected by a CCD camera."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                108,
+                853,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Virtually, TEM is useful for determining size, shape and arrangement of the particles which make up the specimen. Transmission electron microscopy (TEM) is typically used for high resolution imaging of thin films of a solid sample for Nano structural and compositional analysis."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                195,
+                853,
+                280
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The technique involves: (i) irradiation of a very thin sample by a high energy electron beam, which is diffracted by the lattices of crystalline or semi crystalline material and propagates along different directions, (ii) imaging and angular distribution analysis of the forward-scattered electrons (unlike SEM where back scattered electrons are detected), and (iii) energy analysis of the emitted X-rays."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                284,
+                852,
+                413
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The topographic information obtained by TEM in the vicinity of atomic resolution can be utilized for structural characterization and identification of various phases of mesoporous materials, viz., hexagonal, cubic or lamellar. TEM also provides real space image on the atomic distribution in the bulk and surface of a nanocrystal."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                416,
+                852,
+                523
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "TEM operates on principles similar to that of the optical microscope. The sample illumination source in a TEM is a beam of electrons. This beam of electrons travels through a column under vacuum and is then focused into a very narrow beam with electromagnetic lenses. Some electrons will scatter and those that do not scatter strike a fluorescent screen giving rise to a contrast image based on sample density. Since the limit of resolution is in the order of a few angstroms, it is a very useful and powerful tool for nanoparticles characterization. Low resolution TEM can generally provide information regarding the size and overall shape of the sample and is routinely used to elucidate such information."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                526,
+                853,
+                745
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                927,
+                510,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6999d389454255018eec9ed75340283bb0ff25c60cea434b9fe98da7d12388a4.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Ray Diagram of Transmission Electron Microscope"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                386,
+                89,
+                726,
+                430
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The ray diagram of TEM is shown in the figure. The accelerated ray of electrons passes a drill-hole at the bottom of the anode. The lens-systems consist of electronic coils generating an electromagnetic field. The ray is first focused by a condenser. It then passes through the object, where it is partially deflected. The degree of deflection depends on the electron density of the object. The greater the mass of the atoms, the greater is the degree of deflection. After passing the object the scattered electrons are collected by an objective. Thereby an image is formed, that is subsequently enlarged by an additional lens-system (called projective with electron microscopes). Thus the formed image is made visible on a fluorescent screen or it is documented on photographic material. Photos taken with electron microscopes are always black and white."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                482,
+                853,
+                821
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                927,
+                510,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Scanning Electron Microscopy (SEM)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                85,
+                564,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Scanning electron microscope (SEM) is an instrument that is used to observe the morphology of the sample at higher magnification, higher resolution and depth of focus as compared to an optical microscope shown in figure."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                114,
+                852,
+                221
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5847af2c3714de2d0b67002f38684f40b7b8f464d3f652b5507a673006603c01.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                273,
+                261,
+                709,
+                613
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Schematic representation of scanning electron microscope"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                203,
+                643,
+                793,
+                663
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Basically SEM is used for topographical and compositional observations of surfaces, elemental analysis of specimen, internal structure observation, internal characteristics observation, crystalline structure and magnetic domain observation. Mostly scanning electron microscopy is convenient method for grain size determination and studying the microstructural aspects."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                680,
+                852,
+                845
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Electron interaction with elements has been extensively used for the characterization of materials. Scattering of electron from the electrons of the atom results into secondary and backscattered electrons. These scattered electrons give information about the microstructure of sample in the form of image. These images are classified as (a) secondary electron image and (b) backscattered electron image."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                853,
+                855,
+                902
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                927,
+                510,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                144,
+                85,
+                852,
+                192
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A secondary electron image is most generally used to study, the surface topography. In this case, detector is sensitive to electrons that emerge from the specimen to produce a synchronous visual display of the signal on a cathode ray tube screen. With energy > 50 eV are produce by the electron gun, several electromagnetic lenses then focuses this into narrow beam of nearly 2 nm diameter on the sample then the electron beam is scanned across the specimen by the use of scan coils."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                200,
+                852,
+                393
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The secondary electron current produced will vary according to the condition mentioned below."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                401,
+                852,
+                449
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) Acceleration potential of incident beam."
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                458,
+                556,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) The surface morphology and by specially the angle which incident beam, makes with any particular surface site."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                487,
+                850,
+                536
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) The density of any surface site which influences penetration of the incident beam and absorption of the secondary electron."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                545,
+                852,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) The surface chemistry and crystallography, which influences the potential barrier of secondary emission."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                601,
+                850,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5) The local surface charge accumulation."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                659,
+                546,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Interaction of electrons with elements is well understood and has been extensively used for characterizing of the materials. As the electrons can be focused to micron or submicron size, it is well suited for analyzing sub-micron sized areas or features. When an electron strikes the atom, variety of interaction products are evolved. This figure shows the regions from which different signals are detected."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                718,
+                852,
+                881
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                927,
+                510,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cc3141bc7e30797bcb15e93880e6ea2ddb3cdb9bd4cf2e531d46be82a6645fc7.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Illustration of several signals generated by the electron beam-specimen interaction in the SEM and the regions from which the signals can be detected."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                366,
+                91,
+                699,
+                310
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Scattering of electron from the electrons of the atom results into production of backscattered electrons and secondary electrons. Electron may get transmitted through the sample if it is thin. Primary electrons with sufficient energy may knock out the electron from the inner shells of atom and the excited atom may relax with the liberation of Auger electrons or X-ray photons. All these interactions carry information about the sample. Scanning electron microscope is an instrument that uses electrons instead of light waves which are used in conventional microscopes, to observe the morphology of a sample at higher magnification, higher resolution and depth of focus."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                397,
+                853,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Of these, backscattered electrons, secondary electrons and transmitted electrons give information about the microstructure of the sample."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                684,
+                852,
+                734
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Auger electron, ejected electrons and X-rays are energies specific to the element from which they are coming. These characteristic signals give information about the chemical identification and composition of the sample."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                741,
+                853,
+                848
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                927,
+                510,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "The SEM work principle is as follows:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                86,
+                537,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Using an electron gun a beam of electrons produces. Electrons may be emitted from a conducting cathode material either by heating it to the point where outer orbital electrons gain sufficient energy to overcome the work function barrier of the conductor (thermionic sources) or by applying an electric field sufficiently strong that electrons \"tunnel\" through the barrier (field emission sources). Tungsten filament is used as cathode in electron guns. The energy required for a material to give up electrons is related to its work function. For Tungsten this energy is around 4.5 eV."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                114,
+                853,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. The electron beam follows a vertical path through the microscope, which is held within a vacuum. The beam travels through electromagnetic fields and electromagnetic lenses, which focus the beam down toward the sample. Once the beam hits the sample, electrons and X-rays are ejected from the sample."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                373,
+                852,
+                507
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Detectors collect these X-rays, backscattered electrons, and secondary electrons and convert them into a signal that is sent to a screen similar to a television screen. This produces the final image."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                517,
+                852,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In scanning electron microscopy, (SEM) an electron beam is scanned across a sample's surface. When the electrons strike the sample, a variety of signals are generated, and it is the detection of specific signals which produces an image or a sample's elemental composition."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                602,
+                852,
+                708
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The three signals which provide the greatest amount of information in SEM are the secondary electrons, backscattered electrons, and X-rays."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                718,
+                852,
+                765
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Secondary electrons are emitted from the atoms occupying the top surface and produce a readily interpretable image of the surface. The contrast in the image is determined by the sample morphology. A high resolution image can be obtained because of the small diameter of the primary electron beam."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                775,
+                853,
+                909
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                927,
+                510,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Backscattered electrons are primary beam electrons which are 'reflected' from atoms in the solid. The contrast in the image produced is determined by the atomic number of the elements in the sample. The image will therefore show the distribution of different chemical phases in the sample. Because these electrons are emitted from a depth in the sample, the resolution in the image is not as good as for secondary electrons."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                85,
+                853,
+                250
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c5856b6563922b29818986a154ef6872e9994ca05c5e8fc2a315c3e925a4b16f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Schematic Diagram of Scanning Electron Diagram(SEM)"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                373,
+                299,
+                744,
+                568
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Interaction of the primary beam with atoms in the sample causes shell transitions which result in the emission of an X-ray. The emitted X-ray has an energy characteristic of the parent element. Detection and measurement of the energy permits elemental analysis (Energy Dispersive X-ray Spectroscopy or EDS). EDS can provide rapid qualitative, or with adequate standards, quantitative analysis of elemental composition with a sampling depth of 1-2 microns. X-rays may also be used to form maps or line profiles, showing the elemental distribution in a sample surface."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                637,
+                853,
+                889
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "16"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                927,
+                510,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Why Conductive Samples?"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                85,
+                423,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Specimens must be electrically conductive, at least at the surface, and electrically grounded to prevent the accumulation of electrostatic charge at the surface. Metal objects require little special preparation for SEM except for cleaning and mounting on a specimen stub. Non-conductive specimens tend to charge when scanned by the electron beam, and especially in secondary electron imaging mode, this causes scanning faults and other image artifacts. They are therefore usually coated with an ultra-thin coating of electrically conducting material, commonly gold, deposited on the sample either by low vacuum sputter coating or by high vacuum evaporation. Conductive materials currently use for specimen coating include gold, gold/palladium alloy, platinum, osmium, iridium, tungsten, chromium and graphite. Coating prevents the accumulation of static electric charge on the specimen during electron irradiation."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                114,
+                853,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Two reasons for coating, even when there is enough specimen conductivity to prevent charging, are to increase signal and surface resolution, especially with samples of low atomic number (Z)."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                488,
+                852,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The improvement in resolution arises because backscattering and secondary electron emission near the surface are enhanced and thus an image of the surface is formed."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                574,
+                852,
+                651
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Field emission Scanning Electron Microscopy (FESEM)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                156,
+                659,
+                726,
+                680
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Field emission Scanning Electron Microscopy or FESEM uses field emission gun instead of typical electron gun sources. A field emission gun is a type of electron gun in which a sharply-pointed Muller-type emitter is held at several kilovolts negative potential relative to a nearby electrode, so that there is sufficient potential gradient at the emitter surface to cause field electron emission. Emitters are either of coldcathode type, usually made of single crystal tungsten sharpened to a tip radius of about 100 nm, or of the Schottky type, in which thermionic emission is enhanced by barrier lowering in the presence of a high electric field."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                687,
+                853,
+                910
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                489,
+                927,
+                510,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                144,
+                85,
+                852,
+                133
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Schottky emitters are made by coating a tungsten tip with a layer of zirconium oxide, which has the unusual property of increasing in electrical conductivity at high temperature."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                142,
+                853,
+                221
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In electron microscopes, a field emission gun is used to produce an electron beam that is smaller in diameter, more coherent and with up to three orders of magnitude greater current density or brightness than can be achieved with conventional thermionic emitters such as tungsten or lanthanum hexaboride (LaB6)-tipped filaments."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                229,
+                852,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The result in both scanning and transmission electron microscopy is significantly improved signal-to-noise ratio and spatial resolution, and greatly increased emitter life and reliability compared with thermionic devices."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                372,
+                852,
+                479
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e8ee04afcaa3bb4a13e6f9037667672a53c64b86065adb2cc2c7580f1207699b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2: Comparison of thermionic and field emission guns"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Type of Gun</td><td rowspan=1 colspan=1>Brightness (A/mm sr)</td><td rowspan=1 colspan=1>Source Diameter(um)</td></tr><tr><td rowspan=1 colspan=1>Tungsten Hairpin</td><td rowspan=1 colspan=1> $\\overline { { 1 0 ^ { 2 } – 1 0 ^ { 3 } } }$ </td><td rowspan=1 colspan=1>50</td></tr><tr><td rowspan=1 colspan=1>Tungsten point,thermionic LaB6</td><td rowspan=1 colspan=1> $\\overline { { 1 0 ^ { 3 } – 1 0 ^ { 4 } } }$ </td><td rowspan=1 colspan=1>1-10</td></tr><tr><td rowspan=1 colspan=1>Tungsten point, Fieldemission</td><td rowspan=1 colspan=1>106</td><td rowspan=1 colspan=1>0.01-0.1</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                139,
+                542,
+                858,
+                747
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "18"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                927,
+                510,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Atomic Force Microscopy (AFM)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                85,
+                510,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The principal behind the operation of an AFM in the contact mode is shown in this figure."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                114,
+                852,
+                162
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/12cb1680fadc4d100c0a88802005feb78e637e19f7764be652ac687e1cecc69f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Schematic diagram showing the operation principles of the AFM in contact mode."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                284,
+                181,
+                705,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The AFM tip is first brought (manually) close to the sample surface, and then the scanner makes an ultimate adjustment in tip–sample distance based on a set point determined by the user. The tip, now in contact with the sample surface through any adsorbed gas layer, is then scanned across the sample under the action of a piezoelectric actuator, either by moving the sample or the tip relative to the other. A laser beam aimed at the back of the cantilever–tip assembly reflects off the cantilever surface to a split photodiode, which detects the small cantilever deflections. A feedback loop, shown schematically in figure, maintains constant tip–sample separation by moving the scanner in the z direction to maintain the set point deflection. Without this feedback loop, the tip would “crash” into a sample with even small topographic features (although this phenomenon can happen even with careful AFM operation)."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                545,
+                853,
+                912
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                927,
+                510,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "By maintaining a constant tip-sample separation and using Hooke’s Law (F = - k x) where F is force, k is the spring constant, and x is the cantilever deflection), the force between the tip and the sample is calculated. Finally, the distance the scanner moves in the z direction is stored in the computer relative to spatial variation in the x-y plane to generate the topographic image of the sample surface."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                85,
+                853,
+                250
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Modes of operation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                286,
+                349,
+                306
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Contact Mode"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                316,
+                299,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the so-called contact-AFM mode, the tip makes soft “physical contact” with the surface of the sample. The deflection of the cantilever is proportional to the force acting on the tip, via Hook’s law. In contactmode the tip either scans at a constant small height above the surface or under the conditions of a constant force. In the constant height mode the height of the tip is fixed, whereas in the constant-force mode the deflection of the cantilever is fixed and the motion of the scanner in z direction is recorded. By using contact-mode AFM, even “atomic resolution” images are obtained."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                343,
+                847,
+                594
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Non-Contact Mode"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                602,
+                347,
+                621
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In this mode, the probe operates in the attractive force region and the tipsample interaction is minimized. The use of non-contact mode allowed scanning without influencing the shape of the sample by the tip (sample forces. In most cases, the cantilever of choice for this mode is the one having high spring constant of 100 N/m so that it does not stick to the sample surface at small amplitudes. The tips mainly used for this mode are silicon probes."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                631,
+                840,
+                825
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "21"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                510,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Tapping Mode (intermittent contact Mode)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                86,
+                588,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In tapping mode-AFM the cantilever is oscillating close to its resonance frequency an electronic feedback loop ensures that the oscillation amplitude remains constant, such that a constant tip-sample interaction is maintained during scanning."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                114,
+                843,
+                221
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8a2507bf303ebe2944f18f242b9f95a8a86bc1d5107bb7acb2cdc4319519324c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 3: Properties of the different operation modes in AFM"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Operationmode</td><td rowspan=1 colspan=1>Contact mode</td><td rowspan=1 colspan=1>Non-contactmode</td><td rowspan=1 colspan=1>Tapping mode</td></tr><tr><td rowspan=1 colspan=1>Tip loadingforce</td><td rowspan=1 colspan=1>Low → high</td><td rowspan=1 colspan=1>low</td><td rowspan=1 colspan=1>low</td></tr><tr><td rowspan=1 colspan=1>Contact with sample surface</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Periodical</td></tr><tr><td rowspan=1 colspan=1>Manipulation of sample</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Yes</td></tr><tr><td rowspan=1 colspan=1>Contaminationof AFM tip</td><td rowspan=1 colspan=1>Yes</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Yes</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                139,
+                284,
+                858,
+                576
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Gas Sensing Measurement Assembly"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                634,
+                559,
+                655
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Before giving a description of the assemblies that we have utilized to carry out gas sensitivity measurements on our films, we briefly give below the methodology used to achieve the desired gas concentrations for sensing studies."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                663,
+                852,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The desired gas concentration in parts per million (ppm) was attained by taking a measured quantity of the gas from a canister, containing pressurized gas (~ 20 kg/cm2) at 1000 ppm concentration, by means of a syringe, and introducing it into an airtight SS housing having a volume of 250 cm3. The gas was injected through a septum in the housing. The “unit” ppm being a volume ratio, 1 ppm of a given gas therefore occupies a volume of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 5 { \\times } 1 0 ^ { - 4 } ~ \\mathrm { c m } ^ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 0 ~ \\mathrm { c m } ^ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "housing. Therefore, the volume of gas required to be taken in a syringe from a canister containing the gas at 1000 ppm such that it gives rise to 1 ppm of gas concentration in a 250 cm3 housing is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( 2 . 5 { \\times } 1 0 ^ { - 4 } { \\times } 1 0 6 ~ \\mathrm { c m } ^ { 3 } \\right) / \\left( 1 0 0 0 \\right) = 0 . 2 5 ~ \\mathrm { c m } ^ { 3 }"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                778,
+                855,
+                914
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "21"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                510,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                144,
+                85,
+                853,
+                221
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Other gas concentrations employed in our gas sensing studies were thus obtained proportionally."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                229,
+                852,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We now describe the set-up, shown in figure below, which was exploited to establish the optimum operating temperature of a deposited film. It consists of an SS heater block that is contained in an airtight SS enclosure having a volume of 250 cm3 with a provision for gas inlet through a septum with a rubber gasket. It also contains a pair of spring-enabled pressure contacts made of nichrome rods, the upper ends of which are brazed to copper wires that go to the connector within the enclosure."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                286,
+                853,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A “Rigol DM3062 model” digital multimeter/ data acquisition system connected to the external leads from the connector was used for resistance measurements. The heater temperature was monitored and controlled using an ON/OFF digital temperature controller unit."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                487,
+                852,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For the purpose of verifying the optimum operating temperature, films were deposited over the entire substrate area of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 8 \\times 5 ~ \\mathrm { m m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Electrical contacts onto the film surfaces were then made by means of pressed aluminum foil. Such a film was then placed on the heater block and its resistance was monitored after placing the pressure contacts onto the Au colloidal pads on the film surface. Sensitivity of the films at a given gas concentration was measured at different temperatures in the range 298- 673 K depending on their nature and response. Once the optimum operating temperature was determined, the undoped and doped ZnO films were applied for the sensing characteristics measurements at their respective optimum temperatures on the above set-up."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                631,
+                853,
+                883
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "22"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                510,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                144,
+                85,
+                852,
+                135
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b293b83f76c4378da6bfbdf405ea879f7dab00c20b42bed1f6f4def899e973c7.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Schematic diagram of the sensor evaluation system consisting of an airtight SS chamber with the assembly housing the sensor film connected to a temperature controller circuit."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                267,
+                177,
+                759,
+                431
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Response and recovery measurements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                565,
+                536,
+                585
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For response and recovery measurements, film response to a particular gas is studied by introducing the gas of known concentration into the housing and recording the resistance using Rigol digital multimeter as a function of time till its steady state value is reached."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                594,
+                852,
+                700
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The housing is then opened to the atmosphere and the subsequent film recovery on gas removal is recorded that is characterized by the resistance reaching its base value. The response and recovery characteristics of films exposed to different gas concentrations are thus studied by plotting their resistance as a function of time."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                708,
+                853,
+                845
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "23"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                510,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9. Raman Spectral Study"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                85,
+                411,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Raman spectroscopy is different from the rotational and vibrational spectroscopy considered above in that it is concern with the scattering of radiation by the simple, rather than an absorption process. It is named after the Indian physicists who first observe it in 1928, C. V. Raman. Both rotational and vibrational spectroscopies are possible. The energy of the exciting radiation will determine which type of the transition occursrotational transitions are lower in energy than vibrational transitions. In addition to this, rotational transitions are around three orders of magnitude slower than vibrational transitions. Therefore, collisions with other molecule may occur in the time in which the transition is occurring. A collision is likely to change the rotational state of the molecule, and so the definition of the spectrum obtained will destroyed. Rotational spectroscopy is therefore carried out on gases at low pressure to ensure that the time between the collisions is greater than the time for transition. The basic set up of Raman spectrometer is shown below."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                104,
+                848,
+                529
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/99012fe39a265e88e7b7bc2a038ab0e1ce1e3b82144747102fc4003dec873ac9.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Basic set up of Raman Spectrometer."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                228,
+                551,
+                771,
+                766
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note that the detector is orthogonal to the direction of the incident radiation, so as to observe only scattered light. The source needs to provide intense monochromatic radiation, and usually laser. The criteria for a molecule to be Raman active are also different to other types of spectroscopy, which required permanent magnetic dipole moment, at least for diatomic molecules. A molecule will only be Raman if the following gross selection rule is fulfilled."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                826,
+                852,
+                904
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "24"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                510,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                144,
+                85,
+                853,
+                192
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1) Gross Selection Rule:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                200,
+                394,
+                219
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For spectroscopic techniques such as infrared spectroscopy, as seen in the first section it is necessary for the molecule being analyzed to have a permanent electric dipole. This is not the case for Raman spectroscopy; rather it is the polarizability (ᾳ) of the molecule which is important."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                229,
+                852,
+                335
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The oscillating electric field of a photon causes charged particles (electrons and, to a lesser extent, nuclei) in the molecule to oscillate. This leads to an induced electric dipole moment, μind"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                344,
+                852,
+                422
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "{ \\mathrm { W h e r e ~ } } \\mu { \\mathrm { i n d } } = ( \\alpha ) { \\mathrm { ~ E } }",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/90829b409761cd97f82c152fe74e4f2292c3c69dd7dd170e0467c69836248254.jpg"
+                }
+            },
+            "bbox": [
+                273,
+                430,
+                460,
+                450
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This induced dipole moment then emits a photon, leading to either Raman or Raleigh scattering. The energy of this interaction is also dependent on the polarizability:"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                458,
+                852,
+                537
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Energy of interaction = -1/2 ᾳ E 2"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                544,
+                470,
+                564
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "By comparison with the equation for the interaction energy for other forms of spectroscopy, it can be seen that the energies of Raman transitions are relatively weak."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                574,
+                852,
+                650
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To counter this, a higher intensity of the exciting radiation is used."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                659,
+                778,
+                680
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For Raman scattering to occur, the polarizability of the molecule must vary with its orientation. One of the strengths of Raman spectroscopy is that this will be true for both heteronuclear and homonuclear diatomic molecules. Homonuclear diatomic molecules do not possess a permanent electric dipole, and so are undetectable by other methods such as infrared."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                688,
+                853,
+                824
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "25"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                510,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2) Selection Rules Arising from Quantum Mechanics:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                85,
+                690,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A detailed discussion of the quantum mechanical basis for spectroscopy is beyond the scope of this brief introduction. Here, the quantum numbers and the allowed transitions involved are simply stated."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                114,
+                852,
+                192
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1 Rotational"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                199,
+                297,
+                219
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To find allowed rotational transitions, the total angular momentum quantum number for rotational energy states, J, must be considered. Raman spectroscopy involves a 2 photon process, each of which obeys:"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                228,
+                850,
+                307
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\Delta \\mathbf { J } = \\pm 1",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/2133094f283f3374e5ed9763de5cd90046b8c2485305a96f873dd270ed33cb20.jpg"
+                }
+            },
+            "bbox": [
+                221,
+                315,
+                302,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Therefore, for the overall transition"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                343,
+                487,
+                362
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\Delta \\mathbf { J } = \\pm 2",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ea3c7c7766a7fac16b540a53f0ed3673ae070e74d184fb4ca12166ba190b6549.jpg"
+                }
+            },
+            "bbox": [
+                221,
+                372,
+                305,
+                390
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Where, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta \\Theta = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for corresponds to Raleigh scattering,"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                401,
+                657,
+                422
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ΔJ = 0 corresponds to a Stokes transition,"
+                    }
+                ]
+            },
+            "bbox": [
+                226,
+                430,
+                626,
+                449
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "And "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta \\mathrm { J } = - 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "corresponds to an anti-Stokes transition."
+                    }
+                ]
+            },
+            "bbox": [
+                168,
+                449,
+                694,
+                468
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2 Vibrational"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                536,
+                305,
+                555
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To find allowed transitions the vibrational quantum number, ʋ must be considered."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                565,
+                820,
+                613
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For the overall transition,"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                623,
+                393,
+                642
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\Delta \\ v = \\pm 1",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d56f3d5e3d3cb6bb05855b086907ac96aee152f206ff65e1ab1667eb50df1db8.jpg"
+                }
+            },
+            "bbox": [
+                304,
+                652,
+                393,
+                669
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Transitions where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta \\ v = \\pm 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are also possible, but these are of weaker intensity."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                680,
+                820,
+                730
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.3 Types of Scattering"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                766,
+                386,
+                787
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Consider a light wave as a stream of photons each with energy hʋ When each photon collides with a molecule, many things may happen, 2 of which are considered below:"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                795,
+                855,
+                872
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "26"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                510,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "a) Elastic, or Raleigh Scattering"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                85,
+                473,
+                107
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This is when the photon simply 'bounces' off the molecule, with no exchange in energy. The vast majority of photons will be scattered in this way."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                114,
+                852,
+                192
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d3dd6a7eb9e4db77816290d8819bf7b79836658eaa03c612365426ff3af6f1e5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                356,
+                205,
+                635,
+                262
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "b) Inelastic, or Raman Scattering"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                274,
+                489,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This is when there is an exchange of energy between the photon and the molecule, leading to the emission of another photon with a different frequency to the incident photon:"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                303,
+                852,
+                381
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e3a3d3429eef8a0cecc0d58d7495aa83bc94f2674ae8d171ec23908a20c2cf58.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "This scattering phenomenon takes place as shown follows."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                337,
+                393,
+                589,
+                444
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/56d7e0a456cef8ba967ccc10e78028961241efcef2bf16a3fe6e4c72bedc26d3.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                282,
+                511,
+                714,
+                667
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c8d38e1d4ce63bf14268da4daf2980e58ef7bcaf8ed78496100dbf18bf1372a6.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Scattering phenomenon in Raman Spectroscopy"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                277,
+                702,
+                719,
+                856
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "27"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                510,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3) Raman Scattering"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                85,
+                363,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The molecule may either gain energy from, or lose energy to, the photon. In the diagram below, 3 energy states of the molecule are shown "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\operatorname { E } _ { 1 } , \\operatorname { E } _ { 2 } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "E3). The molecule is originally at the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "energy state. The photon interacts with the molecule, exciting it with an energy hʋ1."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                114,
+                852,
+                221
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "However, there is no stationary state of the molecule corresponding to this energy, and so the molecule relaxes down to one of the energy levels shown."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                229,
+                852,
+                305
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In doing this, it emits a photon. If the molecule relaxes to energy state E1, it will have lost energy, and so the photon emitted will have energy hʋr1, where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { h } } \\mathfrak { v } _ { \\mathbf { r } 1 } > \\mathrm { { h } } \\mathfrak { v } _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". These transitions are known as anti-Stokes transitions. If the molecule relaxes to energy state "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\operatorname { E } _ { 3 } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "it will have gained energy, and so the photon emitted will have energy h "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\mathbf { r } 2 ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ", where h "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\boldsymbol { \\ v } _ { \\mathbf { r } 2 } < \\mathbf { h } \\boldsymbol { \\ v } _ { 1 }"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                315,
+                852,
+                450
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These transitions are known as Stokes transitions."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                460,
+                621,
+                478
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For rotational spectroscopy, both Stokes and anti-Stokes transitions are seen."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                487,
+                852,
+                535
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For vibrational spectroscopy, Stokes transitions are far more common, and so anti- Stokes transitions can effectively be ignored."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                545,
+                850,
+                594
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/aac027dbc19da0955f3bcdf65693c59d5c502627df79cb0380c717ea42f26c84.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Stokes and anti- stokes transition"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                327,
+                626,
+                653,
+                827
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "28"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                927,
+                510,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "10. Fourier Transforms Infrared (FTIR) Studies"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                86,
+                640,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Studies of the spontaneous orientation of dipole moment in semiconductors are carried out with a non-destructive tool of analysis by means of infrared spectroscopy which can give information on atomic arrangement and inter atomic forces in the crystal lattice. It is possible to investigate how the infrared vibrational frequencies and thus the interatomic forces are affected by the onset of the semiconductor states."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                114,
+                853,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "If the two energy levels "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E } _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are placed in an electromagnetic field and the difference in the energy between the two states is equal to a constant "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\ \" \\mathrm { h } ^ { \\prime }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "multiplied by the frequency of the incident radiation, a transfer of energy between the molecules can occur, giving therefore;"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                286,
+                852,
+                393
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ΔE = hν"
+                    }
+                ]
+            },
+            "bbox": [
+                292,
+                401,
+                517,
+                419
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Where, the symbols have their usual meanings. When the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta \\mathrm { E }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is positive the molecule absorbs energy; when "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta \\mathrm { E }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is negative, radiation is emitted during the energy transfer and emission spectra are obtained. When the energies are such that the equation (1) is satisfied, a spectrum unique to the molecule under investigation is obtained. The spectrum is usually represented as a plot of the intensity "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the frequencies."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                430,
+                853,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Frequency ranges that can be encountered in this spectrum vary from those of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\" \\gamma \""
+                    },
+                    {
+                        "type": "text",
+                        "content": "rays, which have wavelength of about 10-10 cm to radio waves which have wavelength of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 ^ { 1 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "cm."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                602,
+                852,
+                680
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The most of spectroscopic investigation are carried out in a relatively small portion of spectrum close to visible light. This region includes UV, visible and IR region and is arbitrarily defined as being between wavelength of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 ^ { - 6 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "cm and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 ^ { - 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "cm. Both the atoms and molecules give rise to spectra but they differ from each other."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                688,
+                852,
+                824
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The difference between the atomic and molecular spectra lies in the nature of energy levels involved in the transitions. In the atom, the absorption represents transition between the different allowed levels for the orbital electrons. In case of molecules, the atoms within the molecules vibrate and the molecule as a whole rotates and the total energy contributions are represented by the equation:"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                832,
+                853,
+                909
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                510,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                144,
+                85,
+                852,
+                162
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm { E } _ { \\mathbf { t o t } } = \\mathrm { E } _ { \\mathbf { e l e c t } } + \\mathrm { E } _ { \\mathbf { v i b } } + \\mathrm { E } _ { \\mathbf { r o t } } + \\mathrm { E } _ { \\mathbf { t r a n s } } , \\dots . . . . . 2",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a49d1a36a33c3b422af1cc7f5e5637b608331fc9e34cfe65a254474ac047659a.jpg"
+                }
+            },
+            "bbox": [
+                238,
+                171,
+                625,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Where, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E } _ { \\mathbf { e l e c t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the electronic energy, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\operatorname { E } _ { \\mathbf { v i b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the vibrational energy, Erot is the rotational energy and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E } _ { \\mathbf { t r a n s } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the translation energy."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                199,
+                852,
+                249
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The separate energy levels are quantized and only certain transitions of electronic, vibrational and rotational energy are possible."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                258,
+                853,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Translational energy is usually sufficiently small to be ignored. The vibrational spectrum of a molecule is considered to be a unique physical property and is a characteristic of the molecule. As such, the infrared spectrum can be used as a finger print for identification, in support of Xray diffraction technique for the purpose of characterization, the schematic representation shown in figure below:"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                315,
+                853,
+                480
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e19861d5c2eb9d35742018915ccfd72335185f846c6c3c0e19606c47c4851444.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Schematic representation of FTIR spectrometer"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                189,
+                524,
+                796,
+                726
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "31"
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                927,
+                510,
+                940
+            ]
+        }
+    ]
+]

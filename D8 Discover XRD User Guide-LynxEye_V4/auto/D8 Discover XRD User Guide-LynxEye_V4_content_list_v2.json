@@ -1,0 +1,1869 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Bruker D8 Discover XRD User’s Guide I. Powder Diffraction Measurement using LynxEye Detector"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                209,
+                73,
+                787,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "by Susheng Tan, Ph.D. NanoScale Fabrication and Characterization Facility, University of Pittsburgh M104 Benedum Hall, 3700 O’Hara Street, Pittsburgh, PA 15261 Phone: (412) 383-5978 Email: sut6@pitt.edu"
+                    }
+                ]
+            },
+            "bbox": [
+                217,
+                136,
+                779,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Fill in the Log-book with relevant information before you begin analyze your sample."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                212,
+                777,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Check System Control Buttons (located at the front side of the system) and make sure the Ready and On LED lights are on."
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                243,
+                875,
+                276
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0510a2ce101214b3c49e9eb996115749d617a8ec88d9b6439eceda8b8bf1f210.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                106,
+                292,
+                888,
+                655
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Before opening the D8 door, check for any abnormalities in and around the instrument. Give particular attention to the shutter lights on the X-ray tube. The green light indicates that the tube is energized (light should be lit). The two red lights indicate the shutter position (if they are lit the shutter is open and you must not open the doors on the D8; if the red lights are off, then it is safe to open the doors and mount the sample stage on the goniometer)."
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                672,
+                898,
+                755
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Mount sample in the appropriate holder and then place the holder in the sample stage on the goniometer."
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                768,
+                875,
+                786
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/87097250e0e9e507cef8ae2a9c2c533ab40cc4849e8ac2532d87f2f79e0053c3.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                542,
+                784,
+                573,
+                808
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. If the XRD COMMANDER is not opened, click the icon, on the desktop to open it."
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                792,
+                761,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Set up DIFFRACplus XRD Commander"
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                809,
+                419,
+                827
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Rev. 4, September 25th, 2009"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                938,
+                308,
+                954
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                893,
+                941,
+                905,
+                955
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6c01dc86ed2ef12b0bdebda656cf0fa966d1903b045f88c90365c1f748c81d38.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                133,
+                71,
+                607,
+                345
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/789e2f0e3bfb52f1903a4641feb5485051f8d562c13ed7cc5f483b43698d7a54.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                635,
+                71,
+                862,
+                347
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) Click the Details tab to activate the Details page,"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                378,
+                509,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a. Select the PSD detector (LynxEye)."
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                395,
+                473,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b. Input Discriminator Lower Level: 0.12; Discriminator Window Width: 0.14."
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                410,
+                790,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "c. Click Set Detector button."
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                428,
+                406,
+                443
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2) Activate the Adjust page"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                117,
+                443,
+                338,
+                458
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a. Make sure that for each drive its actual position is shown in blue. If any of the drive positions are displayed in dark red, you will not be able to use the D8 — ask for help."
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                458,
+                887,
+                491
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b. Set the X-ray generator voltage to 40 kV and the current to 40mA or other your desired combination."
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                491,
+                843,
+                521
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "c. Find zero position of the Z drive for your sample:"
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                522,
+                570,
+                540
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b5c4dc8fd756a0d1f35a9f7c058411cbcf030407f1e1344198fde470ab592220.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                647,
+                536,
+                678,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "i. Open the Video program by clicking the video icon, , and start live view."
+                    }
+                ]
+            },
+            "bbox": [
+                238,
+                553,
+                826,
+                570
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ii. In XRD Commander window, click Direct Mode icon, to enter direct laser control mode."
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                577,
+                869,
+                609
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "iii. In Direct Command window, type RC1 and press Enter to activate the direct laser control mode."
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                609,
+                874,
+                641
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "iv. Type OC16,1 to turn the laser on."
+                    }
+                ]
+            },
+            "bbox": [
+                232,
+                642,
+                516,
+                657
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "v. Close the Direct Command window."
+                    }
+                ]
+            },
+            "bbox": [
+                235,
+                659,
+                544,
+                674
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "vi. Input a specific Z position and click the drive to icon, to adjust the Z drive to center the laser spot at the crosshair."
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                684,
+                869,
+                715
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "vii. Open the Direct Command window again, and type OC16,0 to turn off the laser."
+                    }
+                ]
+            },
+            "bbox": [
+                225,
+                717,
+                861,
+                733
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "viii. In Video program, stop Grab the live video."
+                    }
+                ]
+            },
+            "bbox": [
+                222,
+                733,
+                588,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) Select measurement parameters:"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                748,
+                388,
+                763
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a. scan type: Locked Coupled, continuous scan."
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                765,
+                540,
+                780
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b. start: >3.5º , stop: <100º , scanspeed: 0.40 Sec/Step, and increment: 0.04º ."
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                780,
+                767,
+                796
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "c. slit size: 0.2 mm; high voltage: 40 kV, current: 40 mA."
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                796,
+                607,
+                813
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) Click Start button, to begin a measurement."
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                813,
+                524,
+                828
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5) Click Stop button, to end the immediate measurement."
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                829,
+                599,
+                844
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7. After the scan is complete"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                861,
+                325,
+                876
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) Save the measured data as a RAW data file to your folder on the hard drive. XRD Commander displays the Save As dialog box, and you must enter the RAW filename. The RAW data file can later be examined (e. g., with EVA)."
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                876,
+                888,
+                924
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Rev. 4, September 25th, 2009"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                939,
+                310,
+                954
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                940,
+                906,
+                955
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b027ec13cc4f262c4b244142ea7ca42c360124410e5dcb76945df9725bdd4c7a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                769,
+                95,
+                928,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note: by clicking the right mouse button inside the Chart area, you will bring a popup menu:"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                88,
+                730,
+                121
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Apply Ident (applies the sample identification on the top axis)"
+                    }
+                ]
+            },
+            "bbox": [
+                205,
+                121,
+                678,
+                137
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Print Chart"
+                    }
+                ]
+            },
+            "bbox": [
+                207,
+                137,
+                305,
+                151
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Remove Peakstick"
+                    }
+                ]
+            },
+            "bbox": [
+                207,
+                152,
+                359,
+                167
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Dots (shows the scan data as little dots instead of connected lines)"
+                    }
+                ]
+            },
+            "bbox": [
+                205,
+                167,
+                699,
+                184
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Advanced (shows advanced customized options for the chart area such as Save the chart data as a Text, XML, HTML, or Excel file)."
+                    }
+                ]
+            },
+            "bbox": [
+                207,
+                185,
+                758,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Export→Data→Excel→Save As to your folder on the hard drive."
+                    }
+                ]
+            },
+            "bbox": [
+                264,
+                217,
+                741,
+                232
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) Set the X-ray tube voltage to 20 kV, current to 5mA"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                232,
+                532,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) Minimize XRD Commander. Do not close the program."
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                250,
+                568,
+                265
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "II. Diffraction Evaluation using DIFFRACplus BASIC Evaluation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                88,
+                285,
+                714,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Double click the evaluation program icon, to open the EVA program."
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                315,
+                681,
+                333
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/da9a552984eeb83392a98c3e0e81bad8729343303f3555ce3c7efeec22f0c56b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                218,
+                330,
+                807,
+                665
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Creating EVA Documents"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                667,
+                346,
+                684
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a. On the toolbar, click the Import button."
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                684,
+                501,
+                700
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b. Locate the data .RAW file you want to import in the directory of your RAW files."
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                700,
+                802,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "c. Click Open."
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                717,
+                303,
+                732
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Working with Scans"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                732,
+                302,
+                747
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a. Performing a Background Subtraction"
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                748,
+                488,
+                763
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "i. The DIFFRAC traditional method: prepare data for search/match."
+                    }
+                ]
+            },
+            "bbox": [
+                238,
+                763,
+                756,
+                780
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) Click the Background button on the Data Treatment palette"
+                    }
+                ]
+            },
+            "bbox": [
+                295,
+                780,
+                766,
+                796
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) Use the slider to adjust the curvature if there are background humps."
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                796,
+                823,
+                813
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) Select the Subtract from Scan check box."
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                811,
+                633,
+                827
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) Click Append to append the background-subtracted scan data to the document ii. An enhanced method: gives a smooth curve."
+                    }
+                ]
+            },
+            "bbox": [
+                235,
+                828,
+                897,
+                859
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "iii. A Bézier method: allows you to draw the background exactly the way you want."
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                859,
+                851,
+                876
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) Draw a calculated background with the method above; get as close as you can to the background you intend to draw."
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                876,
+                892,
+                907
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) Check the Bézier box to transform this background into curves."
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                907,
+                789,
+                924
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Rev. 4, September 25th, 2009"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                938,
+                310,
+                954
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                940,
+                906,
+                955
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) Move the slider to adjust the curve to what you intend to draw."
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                71,
+                784,
+                88
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) Click Edit button to display all the control points: the passing points are disks, the tangent points are squares, and the tangent vectors are in dashed lines. You can move, erase, or add a passing point."
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                89,
+                897,
+                136
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5) Check the Subtract box and then click on Append to create your drawn background."
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                136,
+                852,
+                167
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b. Performing a Peak Search"
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                167,
+                401,
+                184
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "i. On the Data Treatment palette click the Peak Search button."
+                    }
+                ]
+            },
+            "bbox": [
+                236,
+                184,
+                704,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ii. Move the slider to see ghost peaks in the Overview and Working panes."
+                    }
+                ]
+            },
+            "bbox": [
+                232,
+                200,
+                789,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "iii. When no manual editing is required, click Make DIF to transfer the found peaks to a DIF pattern."
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                217,
+                885,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "iv. When manual editing is required, click Append To List."
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                248,
+                681,
+                265
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "c. Computing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { K } _ { \\alpha ^ { 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Stripping"
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                265,
+                398,
+                281
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "i. Click the Strip "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { K } _ { \\alpha 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "button on the Data Treatment palette."
+                    }
+                ]
+            },
+            "bbox": [
+                236,
+                282,
+                686,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ii. Use the slider to adjust the Intensity Ratio."
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                299,
+                580,
+                314
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "iii. Click Append to append the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { K } _ { \\alpha ^ { 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "subtracted scan to the document"
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                315,
+                740,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "d. Smoothing Scans"
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                332,
+                341,
+                347
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "i. Click the Smooth button on the Data Treatment palette."
+                    }
+                ]
+            },
+            "bbox": [
+                236,
+                347,
+                671,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ii. Use the slider to adjust the Smooth factor."
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                363,
+                576,
+                380
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "iii. Click Append to append the smoothed scan to the document"
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                378,
+                707,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "e. Fourier Smoothing and Expansion"
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                395,
+                462,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "i. Click the Fourier button on the Data Treatment palette."
+                    }
+                ]
+            },
+            "bbox": [
+                236,
+                411,
+                669,
+                428
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ii. In the Fourier treatment control panel, select the expansion (x1, x2, x4, x8, and x16)."
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                426,
+                879,
+                444
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "iii. Use the slider to adjust the cutoff."
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                443,
+                517,
+                459
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "iv. Click Append to append the smoothed scan to the document."
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                459,
+                709,
+                476
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2fb6a04c641760f6291887cb250a852185d5953a33fb004ec5c9fe36afb46401.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                261,
+                476,
+                297,
+                501
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Search/Match: (** see the next page for a general procedure.)"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                488,
+                648,
+                506
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Saving and Printing in EVA."
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                505,
+                361,
+                520
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Export file as ASCII file."
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                521,
+                334,
+                536
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a. Export your EVA file as a RAW file;"
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                536,
+                486,
+                553
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b. Open the RAW File Exchange , or XCH , to convert your RAW and/or processed files to ASCII files."
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                563,
+                872,
+                594
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b676cace7049df229484d2bc23fe54979ff7faa4e44483cb4276e084d10f35bc.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                439,
+                551,
+                472,
+                578
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a0a6e24fed529809696120bd4c2223b8b31736ded196943c137f1ef65c743e58.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                542,
+                554,
+                580,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Exit EVA after you complete data processing."
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                595,
+                486,
+                612
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Sign off the instrument by filling in the log-book."
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                612,
+                509,
+                628
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                940,
+                906,
+                955
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Rev. 4, September 25th, 2009"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                938,
+                310,
+                955
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "** The purpose of EVA Search/Match is to search the current scan of an unknown material and then identify reference patterns that are likely to explain the unknown scan."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "The general procedure for EVA Search/Match is as follows:"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                74,
+                885,
+                122
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d40bb7a5ec93c38758f7485214f2c0bea05b5e422ba1bd1cb4ab14b2255db03b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Use the Scroll List mode to match the scan"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                132,
+                908,
+                864
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Rev. 4, September 25th, 2009"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                938,
+                310,
+                955
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                893,
+                940,
+                906,
+                955
+            ]
+        }
+    ]
+]
