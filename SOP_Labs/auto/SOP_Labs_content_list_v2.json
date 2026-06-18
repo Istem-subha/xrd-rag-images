@@ -1,0 +1,5108 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Welcome to this first edition of the Fazl Ali College Laboratory Operations Manual. The College is committed to maintaining a healthy and safe workplace for all laboratory workers, students and faculty. This SOP is an instruction necessary to understand the operation and therefore enable optimal use of the equipment during experiments, as well as a reference for good work practices and safe handling."
+                    }
+                ]
+            },
+            "bbox": [
+                178,
+                417,
+                887,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The information is meant to act as a guide for safe working procedures and a reference during practicals and research works. It does not, however, replace laboratory specific training and risk communication. If any additional information not covered in this manual is required, please contact the teachers before any operation."
+                    }
+                ]
+            },
+            "bbox": [
+                178,
+                613,
+                887,
+                756
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SE E"
+                    }
+                ]
+            },
+            "bbox": [
+                408,
+                109,
+                604,
+                248
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LABORATORY STANDARD OPERATING PROCEDURE"
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                321,
+                866,
+                345
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "GENERAL LABORATORY SAFETY PROCEDURES"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                240,
+                116,
+                813,
+                137
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DO"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                166,
+                222,
+                190
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Know the potential hazards of the materials used in the laboratory. Review the container label prior to using a chemical and the safety labels in instruments."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                194,
+                885,
+                233
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Know the location of safety equipment such as emergency call numbers, emergency showers, eyewashes, fire extinguishers, fire alarms, first aid kits, and spill kits which can be found in the College."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                242,
+                887,
+                301
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Review your laboratory’s emergency procedures with your teacher, Lab Supervisor, or Lab attendants to ensure that necessary supplies and equipment are available for responding to laboratory accidents."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                309,
+                887,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Practice good housekeeping to minimize unsafe work conditions such as obstructed exits and safety equipment, cluttered benches and hoods, and accumulated chemical waste."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                378,
+                885,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Wear the appropriate personal protective apparel for the chemicals you are working with. This includes eye protection, lab coat, gloves, and appropriate foot protection (no sandals or open toed shoes). Gloves must be made of a material known to be resistant to permeation by the chemical in use."
+                    }
+                ]
+            },
+            "bbox": [
+                168,
+                426,
+                885,
+                506
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Clothing is to be chosen so as to minimize exposed skin below the neck. Long pants and shirts with sleeves are examples of appropriate clothing. Avoid rolled up sleeves. Shorts (including cargo shorts), capris and, miniskirts are inappropriate clothing in laboratories. Synthetic fabrics must be avoided in high-hazard areas where flammable liquids and reactive chemicals are utilized."
+                    }
+                ]
+            },
+            "bbox": [
+                168,
+                513,
+                887,
+                613
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Contact lenses are not recommended but are permitted. Appropriate safety eyewear is still required for those that use contact lenses. Inform the lab supervisor of the use of contact lenses."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                622,
+                887,
+                680
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Wash skin promptly if contacted by any chemical, regardless of corrosivity or toxicity."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                689,
+                852,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Label all new chemical containers with the “date received” and “date opened.”"
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                718,
+                799,
+                737
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Label and store chemicals properly. All chemical containers must be labeled to identify the container contents (no abbreviations or formulas) and should identify hazard information. Chemicals must be stored by hazard groups and chemical compatibilities."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                746,
+                885,
+                806
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Use break-resistant bottle carriers when transporting chemicals in glass containers that are greater than 500 milliliters. Use lab carts for multiple containers. Do not use unstable carts."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                814,
+                885,
+                854
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Use fume hoods when processes or experiments may result in the release of toxic or flammable vapours, fumes, or dusts."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                863,
+                885,
+                901
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Restrain and confine long hair and loose clothing. Pony tails and scarves used to control hair must not present a loose tail that could catch fire or get caught in moving parts of machinery."
+                    }
+                ]
+            },
+            "bbox": [
+                168,
+                114,
+                887,
+                174
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DON’T"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                237,
+                259,
+                257
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Eat, drink, chew gum, or apply cosmetics in rooms or laboratories where chemicals are used or stored."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                291,
+                883,
+                330
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Store food in laboratory refrigerators, ice chests, cold rooms, or ovens."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                340,
+                736,
+                359
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Drink water from laboratory water sources."
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                369,
+                526,
+                387
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Use laboratory glassware to prepare or consume food."
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                397,
+                611,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Smell chemicals, taste chemicals, or pipette by mouth."
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                426,
+                611,
+                444
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Work alone in the laboratory without prior approval from the teacher. Avoid chemical work or hazardous activities during off-hours."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                453,
+                883,
+                493
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Leave potentially hazardous experiments or operations unattended without prior approval from the Principal Investigator, Lab Manager, or Lab Supervisor. In such instances, the lights in the laboratory should be left on and emergency phone numbers posted at the laboratory entrance."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                502,
+                887,
+                582
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e | 2"
+                    }
+                ]
+            },
+            "bbox": [
+                802,
+                51,
+                885,
+                68
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SOP FOR VARIOUS INSTRUMENTS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                300,
+                113,
+                764,
+                136
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "AUTOCLAVE"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                452,
+                151,
+                614,
+                172
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Inspect that the autoclave is not hot and all previous materials have been removed."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                186,
+                821,
+                205
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Make sure that the water inside the autoclave is at the optimal level."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                218,
+                715,
+                236
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. All samples must be wrapped in appropriate material, plugged tightly with cotton plugs liquids in plastic container/bottles can be left little loose."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                250,
+                849,
+                286
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. All containers and packaging must be made of autoclavable materials (such as grade 5 PP, given below)"
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                297,
+                877,
+                335
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SPI Resin Recycling Codes"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                236,
+                361,
+                563,
+                387
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2b154fd116a85b2e4b448527fa8ba7a974cafb977f40552ff255a8a35f681879.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                235,
+                398,
+                879,
+                659
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Ensure that all pipes are tightly closed without leakage and lock the lid tightly."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                680,
+                784,
+                699
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Switch on the power and allow the pressure to raise to the recommended level (normally @ 15ppi)."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                712,
+                883,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Leave the autoclave on for sterilization for 15-20 minutes at the recommended pressure."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                761,
+                862,
+                780
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Switch of the power and allow the autoclave to cool off."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                791,
+                629,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. Open only when the pressure is decreased to the minimum (Usually after 1 hour after switching off)."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                823,
+                846,
+                859
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. Open the lid slowly to let off any stores pressure."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                871,
+                583,
+                891
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. Remove the autoclaved items wearing appropriate gloves and lab coats."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                113,
+                740,
+                132
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. Ensure that the water level is at the optimum, fill in cold tap water if the water is less."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                142,
+                834,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13. Close the lid and wipe off any water/substances on the autoclave."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                174,
+                696,
+                193
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MICROSCOPY"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                169,
+                204,
+                310,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Ensure that all microscope are clean and wipe off any dirt or dust using a clean cloth."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                236,
+                838,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Set the non electric based microscope mirror to let in optimal light to the objective lense. In electric microscope switch on the light and very slowly increase the light intensity (Abrupt increase in light intensity will cause the bulb filament to break)"
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                266,
+                885,
+                323
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Set the objective lense with the lowest magnification (usually 5X)"
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                333,
+                694,
+                353
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Use clean slides and clean the slide with a cloth for any excess stains or liquids before loading on the microscope."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                364,
+                885,
+                401
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Place the slide and observe the same by increasing the magnification as required."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                414,
+                808,
+                433
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. After observing the slide, gradually decrease the light intensity of the bulb before switching off the microscope. Bring the focus with the objective lense with minimum magnification."
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                445,
+                885,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Clean the microscope with a clean cloth before leaving."
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                493,
+                629,
+                513
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "OVEN"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                493,
+                525,
+                570,
+                546
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1) INSPECT THE OVEN"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                181,
+                560,
+                400,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I. Make sure the electric power connections are made correctly and that the power cable is not damaged."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                593,
+                885,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "II. Make sure that the area around the oven is clear. The oven should have 6 inches clearance around it."
+                    }
+                ]
+            },
+            "bbox": [
+                194,
+                642,
+                885,
+                679
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "III. Inspect the inside of the oven to make sure it is clean and that no one has left their samples or items in it."
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                691,
+                885,
+                727
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2) START HEATING"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                181,
+                739,
+                370,
+                758
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I. Turn on the oven by pressing the main power switch in the lower right. the controller will perform a brief self test during which the display shows."
+                    }
+                ]
+            },
+            "bbox": [
+                196,
+                772,
+                885,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "II. Press and hold the display buttons to increase and decrease the temperature as required."
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                821,
+                864,
+                840
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e"
+                    }
+                ]
+            },
+            "bbox": [
+                802,
+                51,
+                857,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                867,
+                53,
+                883,
+                65
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3) LOAD THE SPECIMEN"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                181,
+                113,
+                416,
+                130
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I. Before you put anything in the oven make sure it is safe to heat this part to the desired temperature."
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                146,
+                885,
+                180
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "II. Make sure you have everything you are going to need i.e. safety equipments, tools etc."
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                195,
+                834,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "III. Make sure there is a clear and safe place to put the part when you eventually take it out."
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                226,
+                849,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IV. Always use protective equipments such as gloves, aprons etc."
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                257,
+                658,
+                273
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "V. Open the oven store. The power to the heating elements is automatically turned off."
+                    }
+                ]
+            },
+            "bbox": [
+                192,
+                287,
+                825,
+                304
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VI. Load your specimen. Make sure it is not touching the heating elements or electric short might occur when you close the door."
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                318,
+                885,
+                353
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VII. Close the door."
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                367,
+                339,
+                382
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VIII. Clean up the area around the oven and store the protective equipments."
+                    }
+                ]
+            },
+            "bbox": [
+                173,
+                397,
+                738,
+                415
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) REMOVING THE SPECIMEN"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                429,
+                467,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. Always use protective equipments. Use what you think is appropriate for the material's temperature."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                462,
+                883,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B. Open the oven store."
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                515,
+                375,
+                531
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. Remove your specimen carefully. Place it on a heat resistant surface."
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                546,
+                738,
+                564
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. Close the door."
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                579,
+                333,
+                595
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E. Clean up the area around the oven and store the protective equipment properly."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                611,
+                830,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5) FINISHING UP"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                643,
+                344,
+                660
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. Turn off the oven."
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                676,
+                354,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B. Clean up the area inside the oven."
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                709,
+                473,
+                726
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. Put all tools and protective equipments back in their proper places."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                741,
+                728,
+                758
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. Remove your oven in use and displace of it."
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                775,
+                550,
+                791
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                869,
+                53,
+                883,
+                65
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e"
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                51,
+                856,
+                66
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MICROTOME"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                465,
+                112,
+                601,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) Wind back the coarse feeding mechanism and lock the hand wheel."
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                145,
+                733,
+                165
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) Clamp cassette in position, orientating the tissue as desired."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                178,
+                666,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) Ensuring that the knife holder is at safe distance from the cassette, carefully place a blade into the holder and tighten securely."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                210,
+                885,
+                250
+            ]
+        },
+        {
+            "type": "index",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4) Loosen back lever of knife holder and advance towards the cassette until there is a 0.2-"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "0.5mm interval between blade edge and cassette surface."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                262,
+                885,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5) Tighten back the lever of knife holder."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                315,
+                508,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6) Unlock wheel and trim away surplus wax from tissue surface by advancing the coarse feed mechanism before commencing each turn of the wheel."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                347,
+                885,
+                387
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7) Trim all tissue carefully until the desired surface is exposed."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                400,
+                671,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8) Reduce section thickness to 3-5 microns using adjustment knob."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                431,
+                704,
+                452
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9) Cut tissue sections and place them on tissue floatation bath to remove wax."
+                    }
+                ]
+            },
+            "bbox": [
+                178,
+                465,
+                883,
+                484
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "HAEMOCYTOMETER"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                428,
+                516,
+                637,
+                536
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Clean haemocytometer & coverslip with 70 % ethanol, followed by distilled water."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                550,
+                849,
+                569
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Set up the haemocytometer ensuring the coverslip is resting on the raised supports & adhered to the haemocytometer."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                582,
+                883,
+                621
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Mix the cell suspension to suspend cells."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                633,
+                531,
+                654
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Transfer a small volume of cell suspension to each counting chamber using a Pasteur pipette."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                666,
+                885,
+                707
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Let the cells settle onto the counting chamber grid, about 5-10 min."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                719,
+                738,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "NOTE: PLACE THE HAEMOCYTOMETER ONTO THE MICROSCOPE STAGE & FOCUSSED ON LOW POWER (40X)."
+                    }
+                ]
+            },
+            "bbox": [
+                178,
+                751,
+                885,
+                791
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. When counting the cells that fall on the grid lines , only count the cells on the TOP & RIGHT HAND LINES of each square."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                804,
+                885,
+                844
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e"
+                    }
+                ]
+            },
+            "bbox": [
+                802,
+                51,
+                857,
+                66
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "NOTE: DONOT COUNT THE ONES ON THE BOTTOM OR LEFT-HAND LINES."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                112,
+                885,
+                150
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This prevents cells from being counted twice."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                154,
+                539,
+                172
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SPECTROPHOTOMETER"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                413,
+                184,
+                653,
+                203
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Carefully clean the sample holder,especially after using corrosive or salt solution."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                218,
+                841,
+                238
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Mop up any spilt liquid and brush any spilt chemical from the spectrophotometer and adjacent areas."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                250,
+                885,
+                289
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Wash the cuvettes immediately after use.Rinse the cuvettes with deionised water atleast 3 times, allow them to drain and dry them inverted"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                303,
+                885,
+                342
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SAFETY CHECKS-"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                209,
+                354,
+                382,
+                373
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Check that electrical connections are fully coupled that cords are not frayed and that there is no liquid on or about the spectrophotometer. 2. Unidentified spilt chemicals should be removed with extreme caution."
+                    }
+                ]
+            },
+            "bbox": [
+                209,
+                387,
+                885,
+                446
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CENTRIFUGE"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                460,
+                458,
+                596,
+                478
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Connect the instrument to the electrical connection and switch on the light"
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                492,
+                813,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Open using the level and clean the inside using a cloth."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                523,
+                663,
+                545
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Before using centrifuge check that the correct rotors are being used and the weight is balanced on both sides."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                556,
+                885,
+                595
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Place into terminal rings positioning balanced tubes opposite to one another."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                609,
+                830,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Once tubes are in place and all rotor positions are filled. Close the lid of centrifuge tightly."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                641,
+                885,
+                681
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Set the desired time on timer."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                694,
+                467,
+                714
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Select appropriate speed and temperature setting on centrifuge with the speed selection knob. This simultaneously turns ON the centrifuge."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                727,
+                885,
+                767
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Once centrifuge is turned ON, lid must be kept closed."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                779,
+                665,
+                799
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. Do not re-open it until it comes to a complete stop at end of run."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                811,
+                740,
+                832
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. Then centrifuge has stopped. Carefully remove tubes without agitating contents."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                844,
+                851,
+                863
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. Clean and then close the lid of centrifuge."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                876,
+                565,
+                896
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e | 7"
+                    }
+                ]
+            },
+            "bbox": [
+                802,
+                51,
+                885,
+                68
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. Properly dispose of any waste material disposable bin and clean up the area around the centrifuge."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                113,
+                885,
+                151
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "LAMINAR AIR FLOW"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                455,
+                184,
+                658,
+                203
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Before one hour of your work start the laminar air flow main power switch ON."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                218,
+                854,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Then clean the platform of laminar air flow with 70% ethanol."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                250,
+                717,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Close the door of laminar."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                282,
+                444,
+                301
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Now switch on the UV light of laminar air flow for at least 45-60 minutes."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                314,
+                802,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. After then wash your hand with any disinfectant to avoid contamination."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                347,
+                794,
+                367
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Switch off the UV light."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                380,
+                419,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Start laminar air flow and open the door of laminar air flow."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                412,
+                700,
+                433
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Flame the burner and start your work."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                445,
+                532,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. After completion of your work. Wash your hands."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                477,
+                627,
+                497
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. Clean the platform with 70% ethanol."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                510,
+                527,
+                530
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. Close the door and switch off the power of laminar air flow."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                541,
+                883,
+                561
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "WEIGHING BALANCE"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                450,
+                594,
+                665,
+                613
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Clean your hand before using the Weighing Balance."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                627,
+                650,
+                647
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Clean the container & wipe Basic Weighing Function."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                660,
+                655,
+                679
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Turn on the balance scale."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                691,
+                444,
+                712
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Place container on balance."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                724,
+                450,
+                744
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Tare the Balance."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                757,
+                377,
+                776
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Place the sample in container & note down the weight."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                790,
+                658,
+                809
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. After removing the sample, switch the balance off and clean the balance with a tissue paper or cloth before closing it."
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                821,
+                887,
+                862
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                875,
+                222,
+                892
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e"
+                    }
+                ]
+            },
+            "bbox": [
+                802,
+                51,
+                857,
+                68
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                869,
+                51,
+                883,
+                65
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "GEL ELECTROPHORESIS"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                437,
+                112,
+                676,
+                131
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pre-Operation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                228,
+                146,
+                351,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Select a good location for the placement and use of the equipment. Place the unit on the laboratory bench in such a way that the power supply (on/off switch) is easy to reach, so it is not necessary to reach across the apparatus, and the power-indicator light is easily seen. Select a location where it will not be easily knocked over or tripped on. Avoid unintentional grounding points and conductors such as sinks, metal plates, jewellery, other metal objects or surfaces."
+                    }
+                ]
+            },
+            "bbox": [
+                192,
+                178,
+                887,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Inspect the apparatus to be used. Examine the insulation on the high voltage leads for signs of deterioration (e.g., exposed wires, cracks or breaks, etc.) Check the buffer tanks for cracks or leaks, and missing covers."
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                309,
+                885,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Ensure that all switches, lights, and all safety interlock features are in proper working condition and that “Danger-High Voltage” warning signs are in place on the power supply and buffer tanks."
+                    }
+                ]
+            },
+            "bbox": [
+                192,
+                382,
+                887,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Report any and all machine deficiencies prior to use and use only apparatuses in proper working condition."
+                    }
+                ]
+            },
+            "bbox": [
+                192,
+                454,
+                885,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Make sure adequate clearance is established around the apparatus. Never allow the leads to dangle below the laboratory bench."
+                    }
+                ]
+            },
+            "bbox": [
+                192,
+                506,
+                885,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Locate all emergency power source shut-off locations."
+                    }
+                ]
+            },
+            "bbox": [
+                192,
+                559,
+                643,
+                578
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Operation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                592,
+                261,
+                611
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Wear all appropriate personal protective equipment (gloves, laboratory coat, and eye protection)."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                625,
+                885,
+                662
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Be aware that high voltage surges can occur when the apparatus is first turned on, even if the voltage is set to zero."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                676,
+                883,
+                715
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Changes in load, equipment failure, or power surges could raise the voltage at any time."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                728,
+                885,
+                767
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Make sure that the power is off before connecting the electrical leads. Connect both supply leads at the same time (to prevent one lead from being live in your hand) to the power supply before turning on the power supply. Otherwise, connect one lead at a time using one hand only."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                781,
+                887,
+                861
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e"
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                51,
+                857,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                869,
+                51,
+                883,
+                65
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Ensure that your gloved hands are dry while connecting leads. A thin film of moisture can act as a good conductor of electricity."
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                113,
+                887,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Always think and look before touching any part of the apparatus. Never touch any part of the apparatus while the power is “ON”, not even the plastic parts."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                165,
+                885,
+                226
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. If the electrophoresis buffer (the conductive fluid) is spilled or is leaking from the gel box, stop the run, turn off the equipment, clean up the bench top and inspect the device immediately before proceeding."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                237,
+                885,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Never open the gel box lid or reach inside the gel box until the power has been turned off. Do not rely on safety interlocks, as they may fail."
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                348,
+                885,
+                410
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. Do not override safety devices."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                421,
+                475,
+                441
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Post-Operation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                169,
+                454,
+                299,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Turn off the main power supply switch and wait 15 seconds before removing the lid and/or making any disconnection or connections. This ensures proper time was allowed to ensure complete voltage discharge."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                486,
+                885,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Properly dispose of the conductive fluid and gels."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                559,
+                619,
+                579
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Hazards of Gels"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                592,
+                305,
+                611
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Ethidium Bromide, commonly used to visualize nucleic acid, is a potent mutagen and should be handled with caution, even when mixed in the gel. Ethidium Bromide can be absorbed through the skin so it is also important to avoid any direct contact with the chemical."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                623,
+                887,
+                704
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Various catalysts, denaturants, stains and solubilizing agents contain a variety of chemicals, including formamide, phenol and acrylamide. This can result in unforeseen results. For example, a Canadian university analyzed agarose gels and found heavy metals, even though no metals or metal-containing reagents were used in the gel preparation. Presumably, the metals leached from the electrical contacts while the electrophoresis took place."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                715,
+                887,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Acrylamide is a potent nerve toxin in its unpolymerized state and poses significant hazards. Although it is less toxic when polymerized, when making gels, the polymerization process is never fully complete and small amounts of acrylamide monomer are always present."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                848,
+                887,
+                887
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                51,
+                885,
+                65
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                227,
+                113,
+                885,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Handle gels with caution, wear gloves and wash hands often."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                165,
+                704,
+                185
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Measure, mix and handle all hazardous powdered chemicals or gel prep mixtures with hazardous components in the fume hood (e. g., acrylamide monomer, ethidium bromide, phenol, ammonium persulfate and formaldehyde)."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                196,
+                885,
+                257
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Consider using ethidium bromide substitutes."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                270,
+                589,
+                290
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Always review the material safety data sheet and other sources of hazard information prior to working with any hazardous material."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                301,
+                885,
+                343
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INCUBATOR"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                464,
+                353,
+                593,
+                373
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Hazards and risk associated with the use of incubator and precautions to be taken."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                386,
+                874,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. All containers/materials placed in incubator should be labelled with name, date and contents."
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                419,
+                887,
+                459
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Containers/materials should be removed after the appropriate time of incubation to prevent overcrowding or contamination of the incubator."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                472,
+                885,
+                513
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Any spillage should be reported immediately to the laboratory technician/teacher and should be cleaned up in a manner appropriate to the material spilled."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                523,
+                885,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Where temperature in excess of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 7 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are in use, appropriate gloves must be worn."
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                575,
+                885,
+                616
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Any faults associated with an incubator should be reported immediately to the laboratory technician/teacher. If an incubator is faulty, it should be switched off until repaired."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                628,
+                887,
+                689
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Incubator should be subject to servicing based on manufacturers recommendations."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                700,
+                883,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Any cuts/burns sustained should be dealt with by first aid personnel and reported."
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                733,
+                869,
+                753
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Heat, electricity, chemicals, microorganisms, damaged containers"
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                819,
+                683,
+                838
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                51,
+                883,
+                65
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Risks associated with the use of incubators"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                169,
+                113,
+                508,
+                132
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Microbial contamination of body, clothing. Burns to skin electrical shock Chemical contamination of body ,clothing."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                145,
+                885,
+                184
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "People at risk when using incubators"
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                199,
+                464,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Students, Academic Staff, Technicians."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                231,
+                480,
+                250
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "UV-TRANSILLUMINATOR"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                405,
+                295,
+                650,
+                314
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "General Safety Guidelines:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                328,
+                387,
+                347
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "UV radiation can irreversibly damage the eyes and skin. You must take precautions by adhering to standard operating procedure (SOP) and using personal protective equipment (PPE) where applicable."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                361,
+                885,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The use of UV in the laboratory is governed by ‘The control of Artificial Optical Radiation at Work Regulations 2010’, UV light emitted from a transilluminator has peak outputs at 254nm or 312nm – within biologically active UV-C and UV-B regions."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                433,
+                885,
+                493
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The following safety precautions are advised:"
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                506,
+                526,
+                525
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. UV boxes should be kept in low occupancy areas, preferably in separate rooms."
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                539,
+                838,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Minimize contact time with the UV source."
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                570,
+                557,
+                589
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Maximize distance by working at arms’ length and avoid stooping over the work surface."
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                603,
+                883,
+                641
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Wear a full face shield designed for UV filtration (this is provided)."
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                655,
+                740,
+                674
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Wearing safety spectacles in addition to the full face shield improves protection and is recommended."
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                688,
+                885,
+                727
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Wear a full button lab coat with neck protection and full sleeves."
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                741,
+                720,
+                758
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Wear nitrile gloves at all times whilst UV light is in operation."
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                773,
+                697,
+                791
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Symptoms of UV over exposure:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                806,
+                436,
+                824
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Skin reddening, blistering and discomfort. A sandy, gritty feeling may be felt in the eyes."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                838,
+                856,
+                857
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                51,
+                848,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                51,
+                883,
+                65
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MAGNETIC STIRRER"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                428,
+                132,
+                629,
+                151
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": " Maintenance and Usage Recommendations"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                166,
+                519,
+                184
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Magnetic stirrer should be used on level surfaces."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                198,
+                619,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. If hazardous vapours will not be produced, hot plates should be in an area free of drafts to ensure heating efficiency."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                231,
+                885,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Keep the top surface of the magnetic stirrer clean. Use a non-abrasive cleaner to clean the surface and the outside of the unit."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                282,
+                885,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Replace the top surface if damage."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                335,
+                503,
+                354
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Maintain the instrument logbook, containing this SOP, temperature control record and/or maintenance repair logs, and associated instruction manuals in the immediate vicinity of the instrument."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                367,
+                885,
+                426
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": " Magnetic Stirrer Operation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                440,
+                392,
+                458
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Stir bar should be placed in the sample vessel prior to mixing. Place the vessel on the stirrer so that it is centred. For stirrers with multiple stirring blocks, centre the sample vessel over a stirring block."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                473,
+                885,
+                531
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Turn the instrument on (refer to instruction manual for instrument-specific procedures)."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                545,
+                885,
+                584
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Set the stirring speed (refer to instruction manual for instrument-specific procedures)."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                597,
+                885,
+                636
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Note that the stirring speed will be affected by liquid viscosity, the size of the stir bar, vessel size, and thickness of vessel bottom."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                648,
+                885,
+                689
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. When stirring is complete, turn magnetic stirrer off and remove sample."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                702,
+                794,
+                722
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "HOT PLATE"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                467,
+                733,
+                588,
+                752
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Maintenance and Usage Recommendations"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                767,
+                519,
+                786
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Hot plate should be used on level surfaces."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                799,
+                570,
+                818
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. If hazardous vapours will not be produced, hot plates should be in an area free of drafts to ensure heating efficiency."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                832,
+                887,
+                869
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                51,
+                848,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                51,
+                883,
+                65
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Keep the top surface of the hot plate clean. Use a non-abrasive cleaner to clean the surface and the outside of the unit."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                113,
+                885,
+                151
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Replace the top surface if damaged."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                165,
+                513,
+                184
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Do not use metal foil on hot plates."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                198,
+                511,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Maintain the instrument logbook, containing this SOP, temperature control record and/or maintenance repair logs, and associated instruction manuals in the immediate vicinity of the instrument."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                229,
+                885,
+                290
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Hot Plate Operation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                303,
+                341,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Note that during initial operation of a hot plate, some odour and vapours may be produced from the heating element, which is normal."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                335,
+                885,
+                375
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Place the sample vessel on the hot plate so that it is centred, where practical. For hot plates with multiple heating elements, centre the vessel over a heating element, where practical."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                387,
+                885,
+                446
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Turn the instrument on and set the thermostat to the desired setting (as specified in the study plan). Refer to the instrument’s instruction manual for instrument specific procedures."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                459,
+                885,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Allow around 10 minutes for hot plate and liquid temperatures to stabilize."
+                    }
+                ]
+            },
+            "bbox": [
+                228,
+                520,
+                815,
+                540
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. If necessary, adjust the temperature by adjusting the thermostat."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                553,
+                728,
+                571
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. When heating is complete, turn the unit off."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                585,
+                578,
+                604
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ROTARY SHAKER"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                441,
+                617,
+                614,
+                636
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pre-Analysis Checklist"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                169,
+                650,
+                354,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Make sure you have your required safety equipment of glasses, closed toe shoes, gloves, and laboratory coat."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                681,
+                883,
+                719
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Check the machine for any previous samples left inside."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                732,
+                669,
+                752
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Remove any dust or other foreign objects from the incubator platform with a soft towel or cloth."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                763,
+                883,
+                801
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Make sure the machine is plugged in."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                814,
+                526,
+                834
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Equipment Operation Loading the Shaker"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                169,
+                845,
+                511,
+                866
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Put your sample material in an acceptable container with a lid."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                877,
+                717,
+                897
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                51,
+                848,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                51,
+                883,
+                65
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Gently press the container in one of the spring housings until it is securely in place."
+                    }
+                ]
+            },
+            "bbox": [
+                196,
+                113,
+                877,
+                132
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Shaker operation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                171,
+                145,
+                315,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Close the lid of the incubator and turn on the machine using the power switch to the right hand side. The LED display will momentarily show the model number. (NOTE: the shaker will not operate of the lid is open)"
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                176,
+                885,
+                234
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Once the machine is powered on, the incubator may start running. Pressing the start/stop button will cause the shaking to stop."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                246,
+                885,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Press the select button until the RPM indicator is illuminated on the left hand side of the control panel."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                296,
+                885,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Use the arrow keys to set the RPM of the shaker. A value from 50 to 400 RPM is available. The number will set when no buttons are pressed."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                347,
+                885,
+                386
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Press the select key until the ºC INDICATOR illuminates."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                397,
+                694,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Set the temperature using the arrow keys. Temperature range is from 4º to 60ºC"
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                429,
+                861,
+                449
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Press the select key until the HRS INDICATOR is illuminated."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                460,
+                732,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Use the arrow keys to set the TIME of the shaker. This can be a value from .1 to 99.9."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                492,
+                885,
+                530
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. he number will set when no buttons are pressed. If a continuous run time is desired, simply press the start stop button."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                542,
+                885,
+                582
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. Press the START/STOP key. The shaker will start in untimed mode."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                593,
+                776,
+                613
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. Press the START/STOP key again. The shaker will stop and the display will read OFF."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                625,
+                885,
+                662
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. Press the START/STOP key a third time; the time indicator will light and the shaker will now start the timed run."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                675,
+                885,
+                714
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13. The machine will come to a stop once the timed run has ended. If running in untimed mode, the START/STOP key can be pressed at any desired time."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                727,
+                885,
+                765
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Shutdown"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                169,
+                777,
+                331,
+                795
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Make sure the machine has come to a complete stop and open the lid."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                809,
+                782,
+                828
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Remove any samples you need. Use a hot glove if high temperatures were set."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                840,
+                838,
+                859
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Turn off the power by flipping the switch off."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                873,
+                591,
+                892
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                51,
+                883,
+                65
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0628cb574df961febc0320803856ba6e3c94cee822e086beae82ee4b0799f1bc.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOME HAZARD WARNING ICONS DEFINITION"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">Laboratory WarningIcon</td><td colspan=\"1\" rowspan=\"1\">Icon definition</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/6051c9b482b01b3052f6bd897df9d3272f9423b399dace10f1717a2e4c8551c7.jpg\"/>BIOHAZARD</td><td colspan=\"1\" rowspan=\"1\">Indication of a biological agent, capable of self-replication,which presents or may present a hazard to the health or well-being of humans</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/cd61a304035d2584eadd73a4229b64867119043d52a1f51bc462db4c65197528.jpg\"/>BSL2Agent</td><td colspan=\"1\" rowspan=\"1\">The agent is a human blood borne pathogen or work withthe agent has been assigned to be handled in a BiosafetyLevel (BSL) 2 or ，BSL-3 ，or BSL-4 laboratory based ontheguidelines established in the CDC /NIH book\"BiosafetyinMicrobiologicalandBiomedicalLaboratories'.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/27a1a3b7c6e21ae60be74d8b97e4510b6ec37507ff728034239090170688a7c9.jpg\"/></td><td colspan=\"1\" rowspan=\"1\">Researchers have an IBC protocol that specifies BL1-P orBL2-P containment. Researchers that work with transgenic plants.Main species are Arabidopsis thaliana, tobaccomaize,tomato,and grapevine.These are not necessary tothe only types of plants in use. Researchers who work withnon-exotic plant pathogens</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/1b42fbd5a1a941ab54a3956a3e11d951b05f8112b858babb0f303ce41c4069f1.jpg\"/></td><td colspan=\"1\" rowspan=\"1\">The material contains any amount of High or Extreme hazardchemical that can/are known to cause cancer.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/f980d1c0bc9596ef7c10fcb4cc3661b22164f9614ff230ecc9d783ebf995c09e.jpg\"/>CHEMICALUSE</td><td colspan=\"1\" rowspan=\"1\">Chemicals are used or stored in the room; this symbol istypically used in conjunction with one of the smaller hazardwarning icons</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/95212969b5e9d6222353b6c77197eeae1e0752e8ac74414fd10462caae2cde5d.jpg\"/>CORROSIVEMATERIALS</td><td colspan=\"1\" rowspan=\"1\">Indication of presence of a corrosive material, thatisdefined as a solid caustic substance or a liquid which has a2 &lt;pH&lt;12.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/538761008bf8086cbc6cb30a27b64cf7f90560de0d5d7c8759e973ffdbc619de.jpg\"/></td><td colspan=\"1\" rowspan=\"1\"> Indication of Cryogenic materials which are liquefied gases that are kept in their liquid state at very low temperatures.These liquids have boiling points below -238F (-150C).</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/badc5837cc259520e8be581ed0db7d8368a719234f06610a78add8fcc2fdf60f.jpg\"/></td><td colspan=\"1\" rowspan=\"1\">Indication of a flammable gas which is defined as any gasthat has a flash point below 100 F (37.8 C) with a container pressure of 40 psig at 100 °F.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/a9249c3eedd7272202a357a9572353c0c4068c33b7c4e348f933cd137be0439b.jpg\"/>FLAMMABLELIQUIDS</td><td colspan=\"1\" rowspan=\"1\">Indication of a flammable liquid which is defined as anyliquid that has a flash point below 1OO degrees Fahrenheit(F) or 37.8 degrees Centigrade (C)</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/611876cfd7f2cc0a869d4293ac7a76f90a44b1156b663ced3d869aff884ac5a6.jpg\"/></td><td colspan=\"1\" rowspan=\"1\">Indication of an inert gas which is a gas which does notundergo chemical reactions under a set of given conditions(generally, is non-reactive with other substances).</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/8706ab18e5604fed2fc7d479b0417651daef8f79a2155d57689c73e9ec2a65ca.jpg\"/></td><td colspan=\"1\" rowspan=\"1\">Indication of class 3B or 4 lasers as defined by ANSIStandard Z136.1.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/a204fc24f8b9b89ee0fb1322458e93f0f448848bb5747dd03e49055c4d33d976.jpg\"/></td><td colspan=\"1\" rowspan=\"1\">Indication of any sources that produce magnetic fields of0.5mT or greater (for both static fields and time varyingfields over 30kHz)</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/1b4fd6d7dab1f62b55c170dd99e5f568b38e45fd32c5de015e09462309954da1.jpg\"/></td><td colspan=\"1\" rowspan=\"1\">Indication of unbound (not affixed to a surfaceor imbedded in a matrix) engineered nanomaterials that may pose occupational health risks by means of inhalation,ingestion or dermal exposure.Nanoparticles are defined as a material with at least onedimension, ranging between 1 to 100 nanometers in size.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/73e2e47abc845571119db5d6f375cf77c22bd97fc360a940bec5e3c414323935.jpg\"/></td><td colspan=\"1\" rowspan=\"1\">Indication of any oxidizer that is defined as a substance thatwill cause any increase in the burning rate of a combustiblematerial.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/10e468c25f2b4272a4ae64cc67c24b1dd423ee9f792e5376039cf63087e0df41.jpg\"/>RADIOACTIVEMATERIAL</td><td colspan=\"1\" rowspan=\"1\">Indication of any amount of radioactive material.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/6ff7c7abab424493ae01beeee5434498ab34c6aad47da124bc7aab0e5be0ff5c.jpg\"/></td><td colspan=\"1\" rowspan=\"1\">Indication of any work involving recombinant DNA</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/9d836f2d399c9299d60adc0b5d9e0051f0b28163974d3be2273ffc60c0c03b20.jpg\"/></td><td colspan=\"1\" rowspan=\"1\">Indication of any amount of a toxic gas (inhalation 200 &lt;LC50 &lt; 200O ppm) or highly toxic gas (inhalation LC50 &lt;200 ppm).</td></tr><tr><td colspan=\"1\" rowspan=\"1\"><img src=\"images/5431c082ad2c3922a08de707fdcea8d91ac2174dd571500e98859d38681bdd81.jpg\"/>TOXICMATERIALS</td><td colspan=\"1\" rowspan=\"1\">Indication of any toxic chemical which is a substance with an oral LD5O of less than 50 mg/kg or skin toxicity of lessthan 200 mg/kg</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                223,
+                143,
+                890,
+                877
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e"
+                    }
+                ]
+            },
+            "bbox": [
+                795,
+                51,
+                848,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "16"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                51,
+                883,
+                65
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                223,
+                111,
+                890,
+                844
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                51,
+                848,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "17"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                53,
+                883,
+                65
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                223,
+                111,
+                890,
+                848
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                51,
+                848,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "18"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                53,
+                883,
+                65
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                230,
+                276,
+                328,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.  (2016) Oregon State University pp1-4."
+                    }
+                ]
+            },
+            "bbox": [
+                259,
+                309,
+                883,
+                348
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.  Office of Environment, Health and Safety, Berkeley, University of California."
+                    }
+                ]
+            },
+            "bbox": [
+                259,
+                361,
+                883,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Compiled by:"
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                414,
+                343,
+                433
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "P.Tiatemsu"
+                    }
+                ]
+            },
+            "bbox": [
+                348,
+                445,
+                446,
+                463
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Department of Botany"
+                    }
+                ]
+            },
+            "bbox": [
+                348,
+                463,
+                532,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fazl Ali College; Mokokchung"
+                    }
+                ]
+            },
+            "bbox": [
+                348,
+                481,
+                593,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Nagaland"
+                    }
+                ]
+            },
+            "bbox": [
+                348,
+                498,
+                429,
+                516
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "P a g e"
+                    }
+                ]
+            },
+            "bbox": [
+                795,
+                51,
+                848,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                51,
+                883,
+                65
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "uvULTRAVIOLETLIGHT"
+                    }
+                ]
+            },
+            "bbox": [
+                225,
+                112,
+                401,
+                236
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Indication of a machine that produces any amount of Ultraviolet light. UV light is an electromagnetic spectrum that falls between visible light with wavelengths of 400 nanometers and x-rays at 4 nm and below."
+                    }
+                ]
+            },
+            "bbox": [
+                415,
+                114,
+                885,
+                184
+            ]
+        }
+    ]
+]

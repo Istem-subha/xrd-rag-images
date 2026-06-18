@@ -1,0 +1,6815 @@
+[
+    {
+        "type": "text",
+        "text": "Laboratory Manual",
+        "text_level": 1,
+        "bbox": [
+            309,
+            97,
+            690,
+            134
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For",
+        "bbox": [
+            452,
+            156,
+            510,
+            183
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Instrumental Methods of Analysis (CHC506)",
+        "text_level": 1,
+        "bbox": [
+            252,
+            203,
+            746,
+            273
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AY: 2021-22",
+        "bbox": [
+            403,
+            336,
+            594,
+            362
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c513d9c3df690e3bac9de466612167800ef803004e2e754f25cca00b39e6049f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            332,
+            404,
+            665,
+            826
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Chemical Engineering Indian Institute of Technology(ISM) Dhanbad",
+        "bbox": [
+            262,
+            832,
+            734,
+            884
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            48,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Index:-",
+        "text_level": 2,
+        "bbox": [
+            115,
+            72,
+            210,
+            95
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fcb29ecc85fad58cd1e973495e6e0106f97157f20336a307f5e0be64557535a6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>S.No.</td><td rowspan=1 colspan=1>Name of the Experiment</td><td rowspan=1 colspan=1>PageNo.</td></tr><tr><td rowspan=1 colspan=1>1.</td><td rowspan=1 colspan=1>Size reduction studies using Planetary ball mill</td><td rowspan=1 colspan=1>7</td></tr><tr><td rowspan=1 colspan=1>2.</td><td rowspan=1 colspan=1> Particle size distribution measurements using Particle size Analyzer</td><td rowspan=1 colspan=1>9</td></tr><tr><td rowspan=1 colspan=1>3.</td><td rowspan=1 colspan=1>Particle size distribution measurements using Zeta Sizer</td><td rowspan=1 colspan=1>11</td></tr><tr><td rowspan=1 colspan=1>4.</td><td rowspan=1 colspan=1>Detection of functional groups using FTIR Analysis</td><td rowspan=1 colspan=1>13</td></tr><tr><td rowspan=1 colspan=1>5.</td><td rowspan=1 colspan=1>Studies on UV-VIS spectrometry</td><td rowspan=1 colspan=1>17</td></tr><tr><td rowspan=1 colspan=1>6.</td><td rowspan=1 colspan=1> Rheometric analysis of fluids using Rheometer</td><td rowspan=1 colspan=1>20</td></tr><tr><td rowspan=1 colspan=1>7.</td><td rowspan=1 colspan=1>Contact angle measurements techniques using Goniometer</td><td rowspan=1 colspan=1>24</td></tr><tr><td rowspan=1 colspan=1>8.</td><td rowspan=1 colspan=1> Refractive index measurement using Refractometer</td><td rowspan=1 colspan=1>27</td></tr><tr><td rowspan=1 colspan=1>9.</td><td rowspan=1 colspan=1>Ultimate analysis of solid fuel using CHNS analyzer</td><td rowspan=1 colspan=1>29</td></tr><tr><td rowspan=1 colspan=1>10.</td><td rowspan=1 colspan=1>Surface characterization using Optical Microscopy</td><td rowspan=1 colspan=1>33</td></tr></table>",
+        "bbox": [
+            107,
+            129,
+            889,
+            552
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            124,
+            926,
+            635,
+            944
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 | P a g e",
+        "bbox": [
+            756,
+            926,
+            838,
+            944
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            35,
+            589,
+            55
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "L: T: P: 0-0-2",
+        "bbox": [
+            751,
+            68,
+            877,
+            86
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Course Title : Instrumental Methods of Analysis",
+        "bbox": [
+            115,
+            107,
+            603,
+            126
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Course Objectives : To teach and provide a hands-on experience for different analytical equipment/instruments that are useful for carrying out research in different areas in Chemical Engineering.",
+        "bbox": [
+            115,
+            155,
+            882,
+            225
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Learning Outcomes : Students will be proficient for the use of studied instrumental techniques in chemical engineering research.",
+        "bbox": [
+            115,
+            254,
+            880,
+            299
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/615c15ed8809eb34e9db486cdc72d1825c5d0e224278052a445ef59d11c420a6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Units</td><td rowspan=1 colspan=1>Name of the experiment</td></tr><tr><td rowspan=5 colspan=1> 1. Analytical instruments/equipment</td><td rowspan=1 colspan=1> Size reduction studies using Planetary ball mill</td></tr><tr><td rowspan=1 colspan=1>Particle size distribution measurements using Particle sizeAnalyzer</td></tr><tr><td rowspan=1 colspan=1> Particle size distribution measurements using Zeta Sizer</td></tr><tr><td rowspan=1 colspan=1> Detection of functional groups using FTIR Analysis</td></tr><tr><td rowspan=1 colspan=1> Studies on UV-VIS spectrometry</td></tr><tr><td rowspan=2 colspan=1>2. Flowcharacterization &amp; wettability</td><td rowspan=1 colspan=1>Rheometric analysis of fluids using Rheometer</td></tr><tr><td rowspan=1 colspan=1> Contact angle measurements techniques using Goniometer</td></tr><tr><td rowspan=2 colspan=1> 3. Optical instruments</td><td rowspan=1 colspan=1> Surface characterization using Optical Microscopy</td></tr><tr><td rowspan=1 colspan=1> Refractive index measurement using Refractometer</td></tr><tr><td rowspan=1 colspan=1>4. Elemental analysis</td><td rowspan=1 colspan=1> Ultimate analysis of solid fuel using CHNS analyzer</td></tr></table>",
+        "bbox": [
+            109,
+            351,
+            885,
+            690
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            914,
+            110,
+            964
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            124,
+            925,
+            635,
+            944
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 | P a g e",
+        "bbox": [
+            754,
+            926,
+            838,
+            944
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dress appropriately",
+        "bbox": [
+            386,
+            216,
+            547,
+            254
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lab Safety Rules",
+        "bbox": [
+            115,
+            96,
+            319,
+            117
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/162eab798d48dfbd3a9b4291f227a63d6af395efdbd73e03e498ae1d0828d688.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            134,
+            349,
+            361
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lab Safety Rules",
+        "text_level": 1,
+        "bbox": [
+            146,
+            373,
+            349,
+            516
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Science labs offer great opportunitiesfor learning, teaching,and research. Theyalso pose hazards thatrequire propersafety precautions.",
+        "bbox": [
+            146,
+            523,
+            351,
+            626
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/378ee688407c734ed8a1ab20aa345e3094ea2d110fb369b9e2c16c4b9534eee4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            639,
+            215,
+            788
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Stay safe   \nwhen   \nconducting your labsby following   \nthese   \nguidelines.",
+        "bbox": [
+            221,
+            645,
+            341,
+            781
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/98e4b0b7d7c89cb99528a5f27336e49f5a0aa5ce5635684e2cfacd021e912b10.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Proper supervision Dontperform labexperimentswithout instructor supervision (unless given permission todo so)."
+        ],
+        "bbox": [
+            389,
+            135,
+            569,
+            219
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tieback long hair,and wear suitable gloves, goggles,and otherprotective equipment.",
+        "bbox": [
+            386,
+            253,
+            598,
+            275
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/97dc04e050c6f7496f9dc3ee169071f123e7df2a015ba67b737e3506a7827f39.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            635,
+            195,
+            863,
+            280
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a528f280a5fd963800e8e1b61edec723dc3cd680f4bdf5fd8f046c504c26d26c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            389,
+            288,
+            448,
+            365
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Know location of emergency numbers&safety equipment",
+        "text_level": 2,
+        "bbox": [
+            460,
+            297,
+            798,
+            337
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Knowthelocation of safety equipmentand emergencyphone numbers (suchaspoisoncontrol)soyoucanaccessthemquicklyifnecessary",
+        "bbox": [
+            460,
+            337,
+            794,
+            360
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a78eb9b103ba54a10e0a281d1843d13d9f1b6f0623af0b915232625c74620178.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            801,
+            323,
+            863,
+            360
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/353b21a6243794bc57564ce87908ff51ca4dc4a5a790bda4a96f89b6c7356c5a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            386,
+            378,
+            521,
+            472
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "No food",
+        "text_level": 2,
+        "bbox": [
+            389,
+            476,
+            484,
+            495
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Donteat ordrink in the laband never taste chemicals.",
+        "bbox": [
+            389,
+            498,
+            534,
+            519
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1c70a05e31052fb33f41aee077456a781712fccc2a003779259359a6b7b0a93.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            561,
+            375,
+            692,
+            469
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ID hazards",
+        "text_level": 2,
+        "bbox": [
+            559,
+            475,
+            689,
+            497
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Identify hazardousmaterials before beginning labs.",
+        "bbox": [
+            557,
+            498,
+            695,
+            519
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3a5c4b3174fa06e66516d736bb473921498c212517b569a7f079db9d9051a1d.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Beattentive",
+            "Beattentive while in the lab. Don'tleavelit Bunsenburners unattended or leaveanexperiment inprogress."
+        ],
+        "bbox": [
+            744,
+            374,
+            868,
+            460
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Becareful when handling hot glassware",
+        "text_level": 2,
+        "bbox": [
+            388,
+            538,
+            665,
+            580
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Turnoff allheatingappliances when not inuse.Keepflammable objectsawayfromyourworkspace.",
+        "bbox": [
+            388,
+            580,
+            690,
+            601
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/330c8d6bc1fcf1afd749073cc79bd99b0ba9e7f766d28456dd12d4d7cf201f71.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            690,
+            536,
+            749,
+            600
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba9adc5209e90024e7b4c86a7c31c5e5cf8b91e6f0203d576c5ce96f4be2a3db.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            761,
+            537,
+            862,
+            600
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b16f91a54fedd4c3efb72d0176f4074540db2aa283a6093d80390ddedc50d9ef.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            388,
+            618,
+            462,
+            670
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddcfc7ffa44d13b2504ba94acaff22aef6f152f7b2959f6b3b6e17370900e64e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            478,
+            620,
+            539,
+            695
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Keep aclean workspace",
+        "bbox": [
+            388,
+            673,
+            522,
+            728
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Don't obstruct work areas, floors,orexits.Keepcoats bags,and otherpersonal items stored indesignatedareas away from thelab.Don'tblock sink drains with debris.",
+        "bbox": [
+            388,
+            728,
+            537,
+            788
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f20675fc7d28d1e063dffe3ee2536a70364cc2ae0c6be946afd487c3cf8f36a2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            559,
+            611,
+            700,
+            689
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Handle glassware carefully",
+        "bbox": [
+            559,
+            693,
+            689,
+            751
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Properlydisposeofanything thatbreaks.Reportcuts, spills,and broken glass to yourinstructorimmediately.",
+        "bbox": [
+            559,
+            750,
+            697,
+            791
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ad46ea55a06076c9ccc1c54c480898a9886d3fcbfa5efd96f82d67421cf0694.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            707,
+            615,
+            867,
+            692
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cleanup",
+        "text_level": 2,
+        "bbox": [
+            714,
+            694,
+            820,
+            714
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Aftercompleting the lab carefully clean yourworkspace and theequipment,and wash your hands.",
+        "bbox": [
+            712,
+            714,
+            863,
+            756
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            48,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            124,
+            926,
+            635,
+            944
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 | P a g e",
+        "bbox": [
+            754,
+            927,
+            838,
+            942
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            35,
+            589,
+            55
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Lab Safety Do's and Don'ts for Students",
+        "text_level": 2,
+        "bbox": [
+            114,
+            70,
+            586,
+            93
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Use this handy checklist to acquaint students with safety do's and don’ts in the laboratory.",
+        "bbox": [
+            126,
+            114,
+            811,
+            156
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conduct",
+        "text_level": 2,
+        "bbox": [
+            127,
+            164,
+            211,
+            180
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Do not engage in practical jokes or boisterous conduct in the laboratory.",
+        "bbox": [
+            129,
+            187,
+            749,
+            206
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Never run in the laboratory.",
+        "bbox": [
+            129,
+            217,
+            393,
+            235
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ The use of personal audio or video equipment is prohibited in the laboratory",
+        "bbox": [
+            129,
+            246,
+            783,
+            265
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ The performance of unauthorized experiments is strictly forbidden",
+        "bbox": [
+            129,
+            274,
+            705,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Do not sit on laboratory benches.",
+        "bbox": [
+            129,
+            304,
+            435,
+            323
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "General Work Procedure",
+        "text_level": 2,
+        "bbox": [
+            129,
+            332,
+            357,
+            350
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Know emergency procedures.",
+        "bbox": [
+            129,
+            362,
+            408,
+            381
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Never work in the laboratory without the supervision of an instructor.",
+        "bbox": [
+            129,
+            391,
+            729,
+            410
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Always perform the experiments or work precisely as directed by your instructor.",
+        "bbox": [
+            129,
+            420,
+            825,
+            439
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Immediately report any spills, accidents, or injuries to your instructor.",
+        "bbox": [
+            129,
+            450,
+            731,
+            468
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Never leave experiments while in progress.",
+        "bbox": [
+            129,
+            479,
+            515,
+            498
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Never attempt to catch a falling object.",
+        "bbox": [
+            129,
+            508,
+            482,
+            526
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Be careful when handling hot glassware and apparatus in the laboratory. Hot glassware looks just like cold glassware.",
+        "bbox": [
+            129,
+            537,
+            786,
+            581
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Never point the open end of a test tube containing a substance at yourself or others.",
+        "bbox": [
+            129,
+            590,
+            838,
+            609
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Never fill a pipette using mouth suction. Always use a pipetting device.",
+        "bbox": [
+            129,
+            620,
+            744,
+            638
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Make sure no flammable solvents are in the surrounding area when lighting a flame.",
+        "bbox": [
+            129,
+            649,
+            847,
+            668
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Do not leave lit Bunsen burners unattended.",
+        "bbox": [
+            129,
+            677,
+            522,
+            696
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Turn off all heating apparatus, gas valves, and water faucets when not in use.",
+        "bbox": [
+            129,
+            707,
+            788,
+            725
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Do not remove any equipment or chemicals from the laboratory",
+        "bbox": [
+            129,
+            736,
+            684,
+            755
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Store coats, bags, and other personal items in designated areas.",
+        "bbox": [
+            129,
+            765,
+            675,
+            783
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Notify your instructor of any sensitivities that you may have to particular chemicals.",
+        "bbox": [
+            129,
+            794,
+            847,
+            813
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "▪ Keep the floor clear of all objects (e.g., ice, small objects, spilled liquids).",
+        "bbox": [
+            129,
+            822,
+            763,
+            843
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Housekeeping",
+        "text_level": 2,
+        "bbox": [
+            129,
+            852,
+            260,
+            871
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Keep work area neat and free of any unnecessary objects.",
+        "bbox": [
+            129,
+            882,
+            630,
+            901
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            48,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            124,
+            925,
+            635,
+            944
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 | P a g e",
+        "bbox": [
+            754,
+            926,
+            838,
+            944
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            47,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "▪ Thoroughly clean your laboratory workspace at the end of the laboratory session.",
+        "bbox": [
+            129,
+            70,
+            821,
+            87
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "▪ Do not block the sink drains with debris.",
+        "bbox": [
+            129,
+            98,
+            495,
+            116
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "▪ Never block access to exits or emergency equipment.",
+        "bbox": [
+            129,
+            127,
+            598,
+            146
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "▪ Inspect all equipment for damage (cracks, defects, etc.) prior to use—do not use damaged equipment.",
+        "bbox": [
+            129,
+            156,
+            813,
+            199
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "▪ Never pour chemical waste into sink drains or wastebaskets.",
+        "bbox": [
+            129,
+            210,
+            655,
+            229
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "▪ Place chemical waste in appropriately labelled waste containers.",
+        "bbox": [
+            129,
+            239,
+            685,
+            258
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "▪ Properly dispose of broken glassware and other sharp objects (e.g., syringe needles) immediately in designated containers.",
+        "bbox": [
+            129,
+            268,
+            843,
+            312
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "▪ Properly dispose of weigh boats, gloves, filter paper, and paper towels in the laboratory.",
+        "bbox": [
+            129,
+            322,
+            786,
+            365
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Apparel in the Laboratory",
+        "text_level": 2,
+        "bbox": [
+            129,
+            376,
+            366,
+            395
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "▪ Always wear appropriate eye protection (i.e., chemical splash goggles) in the laboratory.",
+        "bbox": [
+            129,
+            405,
+            789,
+            448
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Wear disposable gloves, as provided in the laboratory, when handling hazardous materials. Remove the gloves before exiting the laboratory.",
+        "bbox": [
+            129,
+            458,
+            816,
+            502
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "▪ Wear a full-length, long-sleeved laboratory coat or chemical-resistant apron.",
+        "bbox": [
+            129,
+            512,
+            783,
+            531
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Wear shoes that adequately cover the whole foot. Low-heeled shoes with non-slip soles are preferable. Do not wear sandals, open-toed shoes, open-backed shoes, or high-heeled shoes.",
+        "bbox": [
+            129,
+            541,
+            830,
+            609
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Avoid wearing shirts exposing the torso, shorts, or short skirts; long pants that completely cover the legs are preferable.",
+        "bbox": [
+            129,
+            620,
+            800,
+            664
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            124,
+            926,
+            635,
+            944
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 | P a g e",
+        "bbox": [
+            754,
+            926,
+            838,
+            944
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Experiment No 1: Planetary Ball Mill",
+        "text_level": 2,
+        "bbox": [
+            332,
+            68,
+            665,
+            87
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Aim: To reduce the size of the particle from micro to nano using planetary ball mill and study the size distribution using particle size analyzer",
+        "bbox": [
+            114,
+            99,
+            882,
+            143
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Apparatus: Feed particles (coal, glass), balls, planetary ball mill.",
+        "bbox": [
+            115,
+            149,
+            652,
+            168
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Theory: Planetary Ball Mills are used wherever the highest degree of fineness is required. Apart from the classical mixing and size reduction processes, the mills also meet all the technical requirements for colloidal grinding and have the energy input necessary for mechanical alloying processes. The extremely high centrifugal forces of planetary ball mills result in very high pulverization energy and therefore, short grinding times.",
+        "bbox": [
+            114,
+            173,
+            882,
+            292
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The planetary ball mill has four ball grinding jars installed on one planetary disk. When the disk rotates, the jars axis makes the planetary rotation in opposite directions, and the balls in the jars grind and mix samples in high-speed movement. The product can smash and blend various products of different materials and granularity with dry or wet methods.",
+        "bbox": [
+            114,
+            297,
+            882,
+            391
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/71354e6e3a0fbaa03cb394d66784c8becc9f3835e83b3d8326a80772f6daacc8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            124,
+            399,
+            877,
+            661
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Step-wise procedure:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            681,
+            305,
+            699
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1. Prepare the sample by mechanically grinding the feed particles in a mortar and pestle.",
+        "bbox": [
+            146,
+            705,
+            873,
+            724
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2. Pass the grounded materials through a 200 mesh sieve.",
+        "bbox": [
+            144,
+            730,
+            625,
+            747
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. Take the particles which are passing through the sieve as feed for the planetary ball mill.",
+        "bbox": [
+            144,
+            755,
+            880,
+            796
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Select the size of the balls according to the size of the particles that is needed.",
+        "bbox": [
+            144,
+            803,
+            810,
+            821
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5. Measure the weight of the feed and accordingly take balls in the ratio of 1:3 by weight.",
+        "bbox": [
+            144,
+            827,
+            880,
+            870
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            124,
+            926,
+            635,
+            944
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "7 | P a g e",
+        "bbox": [
+            754,
+            926,
+            838,
+            944
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            47,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6. Clean the balls and the jar thoroughly with water at first and then acetone and wipe properly with tissue paper.",
+        "bbox": [
+            144,
+            68,
+            880,
+            112
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7. Pour the balls and the particles in the jar and close tightly according to the protocols.",
+        "bbox": [
+            146,
+            118,
+            865,
+            137
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8. Select the time of grinding and pause time according to the size reduction of particles required.",
+        "bbox": [
+            146,
+            142,
+            880,
+            185
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9. Set the jar rpm and the sun rpm in the ratio of 5:1 according to size reduction required.",
+        "bbox": [
+            144,
+            192,
+            880,
+            235
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "10. Run the ball mill.",
+        "bbox": [
+            147,
+            242,
+            324,
+            259
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "11. After the grinding is done safely take out the particles from the ball mill.",
+        "bbox": [
+            146,
+            266,
+            768,
+            284
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "12. Clean the jar and the ball with acetone and water as done in step 6.",
+        "bbox": [
+            146,
+            291,
+            721,
+            309
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Observation:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            316,
+            235,
+            332
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Particles taken:",
+        "bbox": [
+            115,
+            340,
+            247,
+            356
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Size of particles taken: 200 mesh(underpass)",
+        "bbox": [
+            115,
+            365,
+            484,
+            382
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table:Results of the ball milling",
+        "bbox": [
+            115,
+            390,
+            383,
+            407
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3a63ee87af012662fc840af13e4f24a70ae10722c4b66709c90e5444820bf9db.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>S1. No</td><td>Sun rpm</td><td>Jar rpm</td><td>Weight of feed(gr ams)</td><td>Weight of balls(gram s）</td><td>Directi onof rotation of jar</td><td>Timeof cycle(min)|pause(min|cycles product(gr</td><td>TimeofNo ofWeight of ）</td><td></td><td>ams)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            107,
+            411,
+            922,
+            539
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Application:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            564,
+            230,
+            582
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Precautions:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            588,
+            231,
+            605
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            613,
+            324,
+            630
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Questionnaire:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            637,
+            242,
+            653
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1. What is Borosilicate Glass? What are its applications? Which Component in its composition does its grade depend?",
+        "bbox": [
+            146,
+            667,
+            882,
+            705
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2. In a ball mill of diameter 2000 mm, 100 mm dia. steel balls are being used for grinding. Presently, for the material being ground, the mill is run at 15 rpm. At what speed will the mill have to be run if the 100 mm balls are replaced by 50 mm balls, all the other conditions remaining the same?",
+        "bbox": [
+            144,
+            722,
+            882,
+            797
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3. What is the size reduction principle of Planetary Ball mill? What is the maximum ratio of speed(rpm) jar to sun? what is the maximum amount of feed could be used in the planetary ball mill used here?",
+        "bbox": [
+            146,
+            810,
+            882,
+            862
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            124,
+            926,
+            633,
+            942
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8 | P a g e",
+        "bbox": [
+            754,
+            927,
+            836,
+            942
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 1,
+        "bbox": [
+            47,
+            35,
+            589,
+            55
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Experiment No 2: Particle Size Analyzer",
+        "text_level": 1,
+        "bbox": [
+            319,
+            68,
+            677,
+            87
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Aim: To determine the size of coal and pet coke sample using Particle Size Analyzer.",
+        "bbox": [
+            115,
+            93,
+            813,
+            112
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Apparatus: Microtrac Model S3500 Particle Size Analyzer.",
+        "bbox": [
+            115,
+            118,
+            611,
+            137
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Theory: Particle Size Analyzer determines the size of sub-atomic particles. It is based on the phenomena of scattering of light. A complete Microtrac Model S3500 Particle Size Analyzer system contains a wet sample re-circulator and/or dry sample delivery device, the S3500 analyzer and a computer that is running the Microtrac Application software. The device measures light scattered from particles in a laser beam. The amount and direction of light scattered by the particles, measured by optical detector arrays are analyzed to determine the particle size distribution. The scattering of light used for this was well explained by MIE scattering theory.",
+        "bbox": [
+            114,
+            142,
+            884,
+            336
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e6caa8c77dd427488a638b05c5d97f3875a3d4be061509814863a1e910740fb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            124,
+            343,
+            880,
+            636
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Principle: The Laser diffraction measures particle size distribution by measuring the angular variation in the intensity of light.The particle size is reported as a volume equivalent sphere diameter. Light particles scatter at small angles relative to the laser beam and large particle scatter at lower angles. The angular scattering intensity data is then analyzed to calculate the size of the particles responsible for creating a scattering pattern using the MIE theory of light scattering.The analyzer itself does not measure the particle size; it measures the angle and intensity of light scattered from a particle in the sample.The information is then passed to the analyzer designed to use MIE scattering theory, which transforms the scattered light data into particle size information.",
+        "bbox": [
+            114,
+            653,
+            884,
+            872
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Procedure: At first sampling is done.",
+        "bbox": [
+            115,
+            876,
+            426,
+            896
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            914,
+            110,
+            964
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            124,
+            925,
+            635,
+            944
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9 | P a g e",
+        "bbox": [
+            754,
+            926,
+            836,
+            944
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            47,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Sample measurement: If a Nanotrac NAS 35 is there we refer to the section below describing the NAS 35 operation. From the measure, menu select instrument, Select the desired Microtrac Product-(e.g. S3500/S3000).A S3500/S3000 measurement window will open.",
+        "bbox": [
+            114,
+            70,
+            882,
+            161
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "➢ Click on the setup button to open the measurement setup dialog.",
+        "bbox": [
+            156,
+            167,
+            712,
+            185
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "➢ Then click on the options button to open the measurement setup options property.",
+        "bbox": [
+            156,
+            192,
+            853,
+            211
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "➢ Set the appropriate measurement setup parameters on each tab of the measurement setup options dialog.",
+        "bbox": [
+            156,
+            217,
+            880,
+            260
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "➢ Click on the OK button.",
+        "bbox": [
+            157,
+            266,
+            389,
+            284
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "➢ Close the measurement setup dialog.",
+        "bbox": [
+            156,
+            291,
+            490,
+            309
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "➢ Save the measurement to the database by clicking on the “save as” option.",
+        "bbox": [
+            156,
+            316,
+            793,
+            334
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "➢ Fill the sample system with a clean carrier fluid.",
+        "bbox": [
+            157,
+            340,
+            584,
+            357
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "➢ From the main toolbar, click to collect a background level measurement.",
+        "bbox": [
+            156,
+            365,
+            779,
+            382
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "➢ Open the sample loading display and add sample to the sample system until the indicator bar in the green zone. Then close the display or click run to start a sample measurement. This display is periodically updated as indicated by the progress bar in the lower part of the display.",
+        "bbox": [
+            156,
+            390,
+            882,
+            482
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "➢ When the data collection is complete, the measurement data is calculated and displayed.",
+        "bbox": [
+            156,
+            487,
+            882,
+            531
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "➢ You can print a report of the displayed data by clicking the “Print” button in the data display Toolbar.",
+        "bbox": [
+            156,
+            537,
+            880,
+            580
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Observation:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            587,
+            235,
+            602
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/394931740fa34ef6314b4f1c9350dafeb85fcdf04c7e078bcfb4b80529df964b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Percentile</td><td>Respective size of sample(μm)</td></tr><tr><td></td><td></td></tr></table>",
+        "bbox": [
+            109,
+            609,
+            887,
+            662
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Application:",
+        "text_level": 2,
+        "bbox": [
+            117,
+            687,
+            230,
+            706
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Precautions:",
+        "bbox": [
+            117,
+            712,
+            230,
+            728
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion:",
+        "bbox": [
+            115,
+            737,
+            326,
+            753
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Questionnaire:",
+        "bbox": [
+            115,
+            762,
+            250,
+            778
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1. What is the main phenomena by the help of which PSA works?",
+        "bbox": [
+            146,
+            791,
+            652,
+            808
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2. Define the phenomena of Diffraction.",
+        "bbox": [
+            146,
+            809,
+            463,
+            825
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3. Describe the working principle of PSA.",
+        "bbox": [
+            146,
+            827,
+            475,
+            843
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            630,
+            942
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b0b99d663960929d0e9a58a446cea5c4ead22b755cdb7173cb93bc80e985ddc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            248,
+            588,
+            764,
+            846
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Experiment No 3: Zeta Sizer",
+        "text_level": 2,
+        "bbox": [
+            371,
+            68,
+            626,
+            87
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Aim: To determine the particle size, zeta potential and molecular weight of the sample. Apparatus: Zetasizer Nano Instrument",
+        "bbox": [
+            115,
+            93,
+            868,
+            137
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Theory: The Zetasizer Nano range of instruments provides the ability to measure three characteristics of particles or molecules in a liquid medium. These three fundamental parameters are Particle size, Zeta potential and Molecular weight. By using the technique technology within theZetasizer system, these parameters can be measured over awide range of concentrations. The Zetasizer system also can perform micro-rheology, auto-titration measurements and trend measurements, including the determination of the protein melting point.",
+        "bbox": [
+            114,
+            143,
+            882,
+            311
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The Zetasizer range features pre-aligned optics and programmable measurement position for the measurement of size and zeta potential over a wide concentration range and precise temperature control necessary for reproducible, repeatable and accurate measurements. Also other key parameters such as conductivity and with the MPT-2 Titrator, pH can be measured. The Zetasizer Nano range has been designed so that a minimal amount of user interaction is necessary to achieve excellent results. The use of Standard Operating Procedures (SOPs) and features such as the Folded capillary cell alleviate the need for constant attention.",
+        "bbox": [
+            114,
+            340,
+            882,
+            508
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Principle: Dynamic scattering of light caused due to Brownian motion.",
+        "bbox": [
+            115,
+            537,
+            699,
+            556
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Working of Zetasizer Nano Instrument",
+        "bbox": [
+            339,
+            879,
+            660,
+            898
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            925,
+            630,
+            944
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "11 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            47,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Procedure:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            70,
+            220,
+            86
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "✓ Prepare aqueous samples with different concentration (volume %) of any nanopowder, which is insoluble in water.",
+        "bbox": [
+            146,
+            93,
+            882,
+            136
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "✓ Place all the samples in an ultrasonic bath to ensure a uniform concentration of nanopowder throughout the solution.",
+        "bbox": [
+            146,
+            142,
+            884,
+            186
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "✓ Turn on the instrument and enter all the pre-requisite values (such as refractive index, name of the sample, etc.) into the software.",
+        "bbox": [
+            146,
+            192,
+            882,
+            235
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "✓ Pour one sample into the cuvette and put it into the Zetasizer nano instrument and proceed with the type of cuvette used using the software.",
+        "bbox": [
+            146,
+            241,
+            882,
+            285
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "✓ After proceeding, analysis of a given sample will start in the instrument, and a set of graphs will appear on the screen. These graphs will show the particle size distribution of the given sample. Save these graphs.",
+        "bbox": [
+            144,
+            291,
+            884,
+            360
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "✓ Repeat the procedure for other samples.",
+        "bbox": [
+            146,
+            365,
+            504,
+            384
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Observations:",
+        "bbox": [
+            115,
+            414,
+            243,
+            431
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Results & Discussion",
+        "bbox": [
+            115,
+            463,
+            304,
+            481
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Precautions:",
+        "bbox": [
+            115,
+            513,
+            231,
+            530
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Applications:",
+        "bbox": [
+            115,
+            562,
+            238,
+            581
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Questionnaire:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            611,
+            252,
+            629
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1. Explain zeta potential and its significance on the stability of colloidal particle?",
+        "bbox": [
+            114,
+            634,
+            778,
+            655
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2. Explain how Zetasizer measured particle size and molecular weight of the molecules present in colloidal solution.",
+        "bbox": [
+            114,
+            659,
+            882,
+            703
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3. What is Debye length? What is the effect of concentration of electrolyte on it?",
+        "bbox": [
+            114,
+            709,
+            749,
+            728
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            119,
+            926,
+            630,
+            944
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "12 | P a g e",
+        "bbox": [
+            749,
+            927,
+            843,
+            944
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Experiment No 4:Fourier Transform Infrared Spectroscopy (FTIR)",
+        "text_level": 2,
+        "bbox": [
+            201,
+            68,
+            794,
+            87
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Aim: To identify the functional group present in the compound.",
+        "bbox": [
+            115,
+            93,
+            638,
+            112
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Apparatus: Agilent Cary 600 series Spectrometer.",
+        "bbox": [
+            115,
+            118,
+            534,
+            137
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Theory: Infrared spectroscopy is the study of the interactions between infrared electromagnetic energy and matter. The technique of infrared spectroscopy measures the vibrations of molecules, allowing for qualitative and quantitative measurements of samples. A Fourier transform infrared (FTIR) spectrometer is an ideal tool for the identification of the unknown organic and inorganic samples where they exist in the form of gas, liquid or a solid. Electromagnetic Spectrum: Radiation in the infrared region is commonly referred to in terms of a unit called a wavenumber (??̅), rather than wavelength (??). Wavenumbers are expressed as reciprocal centimeters $( \\mathrm { c m } ^ { - 1 } )$ and are directly proportional to energy. A higher wavenumber corresponds to a higher energy.",
+        "bbox": [
+            114,
+            143,
+            882,
+            361
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The relation between wavenumber and wavelength: $\\begin{array} { r } { \\bar { v } = \\frac { 1 } { \\lambda } } \\end{array}$",
+        "bbox": [
+            115,
+            366,
+            600,
+            391
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Energy $\\mathrm { J } ) = E = h \\left( P l a n c k ^ { \\prime } s c o n s t a n t , J \\cdot s \\right) \\times c ( s p e e d \\ o f l i g h t , c m \\cdot s ^ { - 1 } ) \\times { \\bar { v } } ( { \\mathrm { c m } } ^ { - 1 } )$",
+        "bbox": [
+            115,
+            397,
+            862,
+            417
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The diagram given below is the portion of the electromagnetic spectrum showing the relationship of the infrared region to other types of radiation (not shown to scale).",
+        "bbox": [
+            114,
+            423,
+            880,
+            467
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/316abd47ac7e76e443b4d252fac7fd2622f3d4b6da555550e8790473c7ed0355.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            124,
+            475,
+            887,
+            720
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Procedure:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            739,
+            218,
+            756
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "There are three quick, simple steps involving a spectrum of a sample:",
+        "bbox": [
+            115,
+            763,
+            684,
+            782
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "➢ Record a spectrum with no sample present (known as ‘background’)",
+        "bbox": [
+            146,
+            788,
+            736,
+            807
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "➢ Insert the sample into the spectrometer",
+        "bbox": [
+            146,
+            813,
+            499,
+            831
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "➢ Record a second spectrum and interpret the data.",
+        "bbox": [
+            146,
+            838,
+            576,
+            856
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            630,
+            944
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "13 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            48,
+            35,
+            589,
+            55
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Schematic Diagram of the FTIR spectrometer is given below:",
+        "bbox": [
+            176,
+            68,
+            680,
+            87
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/5063b507dd79787c3ebcf3e391a7f023afa77d559845b33a4d1cb55d214f769d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            124,
+            97,
+            754,
+            585
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            630,
+            942
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "14 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            47,
+            35,
+            589,
+            55
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb0a718d99a84318aafd931b60371cff21d627cb1d08d226775789272b5aff33.jpg",
+        "table_caption": [
+            "InterpretingSpectra:"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"4\">Bond Type of Vibration</td></tr><tr><td>C-H</td><td>Alkane (stretch) -CH3 (bend) -CH2- (bend) Alkene (stretch) Aromatic (stretch) Alkyne (stretch)</td><td>1465 (out-of-plane bend) (out-of-plane bend)</td><td>Wavenumber Range (cm-1) 3000-2850 1450&amp;1375 3100-3000 1000-650 3150-3050 900-600 ~3300</td></tr><tr><td>C=C</td><td>Alkene Aromatic</td><td></td><td>2900-2700 1680-1600 1600&amp;1475</td></tr><tr><td>C=C Alkyne Aldehyde</td><td></td><td>2250-2100 1740-1720</td><td></td></tr><tr><td>C=0</td><td>Ketone Carboxylicacid Ester Amide Anhydride</td><td></td><td>1725-1705 1725-1700 1750-1730 1680-1630 1810&amp;1760</td></tr><tr><td>C-0</td><td>Alcoholsers carboxyliccid,</td><td></td><td>1300-1000</td></tr><tr><td>0-H</td><td>Alcohols,phenols Free H-Bonded Carboxylic acids</td><td>3400-3200 3400-2400</td><td>3650-3600</td></tr><tr><td>N-H</td><td>Primary &amp; secondary amines &amp; amides (stretch) (bend)</td><td></td><td>3500-3100 1640-1550</td></tr><tr><td>C-N C=N</td><td>Amines Imines&amp;oximes</td><td>1350-1000 1690-1640</td><td></td></tr><tr><td>C=N</td><td>Nitriles Nitro (R-NO2)</td><td>2260-2240</td><td>1550&amp;1350</td></tr><tr><td>N=0 S-H</td><td>Mercaptans</td><td>2550</td><td></td></tr><tr><td>C-X</td><td>Halides Fluoride Chloride</td><td>1400-1000</td><td>785-540</td></tr></table>",
+        "bbox": [
+            119,
+            93,
+            811,
+            877
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            914,
+            110,
+            965
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            119,
+            925,
+            630,
+            944
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "15 | P a g e",
+        "bbox": [
+            751,
+            926,
+            843,
+            944
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            48,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Observation:",
+        "bbox": [
+            115,
+            70,
+            235,
+            86
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Table 1:",
+        "bbox": [
+            115,
+            95,
+            191,
+            110
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6cf9277d78d315c99be3cda73a54b3f4df72fde277fbd3c81293c739dcd02bf.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>S1. No.</td><td rowspan=1 colspan=1>Wavenumber (cm-1)</td><td rowspan=1 colspan=1>Transmittance (%)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            109,
+            117,
+            694,
+            195
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Application:",
+        "bbox": [
+            115,
+            219,
+            230,
+            237
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Precautions:",
+        "bbox": [
+            115,
+            269,
+            230,
+            285
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion:",
+        "bbox": [
+            115,
+            318,
+            324,
+            335
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Questionnaire:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            392,
+            252,
+            409
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "1. What is the principle of FTIR?",
+        "bbox": [
+            117,
+            416,
+            431,
+            435
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "2. What is the use of FTIR?",
+        "bbox": [
+            115,
+            514,
+            386,
+            532
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3. What is the range of FTIR?",
+        "bbox": [
+            115,
+            588,
+            405,
+            606
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            630,
+            944
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "16 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            47,
+            35,
+            591,
+            55
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Experiment No 5: UV-VIS SPECTROMETER",
+        "text_level": 1,
+        "bbox": [
+            292,
+            68,
+            705,
+            87
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Aim: To apply the “Beer-Lambert law” to an aqueous solution containing an absorbing substance by measuring absorbance using Thermo scientific evolution -300 UV-VIS Spectrometer and thus determine the sample concentration.",
+        "bbox": [
+            114,
+            93,
+            882,
+            162
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Apparatus: Thermo scientific evolution -300 UV-VIS Spectrometer",
+        "bbox": [
+            115,
+            167,
+            680,
+            186
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Theory: UV-VIS refers to absorption spectroscopy or reflectance spectroscopy in the ultraviolet-visible spectral region. It uses light in the visible and UV range. The absorption or reflectance in the visible range directly affects the perceived colour of the chemicals involved. Atoms and molecules undergo electronic transition.",
+        "bbox": [
+            114,
+            192,
+            882,
+            285
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Principle: When white light falls upon a sample, the light may be reflected, or the light may be absorbed. Molecules containing ?? -electrons or non bonding electron can absorb the energy in the form of ultraviolet or visible light to excite these electrons to higher antibonding molecule orbitals.",
+        "bbox": [
+            114,
+            291,
+            882,
+            384
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Beer-Lambert Law: It expresses the linear relationship between the absorbance and concentration of a compound at a fixed wavelength.",
+        "bbox": [
+            114,
+            390,
+            882,
+            434
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "img_path": "images/a76d19e8f9c02d849e2463a578baf1eda2f7857723309277ee8936886e22ca8e.jpg",
+        "text": "$$\n\\begin{array} { r } { l o g \\frac { I o } { I } = \\varepsilon \\times \\mathrm { 1 } \\times \\mathrm { c } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            115,
+            438,
+            253,
+            466
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Where Io= Initial light intensity",
+        "bbox": [
+            115,
+            470,
+            384,
+            489
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "I = Light intensity after it passes through the sample",
+        "bbox": [
+            174,
+            495,
+            605,
+            514
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "ε = molar absorptivity",
+        "bbox": [
+            174,
+            520,
+            368,
+            539
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "l = length of the solution the light passes through",
+        "bbox": [
+            174,
+            545,
+            578,
+            564
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "c = concentration of the absorbing species",
+        "bbox": [
+            174,
+            570,
+            524,
+            588
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "UV-VIS Spectrometer: It uses light over the ultraviolet range (185-400 nm) and visible range (400-700nm ) of the electromagnetic radiation spectrum.",
+        "bbox": [
+            114,
+            594,
+            880,
+            638
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "IR Spectrophotometer: It uses light over the infrared range (700-15000 nm) of the electromagnetic radiation spectrum.",
+        "bbox": [
+            114,
+            644,
+            882,
+            687
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Spectrometer: It produces the desired range of wavelength of light. First, a collimator transmits a straight beam of light that passes through a monochromator to split it into several component wavelengths.",
+        "bbox": [
+            114,
+            693,
+            882,
+            760
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Photometer: After the desired range of wavelength of light passes through the solution of a sample in the cuvette. The photometer detects the number of photons that are absorbed.",
+        "bbox": [
+            114,
+            766,
+            882,
+            810
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Principle :",
+        "text_level": 2,
+        "bbox": [
+            115,
+            816,
+            211,
+            834
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "➢ Source: The source lamp which is something simple as halogen lamp used for visible or complex as deuterium lamp used for the ultraviolet region.",
+        "bbox": [
+            132,
+            840,
+            882,
+            884
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            119,
+            926,
+            630,
+            944
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "17 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "➢ Monochromator: The next device in line is monochromator, where two slits separated by prism or diffraction grating.",
+        "bbox": [
+            131,
+            68,
+            882,
+            112
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "➢ Beam Splitter: It divides the beam of light into two equal parallel beam of light.",
+        "bbox": [
+            132,
+            117,
+            821,
+            137
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "➢ Sample Compartment: it consists of cells of both sample and reference.",
+        "bbox": [
+            132,
+            142,
+            761,
+            161
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "➢ Detector: This device converts the impact of photons into an electronic current.",
+        "bbox": [
+            132,
+            167,
+            813,
+            185
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad2b59497f03ed484c96a74b7ead3d344ec5d0b5a2667241d009f250f53f8319.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            124,
+            196,
+            825,
+            478
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Schematic of Spectrometer",
+        "bbox": [
+            115,
+            495,
+            342,
+            513
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Procedure :",
+        "text_level": 2,
+        "bbox": [
+            115,
+            520,
+            223,
+            537
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "➢ Ten different samples of known concentration are prepared.",
+        "bbox": [
+            144,
+            544,
+            667,
+            563
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "➢ At first, the cuvette is filled with distilled water to standardise.",
+        "bbox": [
+            146,
+            569,
+            687,
+            587
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "➢ Then, one cuvette is filled with distilled water( to be taken as reference ), and in another cuvette, the sample is filled, and reading is taken.",
+        "bbox": [
+            146,
+            594,
+            882,
+            637
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "➢ Step 3. Same steps can be repeated for the remaining samples.",
+        "bbox": [
+            146,
+            643,
+            685,
+            662
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The final observation is noted and absorbance vs concentration graph is plotted for the calibration.",
+        "bbox": [
+            146,
+            667,
+            880,
+            709
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "50 ppm of methylene blue solution is used.",
+        "bbox": [
+            176,
+            717,
+            531,
+            734
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "50 ppm = 50mg/L",
+        "bbox": [
+            176,
+            740,
+            331,
+            760
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Dilution formula :",
+        "bbox": [
+            176,
+            765,
+            332,
+            783
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "img_path": "images/e542619478632fbc69a4d2335865e0a2a54ef59d048b7d450ee16f6a92e21221.jpg",
+        "text": "$$\n\\Nu _ { 1 } \\tt { x } \\Nu _ { 1 } = \\Nu _ { 2 } \\tt { x } \\Nu _ { 2 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            174,
+            789,
+            332,
+            808
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "N1 = normality of solute in 50ml solution = 2mg",
+        "bbox": [
+            174,
+            815,
+            576,
+            834
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "V1 = volume of solution = 50 ml",
+        "bbox": [
+            176,
+            839,
+            448,
+            857
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "N2 = normality of methylene blue solution = 50ppm",
+        "bbox": [
+            174,
+            864,
+            606,
+            883
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "V2 = volume of methylene blue used (unknown)",
+        "bbox": [
+            176,
+            889,
+            574,
+            907
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            119,
+            925,
+            630,
+            944
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "18 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            944
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            35,
+            589,
+            55
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Using the above equation V2is calculated.",
+        "bbox": [
+            115,
+            68,
+            460,
+            87
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Observation:",
+        "bbox": [
+            115,
+            95,
+            235,
+            110
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/21a842999f1d5b84377c0255042cff20d8625141514b527527d592e5407385e2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>S1.No.</td><td rowspan=1 colspan=1>Concentration(ppm)</td><td rowspan=1 colspan=1>Absorbance(nm)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            137,
+            116,
+            860,
+            170
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Application:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            195,
+            230,
+            214
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Precautions:",
+        "bbox": [
+            115,
+            317,
+            231,
+            335
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion:",
+        "bbox": [
+            115,
+            464,
+            326,
+            483
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Questionnaire:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            538,
+            252,
+            557
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1. The ultraviolet spectrum of benzonitrile shows a primary absorption band at 224 nm. If a solution of benzonitrile in water, with a concentration of 1x $1 0 ^ { - 4 }$ molar, is examined at a wavelength of 224 nm, the absorbance is determined to be 1.30. The cell length is 1 cm. What is the molar absorptivity of this absorption band?",
+        "bbox": [
+            114,
+            563,
+            882,
+            656
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2. The ultraviolet spectrum of benzonitrile shows a secondary absorption band at 271 nm. If a solution of benzonitrile in water, with a concentration of $1 \\times 1 0 ^ { - 4 }$ molar solution is examined at 271 nm, what will be the absorbance reading (ℇ = 1000) and what will be the intensity ratio, IO/I, respectively?",
+        "bbox": [
+            114,
+            661,
+            882,
+            755
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "3. What is the wavelength range for UV spectrum of light?",
+        "bbox": [
+            114,
+            759,
+            598,
+            780
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "19 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            630,
+            942
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 1,
+        "bbox": [
+            47,
+            35,
+            589,
+            55
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Experiment No 6: RHEOMETER",
+        "text_level": 1,
+        "bbox": [
+            347,
+            68,
+            650,
+            87
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Aim: To study the rheological characteristics of a material.",
+        "bbox": [
+            115,
+            93,
+            601,
+            112
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Chemical/apparatus required- rheometer, sample, distilled water",
+        "bbox": [
+            114,
+            118,
+            665,
+            137
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Theory:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            143,
+            191,
+            161
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Science of flow and deformation of matter(liquid or solid) under the effect of an applied force. A rheometer is a lab device used to measure how liquid suspension or slurry flows in response to applied forces.it is used for those fluids which cannot be defined by a single value of viscosity and therefore require more parameters to be set and measured than is the case for a viscometer. It measures the rheology of the fluid. There are two distinctively different types of rheometers. Rheometers that control the applied shear stress or shear strain are called rotational or shear rheometers, whereas rheometers that apply extensional stress or extensional strain are extensional rheometers. Rotational or shear type rheometers are usually designed as either a native strain-controlled instrument (control and apply a user-defined shear strain which can then measure the resulting shear stress) or a native stress-controlled instrument (control and apply user-defined shear stress and measure the resulting shear strain). A rheometer is a device used to measure the rheological properties of materials; rheology being defined as the study of the flow and deformation of matter, which describes the interrelation between force, deformation and time.",
+        "bbox": [
+            114,
+            165,
+            884,
+            508
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Unlike a viscometer, which can only measure the viscosity of a fluid under a limited range of conditions, a rheometer is capable of measuring viscosity and elasticity of non-Newtonian materials under a wide range of conditions. Some of the most important properties that can be measured using a rheometer include viscoelasticity, yield stress, thixotropy, extensional viscosity, creep compliance and stress relaxation behaviour, as well as process-relevant parameters such as die swell, melt fracture.",
+        "bbox": [
+            114,
+            512,
+            884,
+            656
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "In general,either the fluid remains stationary and the object moves through it.or the object is stationary, and the fluid moves past it.the drag caused by the relative motion of fluid and surface is a measure of viscosity.the flow conditions must have viscosity value of Reynolds number less than 2100 for laminar flow.Rotational viscometer uses the idea that torque requiredto turn on an object in a fluid is a function of the viscosity of that fluid. They measure the torque required to rotate a disk or bob in a fluid at a known speed.",
+        "bbox": [
+            114,
+            658,
+            885,
+            804
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            630,
+            944
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "20 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            36,
+            589,
+            54
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/235881a99eab50f4a863f62c22deff0c454ee3e39204ac71ed37fdc81236d47d.jpg",
+        "image_caption": [
+            "Block diagram of Rheometer."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            216,
+            79,
+            781,
+            376
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Principle:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            436,
+            208,
+            454
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The fluid is sheared in a narrow gap between concentric cylinders, parallel plates or a cone and a plate. The viscosity is defined as the ratio of the shear stress and the shear rate. The stress is related to the torque and the shear rate to the angular velocity. One of these quantities is preselected the other is measured, depending on the set-up of the instrument (controlled stress / controlled strain). A great variety of tools is available to cover a large viscosity and shear rate range. Elastic material-functions can be obtained from axial forces acting perpendicular to the plane of shear in cone-plate or plate-plate geometry. Rotational rheometers allow for numerous experimental modes controlling either shear rate, shear deformation or shear stress.",
+        "bbox": [
+            114,
+            461,
+            882,
+            676
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/71708d5e788024166bb82a6fda58dc1357c130e44cc063f85debe6ec3bd10dc3.jpg",
+        "table_caption": [
+            "PROPERTIES WHICH CAN BE MEASURED:"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>1） Dynamic viscosity</td><td rowspan=1 colspan=1>6) temperature</td></tr><tr><td rowspan=1 colspan=1>2 Shear rate</td><td rowspan=1 colspan=1>7)time</td></tr><tr><td rowspan=1 colspan=1>3 Shear stress</td><td rowspan=1 colspan=1>8)kinematic viscosity</td></tr><tr><td rowspan=1 colspan=1>4） Speed</td><td rowspan=1 colspan=1> 9)fixed point</td></tr><tr><td rowspan=1 colspan=1>5） Torque</td><td rowspan=1 colspan=1>10)deformation</td></tr></table>",
+        "bbox": [
+            109,
+            705,
+            889,
+            832
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            628,
+            942
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "page_number",
+        "text": "21 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/129a40807b66b2832a446c6d45e4eb3758e5075c4a2d48a16f7c007470dd4ca6.jpg",
+        "image_caption": [
+            "Rotational Rheometer"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            351,
+            68,
+            653,
+            398
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Procedure:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            458,
+            220,
+            476
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ Turn on the rheometer/viscometer.",
+        "bbox": [
+            176,
+            483,
+            494,
+            500
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ Turn on the thermostat water bath. The setpoint should be between 20 to $3 0 \\mathrm { { } ^ { \\circ } C }$ (the bath is used only as a thermal reservoir).",
+        "bbox": [
+            174,
+            507,
+            882,
+            551
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ Turn on computer, start the rheoplus program on computer.",
+        "bbox": [
+            174,
+            557,
+            694,
+            576
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ In toolbar press the icon “device”, which is a symbol of “rheometer”.",
+        "bbox": [
+            174,
+            581,
+            771,
+            600
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ In the control panel tab in the new window, press initialize to start.",
+        "bbox": [
+            174,
+            606,
+            752,
+            625
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ Put your desired tool.",
+        "bbox": [
+            176,
+            631,
+            388,
+            649
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ In control panel tab, press “set zero gap”.",
+        "bbox": [
+            176,
+            655,
+            546,
+            674
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ Set “default program”.",
+        "bbox": [
+            176,
+            680,
+            396,
+            699
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ Press “start” to begin adjustment.",
+        "bbox": [
+            176,
+            705,
+            484,
+            722
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ In the control panel tab, lift position high enough to put your sample(60mm recommendable).",
+        "bbox": [
+            176,
+            728,
+            880,
+            771
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ Put your sample on plate.",
+        "bbox": [
+            176,
+            778,
+            420,
+            797
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ Set temperature.",
+        "bbox": [
+            176,
+            803,
+            346,
+            821
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ In the control panel tab, lift position.",
+        "bbox": [
+            176,
+            827,
+            509,
+            846
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ Pressmeasuring position to go to measuring distance.",
+        "bbox": [
+            176,
+            852,
+            642,
+            871
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "➢ Remove entered sample.",
+        "bbox": [
+            176,
+            877,
+            413,
+            895
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "header",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            35,
+            589,
+            55
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            119,
+            926,
+            630,
+            944
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "page_number",
+        "text": "22 | P a g e",
+        "bbox": [
+            749,
+            926,
+            843,
+            944
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            47,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "➢ The status column in your data table is good indication of reliability of measurement.",
+        "bbox": [
+            176,
+            68,
+            884,
+            111
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "After measurements are done:",
+        "bbox": [
+            206,
+            118,
+            457,
+            135
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "✓ Lift the position to clean the plate.",
+        "bbox": [
+            174,
+            142,
+            495,
+            161
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "✓ Clean the plate with distilled water or organic solvents(if needed).",
+        "bbox": [
+            174,
+            167,
+            751,
+            185
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "✓ Exit rheoplus program.",
+        "bbox": [
+            176,
+            192,
+            405,
+            210
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "✓ Take off the tool and clean it with water.",
+        "bbox": [
+            174,
+            216,
+            547,
+            235
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "✓ Turn off device, thermostat bath and the computer.",
+        "bbox": [
+            174,
+            241,
+            628,
+            260
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Observation table",
+        "text_level": 2,
+        "bbox": [
+            115,
+            291,
+            277,
+            307
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/46b46fac947200734ebf1182768cc2349a84010ef4f38f69047b175f0c99e2cb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>S.NO</td><td rowspan=1 colspan=1>Time</td><td rowspan=1 colspan=1>Viscosity</td><td rowspan=1 colspan=1>Shear rate</td><td rowspan=1 colspan=1>Shear stress</td><td rowspan=1 colspan=1>torque</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            107,
+            337,
+            889,
+            543
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Result/Discussion:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            567,
+            280,
+            585
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Precautions:",
+        "bbox": [
+            115,
+            617,
+            231,
+            633
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Observation:",
+        "bbox": [
+            115,
+            665,
+            235,
+            682
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Questionnaire:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            714,
+            250,
+            732
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Q1. What is the function of Rheometer?",
+        "bbox": [
+            115,
+            739,
+            447,
+            757
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Q2. What are its types?",
+        "bbox": [
+            115,
+            770,
+            312,
+            788
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Q3. Describe the working procedure of Rheometer?",
+        "bbox": [
+            115,
+            801,
+            541,
+            820
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            630,
+            942
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "page_number",
+        "text": "23 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            35,
+            589,
+            55
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Experiment No7: Goniometer/Tensiometer",
+        "text_level": 1,
+        "bbox": [
+            295,
+            68,
+            675,
+            87
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Aim: To determine the contact angle, surface tension and interfacial angle",
+        "bbox": [
+            115,
+            93,
+            722,
+            112
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Apparatus: Tensiometer DSA25S",
+        "bbox": [
+            115,
+            118,
+            405,
+            136
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Theory: Tensiometer performs high precision, automatic and reliable measurements of surface tension,interfacial tension, critical micelle concentration,contact angle of solid fibres and powder with high quality components and a uniquely wide range of methods.",
+        "bbox": [
+            114,
+            142,
+            884,
+            212
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Contact Angle: it is the angle conventionally measured through liquid, where the liquidvapour interface meets the solid surface. It quantifies the wettability of the solid surface by a liquid via the Young’s equation. A given system of the solid, liquid and vapour at a given temperature and pressure has an unique equilibrium contact angle. If the solid-vapour interfacial energy is denoted by $\\gamma _ { \\mathrm { s g } } ,$ the solid-liquid energy by $\\gamma _ { \\mathrm { s l } }$ and the liquid-vapour energy by $\\gamma _ { \\mathrm { l g } }$ then the equilibrium contact angle $\\theta _ { \\mathrm { c } }$ is given by",
+        "bbox": [
+            114,
+            216,
+            884,
+            363
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "??sg- $\\gamma _ { \\mathrm { s l } } - \\gamma _ { \\mathrm { l g } }$ cos $\\theta _ { \\mathrm { c } } = 0$",
+        "bbox": [
+            117,
+            367,
+            294,
+            385
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/5cee8cdc8784ee76dafa4e517304dd258e0752677f898d97849a174d2db3ee95.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            107,
+            390,
+            889,
+            692
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Surface Tension: The cohesive forces between the liquid molecules are responsible for the phenomena of surface tension. The molecules at the surface unlike other molecules don’t have surface on all sides. This forms a surface film which makes it more difficult to move an object through the surface then move it when it is completely submerged. Example of surface tension: Walking of small insects on water because their weight is not enough to penetrate the surface. Interfacial Angle: A property of the interface between two immiscible phases. When the phases are both liquid, it is termed as interfacial tension; when one of the phases is air then it",
+        "bbox": [
+            114,
+            717,
+            884,
+            910
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            119,
+            926,
+            630,
+            944
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "page_number",
+        "text": "24 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            47,
+            36,
+            589,
+            54
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "is called Surface Tension. Interfacial Tension is the Gibb’s free energy per unit area at fixed temperature and pressure. Interfacial Tension occurs because a molecule near an interface has different molecular interactions than an equivalent molecule within the bulk fluid. Surfactant molecules preferentially position themselves at the interface and thereby lower the interfacial tension.",
+        "bbox": [
+            114,
+            70,
+            882,
+            185
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Principle: In order to measure the contact angle with the DSA25 a drop is placed on a sample located on the sample table. The drop is illuminated from one side and a camera at the drop . The drop image is transferred to the computer and shown on the monitor. The DSA software contains the time proven tools for analysing the drop image with whose help it is possible to calculate the contact angle, surface tension and surface energies.",
+        "bbox": [
+            114,
+            192,
+            882,
+            310
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Procedure:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            316,
+            216,
+            332
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "✓ Open DSA 25 Software.",
+        "bbox": [
+            146,
+            340,
+            381,
+            357
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "✓ Before starting the experiment, ensure the fan and A.C. be switched OFF.",
+        "bbox": [
+            146,
+            365,
+            776,
+            382
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "✓ Fill the sample into the syringe.",
+        "bbox": [
+            146,
+            390,
+            440,
+            407
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "✓ Fix the syringe in the desired location of the Tensiometer.",
+        "bbox": [
+            146,
+            413,
+            652,
+            431
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "✓ Select the tools-MT wizard-select method-pendant method.",
+        "bbox": [
+            146,
+            438,
+            662,
+            456
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "✓ For the pendant drop, form the drop in such a way that it is at the edge of the needle of the syringe.",
+        "bbox": [
+            146,
+            463,
+            880,
+            505
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "✓ Select MT setting- measuring quantity- SFT- IFT using pendant drop method.",
+        "bbox": [
+            146,
+            512,
+            811,
+            531
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "✓ For presentation and report select displaying items.",
+        "bbox": [
+            146,
+            537,
+            596,
+            556
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "✓ For baseline determination draw the line at the interface of the solid and liquid of drop which is shown in the monitor.",
+        "bbox": [
+            146,
+            562,
+            880,
+            604
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "✓ Go to the profile extraction menu.",
+        "bbox": [
+            146,
+            611,
+            457,
+            629
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "✓ Click on computation.",
+        "bbox": [
+            146,
+            636,
+            363,
+            652
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "✓ Run computation series for multiple data.",
+        "bbox": [
+            146,
+            659,
+            517,
+            678
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Observation:",
+        "text_level": 2,
+        "bbox": [
+            129,
+            709,
+            247,
+            726
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/303e08eff4dc6e64b24e5bc8b3959c7fe11bffb50f2749b01e8fe0510fa3893d.jpg",
+        "table_caption": [
+            "Table 1:"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Run No.</td><td rowspan=1 colspan=1> IFT(mN/m)</td><td rowspan=1 colspan=1>Volume(mL)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            169,
+            757,
+            889,
+            809
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/47d06ddf630317aa513fd3d93d1dfdd0e273f3a184c90b21aec3b65a888cf127.jpg",
+        "table_caption": [
+            "Table 2:"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Run No.</td><td rowspan=1 colspan=1>IFT(mN/m)</td><td rowspan=1 colspan=1>Volume(mL)0</td><td rowspan=1 colspan=1>c(degree)</td><td rowspan=1 colspan=1>0m(degree)0</td><td rowspan=1 colspan=1>r(degree)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            169,
+            858,
+            889,
+            910
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            630,
+            944
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_number",
+        "text": "25 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Application:",
+        "bbox": [
+            115,
+            93,
+            231,
+            114
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Precautions:",
+        "bbox": [
+            115,
+            142,
+            231,
+            161
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion:",
+        "bbox": [
+            115,
+            192,
+            326,
+            211
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Questionnaire:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            241,
+            252,
+            260
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "1. What is static contact angle?",
+        "bbox": [
+            115,
+            265,
+            379,
+            285
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "2. What are the different procedures of removing the hydrophobicity of a surface?",
+        "bbox": [
+            114,
+            290,
+            788,
+            310
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "3. What is super hydrophobicity?",
+        "bbox": [
+            114,
+            313,
+            396,
+            335
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "header",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            35,
+            591,
+            55
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            914,
+            110,
+            964
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            925,
+            630,
+            944
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "page_number",
+        "text": "26 | P a g e",
+        "bbox": [
+            749,
+            926,
+            843,
+            944
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Fig 2: Refraction",
+        "bbox": [
+            658,
+            850,
+            732,
+            863
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            47,
+            36,
+            589,
+            54
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Experiment No 8: Refractometer",
+        "text_level": 2,
+        "bbox": [
+            352,
+            70,
+            645,
+            86
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Aim: To get calibration curve for the Mettler Toledo for mixtures of different liquids.",
+        "bbox": [
+            114,
+            93,
+            813,
+            112
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Apparatus: Mettler Toledo Refractometer.",
+        "bbox": [
+            115,
+            118,
+            473,
+            136
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Theory: The Mettler Toledo Refractometer is used for the simple determination of Refractive Index of liquid Sample. It has the following points:",
+        "bbox": [
+            114,
+            143,
+            880,
+            186
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "1. Measures sample with a Refractive Index in the range 1.3200-1.5000.",
+        "bbox": [
+            161,
+            192,
+            761,
+            210
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "2. Needs the temperature of sample being measured constant between 15 to $4 0 ^ { \\circ } \\mathrm { C }$",
+        "bbox": [
+            159,
+            216,
+            836,
+            235
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "3. Needs the minimum amount of sample 0.4 mL for measurement.",
+        "bbox": [
+            159,
+            242,
+            721,
+            260
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Refractive Index: The refractive index “n” of a substance is the ratio of the velocity of a ray of light in vacuum to it’s velocity in the medium. If a ray of light at a particular angle passes from air to water, it changes it’s direction except when the incident light is vertical. According to Snell’s law of refraction the ratio of the refractive indices of the two medium is proportional to the ratio of sine of angle of refraction and sine of angle of incidence of ray of light.",
+        "bbox": [
+            114,
+            266,
+            884,
+            409
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "img_path": "images/de119cb1dfe954100488bb995ba5a412dcf25fd691313857d7f22a3dfb590329.jpg",
+        "text": "$$\n\\frac { n 1 } { n 2 } = \\frac { s i n \\beta } { s i n \\alpha }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            416,
+            413,
+            492,
+            443
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "If a ray of light passes into an optically less dense medium from a denser medium it also changes, it’s direction. If the angle of incidence is increased till it reaches it’s critical value(angle of refraction $\\beta = 9 0 ^ { \\circ } )$ at which the ray of light no longer passes into the optically less dense medium, if this critical angle is exceeded, total internal reflection occurs. The critical angle is used to calculate the Refractive Index.",
+        "bbox": [
+            114,
+            448,
+            882,
+            567
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "img_path": "images/23c29a8a13c370d023a7651c391bf5d29e57331a80183e8838b8d26705f9c54f.jpg",
+        "text": "$$\nn 1 = { { n } \\ o { 2 } } { \\big / } _ { s i n \\alpha }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            416,
+            570,
+            546,
+            596
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Where $\\beta = 9 0 ^ { \\circ }$ ,sin $\\beta = 1$",
+        "bbox": [
+            117,
+            601,
+            326,
+            620
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/525aa37168da7b6dd9599f56862e6d7ad977be9fdfe5248276dc16dc77181281.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            253,
+            688,
+            536,
+            847
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e9ac56ab0cb0389994cf897f441fab16e2ae337fdf317ac52043421d3b401ae.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            579,
+            680,
+            818,
+            839
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "page_number",
+        "text": "27 | P a g e",
+        "bbox": [
+            751,
+            926,
+            843,
+            942
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            630,
+            944
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            48,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Procedure:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            95,
+            216,
+            111
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "➢ Prepare 10 different mixture sample of given liquids with known mole fractions.",
+        "bbox": [
+            146,
+            118,
+            833,
+            136
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "➢ The container for sample is filled till the mark anointed on the equipment.",
+        "bbox": [
+            146,
+            143,
+            779,
+            161
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "➢ The OK button was pressed on the meter and the refractive index from the screen was noted.",
+        "bbox": [
+            146,
+            167,
+            880,
+            209
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "➢ The prism was cleaned.",
+        "bbox": [
+            146,
+            217,
+            373,
+            235
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "➢ Above steps were repeated for next liquid sample mixtures.",
+        "bbox": [
+            146,
+            242,
+            662,
+            260
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Observation:",
+        "bbox": [
+            115,
+            267,
+            235,
+            282
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Table 1:",
+        "bbox": [
+            115,
+            291,
+            193,
+            307
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab44038fcd2dccd0f533fc1f5e25fb6b79745c72ff93487fd89e5c2e913ab7c9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>S1. No.</td><td rowspan=1 colspan=1>Mole fraction</td><td rowspan=1 colspan=1>Refractive Index(n)</td><td rowspan=1 colspan=1> Temperature</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            109,
+            313,
+            889,
+            392
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/3db56c45336ddc7e81b9b6a63e993328ac1fd4c44df2cbbd6fa593f3a998c648.jpg",
+        "table_caption": [
+            "Table 2:"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Sample</td><td rowspan=1 colspan=1>Refractive Index</td><td rowspan=1 colspan=1>Temperature</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            109,
+            464,
+            889,
+            517
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Application:",
+        "bbox": [
+            117,
+            542,
+            230,
+            560
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Precautions:",
+        "bbox": [
+            117,
+            590,
+            230,
+            607
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion:",
+        "bbox": [
+            115,
+            639,
+            324,
+            657
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Questionnaire:",
+        "bbox": [
+            115,
+            689,
+            250,
+            706
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "1. What is the principle of refractometer?",
+        "bbox": [
+            139,
+            713,
+            484,
+            731
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "2. How does it function?",
+        "bbox": [
+            139,
+            738,
+            351,
+            755
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "3. Describe the parts of refractometer using schematic diagram.",
+        "bbox": [
+            139,
+            763,
+            660,
+            781
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            630,
+            942
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "page_number",
+        "text": "28 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 1,
+        "bbox": [
+            48,
+            36,
+            589,
+            54
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Experiment No9: CHNS Analyzer",
+        "text_level": 2,
+        "bbox": [
+            347,
+            95,
+            650,
+            111
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Aim: To study the working and operation of FLASH ER 1112 elemental analyser (CHNS). Theory : the CHNS analyzer find the utility in determining the percentage of Carbon , hydrogen, nitrogen, Sulphur and oxygen of organic compounds based on the principal of ‘’Dumas Method’’ which involve the complete and instantaneous oxidation of the sample by “flash combustion”. The combustion products are separated by chromatographic column and detected by the thermal conductivity detector(TCD), which gives an output signal proportional to the concentration of the individual component of the mixture.",
+        "bbox": [
+            114,
+            118,
+            884,
+            286
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Carban Analysis: Organiccarban content is determined by using the inorganic carban value from coulometric analysis and calculating the difference between total carbon from CHNS analysis and inorganic carbon analyzed by coulometer.",
+        "bbox": [
+            114,
+            291,
+            882,
+            360
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Nitrogen analysis : Nitrogen is one of the important limiting nutrients in the ocean. Biological nitrogen fixation, de nitrification and consumption of nutrient by photo-plankton are the major biological processes of the global nitrogen cycle change in ocean circulation and nutrient supply. Which occur in response to change in environmental condition.",
+        "bbox": [
+            114,
+            365,
+            882,
+            457
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Sulphur analysis : Cycling of sulphur compound is a ubiquitous process in marine sediments that supports a range of microbial metabolic strategies. Element Sulphur enrichments may form at places where the sulfide concentrations were high, resulting from in situ $( \\mathrm { S O } _ { 4 } ) _ { 2 }$ reduction.",
+        "bbox": [
+            114,
+            463,
+            882,
+            556
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Working Principle:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            562,
+            289,
+            580
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Dried and powdered samples are combusted in a tin sample crucible with vanadium pentoxide catalyst purified by a rector packed with electrolytic copper and copper oxide, separated on a gas chromatographic column and analyzed using a thermal conductivity detector (TCD). Addition of $\\mathrm { V } _ { 2 } \\mathrm { O } _ { 5 }$ ensures complete conversion of inorganic sulphur in a sample of sulphur dioxide.",
+        "bbox": [
+            114,
+            586,
+            882,
+            703
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "When the tin crucible with sample is dropped into the reactor, the oxygen environment triggers a strong exothermic reaction. Temp rises upto $\\sim 1 0 0 0 ^ { \\mathrm { { o } } } \\mathrm { { c } }$ causing the sample to combust. The combustion products are conveyed across the reactor where oxidation is completed. NO₂ and $\\mathrm { S O } _ { 2 }$ are reduced to elemental nitrogen and sulphur dioxide and oxygen excess is retained. The gas mixture contain $\\mathrm { N } _ { 2 } , \\mathrm { C O } _ { 2 } , \\mathrm { H } _ { 2 } \\mathrm { O }$ and $\\mathrm { S O } _ { 2 }$ flows into the chromatographic column where separation takes place . eluted gas are sent to the TCD whereelectrical signals processed by the Eager 300 software provide percentages of nitrogen, carbon, hydrogen and sulphur contain in the sample.",
+        "bbox": [
+            114,
+            708,
+            884,
+            902
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            119,
+            926,
+            630,
+            944
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "page_number",
+        "text": "29 | P a g e",
+        "bbox": [
+            751,
+            927,
+            842,
+            942
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a8b06e2a575b4d110fed93a36aad406c1749fc651ff5bf6c0fa2eba97ac488b.jpg",
+        "image_caption": [
+            "Fig: functional diagram of vario EL CHNS"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            124,
+            140,
+            831,
+            349
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Procedure",
+        "text_level": 2,
+        "bbox": [
+            115,
+            393,
+            213,
+            410
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "1. Sample preparation:",
+        "text_level": 2,
+        "bbox": [
+            146,
+            418,
+            361,
+            436
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "➢ Sample preparation is done using Tin boatstake an empty tin boat keep it on the balance and tare it.",
+        "bbox": [
+            146,
+            442,
+            880,
+            483
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "➢ Using micro spatula take fine crushed and dried sample into the tin boat.",
+        "bbox": [
+            146,
+            492,
+            768,
+            510
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "➢ Pack the tin boat in a way that there is no spillage from tin boat of the sample and there should not be any air gaps in the tin boat.",
+        "bbox": [
+            146,
+            516,
+            880,
+            558
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "➢ Weigh the packed tin boat(in mg).",
+        "bbox": [
+            146,
+            565,
+            458,
+            583
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "➢ Put the packed sample tin boat on to the autosampler.",
+        "bbox": [
+            146,
+            590,
+            615,
+            607
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "➢ Sample position on the auto sampler is indicated in the sequence created in the software.",
+        "bbox": [
+            146,
+            614,
+            882,
+            656
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "➢ The sample is now ready for the analysis.",
+        "bbox": [
+            146,
+            663,
+            517,
+            681
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "2.Procedure for the operation of various elements CHNS analyzer :",
+        "bbox": [
+            115,
+            688,
+            699,
+            706
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Instrument Procedure:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            713,
+            321,
+            730
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "➢ Switch on the power green from the instrument.",
+        "bbox": [
+            146,
+            738,
+            574,
+            755
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "➢ Wait for the initializing of the instrument and then start the software-click on vario micro icon..",
+        "bbox": [
+            146,
+            762,
+            880,
+            803
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "➢ Pop up window appears as select carousel position and tick all sample removed from the carcousel.",
+        "bbox": [
+            146,
+            812,
+            880,
+            852
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "header",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            48,
+            36,
+            589,
+            54
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            628,
+            942
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "page_number",
+        "text": "30 | P a g e",
+        "bbox": [
+            751,
+            927,
+            842,
+            942
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            47,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ Set gas regulator pressure from helium – 1.3 bar (1200 mbar at the software displaying) pressure in the system should not exceed 1400 mbar and oxygen at 2.5 bar.",
+        "bbox": [
+            146,
+            70,
+            882,
+            135
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ Diagnose the leakage test and click start.",
+        "bbox": [
+            146,
+            143,
+            512,
+            161
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ On the temperature tab set combustion tube at 1150o c and reduction tube at 850oc.",
+        "bbox": [
+            146,
+            167,
+            852,
+            185
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ Start the analysis procedure and first run blank sample.",
+        "bbox": [
+            146,
+            192,
+            628,
+            210
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ Select either auto and single run option.",
+        "bbox": [
+            146,
+            217,
+            504,
+            235
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ Put the blank value of the last blank on N, H, C and S blank column respectively.",
+        "bbox": [
+            146,
+            241,
+            840,
+            260
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ Select the standard form the serial number column and go to math and click factor.",
+        "bbox": [
+            146,
+            266,
+            850,
+            284
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ Tick - follow tagged sample only and click O.K.",
+        "bbox": [
+            146,
+            291,
+            574,
+            309
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ Analysis gets automatically done. If auto run step in between then click again.",
+        "bbox": [
+            146,
+            315,
+            813,
+            334
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Shutdown procedure :",
+        "text_level": 2,
+        "bbox": [
+            115,
+            341,
+            315,
+            357
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ Once the sample analysis is over reduce the furnace temperature as.",
+        "bbox": [
+            146,
+            365,
+            729,
+            382
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ Set the combustion tube temp = 0 to reduction tube temperature = 0.then click ok.",
+        "bbox": [
+            146,
+            390,
+            843,
+            407
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ Wait for the temperature to reduce 300oc.",
+        "bbox": [
+            146,
+            413,
+            517,
+            431
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "➢ Close the software and close the oxygen and helium gas supply from regulator and switch off the instrument.",
+        "bbox": [
+            146,
+            438,
+            882,
+            481
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Observation:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            488,
+            236,
+            505
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/a02140058ce6961fc43c1f3de5d13619e9a427a9c8e800b1ce73b2291ba290b4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>S.NO</td><td rowspan=1 colspan=1>WT(mg)</td><td rowspan=1 colspan=1>NAME</td><td rowspan=1 colspan=1>N(%)</td><td rowspan=1 colspan=1>C(%)</td><td rowspan=1 colspan=1>H(%)</td><td rowspan=1 colspan=1>S(%)</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>4.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>8.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            107,
+            510,
+            889,
+            739
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Results/Discussion:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            765,
+            289,
+            782
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            630,
+            942
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "page_number",
+        "text": "31 | P a g e",
+        "bbox": [
+            749,
+            927,
+            843,
+            944
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Precautions:",
+        "bbox": [
+            115,
+            93,
+            231,
+            112
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Applications:",
+        "bbox": [
+            115,
+            167,
+            240,
+            187
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Questionnaire:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            241,
+            252,
+            260
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "1. Describe the working procedure with schematic diagram of CHNS analyzer.",
+        "bbox": [
+            206,
+            265,
+            860,
+            285
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "2. Why experiments are performed using CHNS analyzer?",
+        "bbox": [
+            205,
+            290,
+            699,
+            310
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "3. What is the sample size to be inserted in the CHNS analyzer",
+        "bbox": [
+            205,
+            313,
+            734,
+            334
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "header",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            35,
+            591,
+            55
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            914,
+            110,
+            964
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            925,
+            630,
+            944
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "page_number",
+        "text": "32 | P a g e",
+        "bbox": [
+            749,
+            926,
+            843,
+            944
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 1,
+        "bbox": [
+            47,
+            35,
+            589,
+            55
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Experiment No 10: Optical Microscopy",
+        "text_level": 1,
+        "bbox": [
+            324,
+            68,
+            672,
+            89
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Aim: To study the microstructure/morphology of lotus leaf structures using optical microscope.",
+        "bbox": [
+            114,
+            99,
+            882,
+            137
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Theory",
+        "text_level": 2,
+        "bbox": [
+            115,
+            149,
+            186,
+            168
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "There are many small objects or details of objects which cannot be seen by the unaided human eye. The microscope magnifies the image of such objects thus making them visible to the human eye. Microscopes are used to observe the shape of bacteria, fungi, parasites and host cells in various stained and unstained preparations.",
+        "bbox": [
+            114,
+            180,
+            882,
+            258
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Types of Microscopy",
+        "text_level": 2,
+        "bbox": [
+            115,
+            267,
+            304,
+            287
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Microscopes used in clinical practice are light microscopes. They are called light microscopes becausethey use a beam of light to view specimens. A compound light microscope is the most common microscope used in microbiology. It consists of two lens systems (combination of lenses) to magnify the image. Each lens has a different magnifying power. A compound light microscope with a single eye-piece is called monocular; one with two eye-pieces is said to be binocular. Microscopes that use a beam of electrons (instead of a beam of light) and electromagnets (instead of glass lenses) for focusing are called electron microscopes. These microscopes provide a higher magnification and are used for observing extremely small microorganisms such as viruses.",
+        "bbox": [
+            114,
+            298,
+            884,
+            488
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/68e1f2510703b95a28b0bbc0bda89a7a63c0b104c005c482b312ccd12aa85c1a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            220,
+            502,
+            806,
+            675
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Light Microscopy",
+        "text_level": 2,
+        "bbox": [
+            115,
+            695,
+            277,
+            714
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Brightfield microscopy: This is the commonly used type of microscope. In brightfield microscopy the field of view is brightly lit so that organisms and other structures are visible against it because of their different densities. It is mainly used with stained preparations. Differential staining may be used depending on the properties of different structures and organisms.",
+        "bbox": [
+            114,
+            718,
+            882,
+            814
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Darkfieldmicroscopy: In darkfield microscopy the field of view is dark and the organisms are illuminated. A special condenser is used which causes light to reflect from the specimen at an angle. It is used for observing bacteria such as treponemes (which cause syphilis) and leptospires (which cause leptospirosis)",
+        "bbox": [
+            114,
+            832,
+            882,
+            909
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            914,
+            110,
+            964
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            119,
+            926,
+            630,
+            944
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "page_number",
+        "text": "33 | P a g e",
+        "bbox": [
+            749,
+            926,
+            843,
+            944
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            47,
+            36,
+            589,
+            55
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Phase-contrastmicroscopy : Phase-contrast microscopy allows the examination of live unstained organisms. For phase-contrast microscopy, special condensers and objectives are used. These alter the phase relationships of the light passing through the object and that passing around it.",
+        "bbox": [
+            114,
+            70,
+            882,
+            146
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Fluorescencemicroscopy: In fluorescence microscopy specimens are stained with fluorochromes/ fluorochrome complexes. Light of high energy or short wavelengths (from halogen lamps or mercury vapour lamps) is then used to excite molecules within the specimen or dye molecules attached to it. These excited molecules emit light of different wavelengths, often of brilliant colours. Auramine differential staining for acid-fast bacilli is one application of the technique; rapid diagnostic kits have been developed using fluorescent antibodies for identifying many pathogens.",
+        "bbox": [
+            114,
+            156,
+            884,
+            290
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/89e7e5edfe9c4bb164012560f95cca74bfd18cb5cec58d26db5478cbf5e40130.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            136,
+            307,
+            899,
+            545
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Parts of the Microscope",
+        "text_level": 2,
+        "bbox": [
+            115,
+            561,
+            327,
+            579
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "The main parts of the microscope are the eye-pieces, microscope tube, nosepiece, objective, mechanical stage, condenser, coarse and fine focusing knobs, and light source.",
+        "bbox": [
+            114,
+            592,
+            880,
+            629
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Functioning of the microscope",
+        "text_level": 2,
+        "bbox": [
+            115,
+            642,
+            384,
+            659
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "There are three main optical pieces in the compound light microscope. All three are essential for a sharp and clear image. These are:",
+        "bbox": [
+            114,
+            677,
+            880,
+            715
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "• Condenser",
+        "bbox": [
+            161,
+            718,
+            272,
+            734
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Objectives",
+        "bbox": [
+            161,
+            738,
+            275,
+            755
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "• Eye-pieces",
+        "bbox": [
+            161,
+            758,
+            273,
+            775
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "The condenser illuminates the object by converging a parallel beam of light on it from a builtin or natural source. The objective forms a magnified inverted (upside down) image of the object. The eye-piece magnifies the image formed by the objective. This image is formed below the plane of the slide.",
+        "bbox": [
+            114,
+            795,
+            882,
+            870
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            119,
+            926,
+            630,
+            942
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "page_number",
+        "text": "34 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/fab8cf9460efae2e6c8268c67215a287c969df6b7e927ba2a11fde9947e5b12c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            173,
+            79,
+            820,
+            369
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c67bf6cdf6e92da3274cf30be8e62d2dac87499ac11daa512bc027f6f2a38e4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            200,
+            386,
+            801,
+            531
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "The total magnification of the microscope is the product of the magnifying powers of the objective and the eye-piece.",
+        "bbox": [
+            174,
+            562,
+            882,
+            600
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "For example, if the magnifying power of the eye-piece is 10x and that of the objective is 100x, then the total magnification of the compound light microscope is: 10x X 100x = 1000-fold magnification",
+        "bbox": [
+            174,
+            618,
+            882,
+            675
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "3. Procedure",
+        "text_level": 2,
+        "bbox": [
+            166,
+            705,
+            284,
+            721
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Ensure that the voltage supply in the laboratory corresponds to that permitted for the microscope; use a voltage protection device, if necessary",
+        "bbox": [
+            174,
+            738,
+            880,
+            775
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Turn on the light source of the microscope",
+        "bbox": [
+            176,
+            778,
+            559,
+            795
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "• With the light intensity knob, decrease the light while using the low magnification objective",
+        "bbox": [
+            176,
+            799,
+            880,
+            834
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Place a specimen slide on the stage. Make sure the slide is not placed upside down. Secure the slide to the slide holder of the mechanical stage",
+        "bbox": [
+            176,
+            838,
+            882,
+            875
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "• Rotate the nose-piece to the 10x objective, and raise the stage to its maximum.",
+        "bbox": [
+            176,
+            878,
+            882,
+            913
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "header",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            35,
+            589,
+            55
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            926,
+            630,
+            944
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "page_number",
+        "text": "35 | P a g e",
+        "bbox": [
+            749,
+            926,
+            843,
+            942
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "text_level": 2,
+        "bbox": [
+            47,
+            36,
+            589,
+            54
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Move the stage with the adjustment knobs to bring the desired section of the slide into the field of view",
+        "bbox": [
+            174,
+            71,
+            884,
+            107
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "• Focus the specimen under 10x objective using the coarse focusing knob and lowering the stage",
+        "bbox": [
+            176,
+            110,
+            882,
+            146
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "• Make sure the condenser is almost at its top position. Centre the condenser using condenser centring screws if these are provided in the microscope. For this take out one eye-piece and while looking down the tube, close the iris diaphragm till only a pin-hole remains. Check if this is located in the centre of the tube",
+        "bbox": [
+            176,
+            148,
+            882,
+            222
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Open the condenser iris diaphragm to 70%–80% to adjust the contrast so that the field is evenly lighted",
+        "bbox": [
+            174,
+            224,
+            882,
+            280
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "• Adjust the interpupillary distance till the right and left images become one",
+        "bbox": [
+            176,
+            282,
+            815,
+            300
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "• Focus the image with the right eye by looking into the right eye-piece and turning the focusing knob",
+        "bbox": [
+            176,
+            303,
+            882,
+            338
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/2715a693448cbd7ae087812ced8e4f49451908851d7c40b2d082980251b115ef.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            159,
+            363,
+            317,
+            535
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/1be37868418600b4b885bf141558ce59611850b394811e3073ac318b14c2cad2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            327,
+            367,
+            487,
+            532
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cd06544f6afec9f4ab9f030ca84cd910a4d900129e6e03bf68a50e819fe452e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            504,
+            367,
+            662,
+            532
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/905aa6539df7d5875d4c6a680947b2e35bfbcb9d7b34fa1d2ca073a21f1fa05b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            677,
+            366,
+            835,
+            531
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "OBSERVATIONS BY OPTICAL MICROSCOPE",
+        "text_level": 2,
+        "bbox": [
+            307,
+            561,
+            690,
+            579
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/52ab352f0d6d7f18338533957ae27f43791d9237555ee0a6fe844553c45f8709.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "20m -5 ZEXS"
+        ],
+        "bbox": [
+            157,
+            620,
+            317,
+            789
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba6ac46cfc0e62ba5507dca6308fcea6c6aff326eecc69976dc991476cf4c058.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "10μm EH = 5.0 SgaA:S2 8Sg2015 ZEISS WD=75m ISMDHANBAD"
+        ],
+        "bbox": [
+            329,
+            620,
+            489,
+            785
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/5edc8f8ea6d3842b58a4459f1f7d9cfd84e59034444fd027111262ea76ef0148.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "200m EHT=500 WD=5m SgaIA=SE2 Meg= 5000X D 8Sep205 SNCH8A ZEISS"
+        ],
+        "bbox": [
+            502,
+            620,
+            663,
+            788
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfc2fc6951a55428f61a3fb00c63fea0ca978e9a8db670209c32ee119a6fd956.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "10m",
+            "SEM IMAGES OF LOTUS LEAF"
+        ],
+        "bbox": [
+            678,
+            620,
+            838,
+            790
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Observation:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            865,
+            236,
+            882
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            915,
+            110,
+            964
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            119,
+            926,
+            630,
+            942
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "page_number",
+        "text": "36 | P a g e",
+        "bbox": [
+            751,
+            927,
+            843,
+            942
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Lab Manual for Instrumental Methods of Analysis (CHC 506)",
+        "bbox": [
+            47,
+            35,
+            591,
+            57
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Application:",
+        "bbox": [
+            115,
+            93,
+            231,
+            114
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Precautions:",
+        "bbox": [
+            115,
+            167,
+            231,
+            185
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion:",
+        "bbox": [
+            115,
+            216,
+            326,
+            235
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Questionnaire:",
+        "text_level": 2,
+        "bbox": [
+            115,
+            290,
+            252,
+            310
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "1. What is optical microscopy?",
+        "bbox": [
+            115,
+            315,
+            374,
+            335
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "2. What are types of optical microscopy?",
+        "bbox": [
+            115,
+            365,
+            455,
+            385
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "3. Show different parts of a microscope using a proper schematic diagram?",
+        "bbox": [
+            114,
+            425,
+            729,
+            445
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            50,
+            914,
+            110,
+            964
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "footer",
+        "text": "Department of Chemical Engineering, IIT(ISM), Dhanbad",
+        "bbox": [
+            121,
+            925,
+            630,
+            944
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "page_number",
+        "text": "37 | P a g e",
+        "bbox": [
+            749,
+            926,
+            843,
+            944
+        ],
+        "page_idx": 36
+    }
+]

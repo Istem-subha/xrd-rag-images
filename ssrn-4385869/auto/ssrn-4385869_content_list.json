@@ -1,0 +1,718 @@
+[
+    {
+        "type": "text",
+        "text": "Mini Review Volume 10 Issue 1 - July 2022 DOI: 10.19080/GJPPS.2022.10.555779",
+        "bbox": [
+            85,
+            105,
+            260,
+            139
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Glob J Pharmaceu Sci",
+        "bbox": [
+            778,
+            109,
+            912,
+            121
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright © All rights are reserved by Manoj Kumar",
+        "bbox": [
+            647,
+            121,
+            912,
+            134
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XRD Analysis for Characterization of Green Nanoparticles: A Mini Review",
+        "text_level": 1,
+        "bbox": [
+            166,
+            156,
+            830,
+            212
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/50692124da13643530cb4082455f3da0226a810cd2a683d5c0d066ba63277bce.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            858,
+            156,
+            932,
+            210
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Manoj Kumar1\\*, Rakesh Ranjan1, Sukumar Dandapat2, Rohit Srivastava2 and Manoranjan Prasad Sinha2",
+        "bbox": [
+            63,
+            242,
+            858,
+            258
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Department of Zoology, St. Xavier’s College, Ranchi, Jharkhand, India",
+        "bbox": [
+            63,
+            263,
+            457,
+            277
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2Department of Zoology, Ranchi University, Ranchi, Jharkhand, India",
+        "bbox": [
+            63,
+            281,
+            453,
+            294
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Submission: July 6, 2022; Published: July 21, 2022",
+        "bbox": [
+            63,
+            299,
+            369,
+            312
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author: Dr. Manoj Kumar, Department of Zoology, St. Xavier’s College, Ranchi, Jharkhand, India",
+        "bbox": [
+            63,
+            317,
+            712,
+            331
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract",
+        "text_level": 2,
+        "bbox": [
+            87,
+            384,
+            146,
+            395
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Plants are one of the richest sources of biomolecules on earth. In the last decade there has been an increasing interest of researchers and scientists on exploration of antimicrobial and medicinal properties of plants. It is with entry and amalgamation of nanotechnology with phytochemistry, which opened new dimensions. Synthesis of metallic nanoparticles mediated by plant extracts emerged rapidly and had significant explorations. The synthesized metallic nanoparticles are characterized for their size, shape and stability using several techniques such as UV-Visible spectrophotometer (UV-Vis), Fourier Transform Infrared (FTIR), Scanning Electron Microsope (SEM), Dynamic light scattering analysis (DLS). X-ray diffraction (XRD) analysis of nanoparticles is a comparatively new entry in this list. X-ray diffraction analysis provides concrete information regarding structure and crystalline size of nanoparticles, and it can play pivotal role in characterization of nanoparticles.",
+        "bbox": [
+            84,
+            401,
+            912,
+            486
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Nanoparticles; Nanotechnology; X-ray diffraction",
+        "bbox": [
+            85,
+            491,
+            440,
+            505
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations: UV-Vis: UV-Visible Spectrophotometer; FTIR: Fourier Transform Infrared; SEM: Scanning Electron Microscope; DLS: Dynamic light Scattering Analysis; XRD: X-ray Diffraction",
+        "bbox": [
+            84,
+            510,
+            910,
+            536
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction",
+        "text_level": 2,
+        "bbox": [
+            65,
+            575,
+            173,
+            589
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "One of the world’s richest sources of biomolecules is plants. Researchers and academics have become more and more interested in studying the antibacterial and therapeutic capabilities of plants during the past ten years [1-4].",
+        "bbox": [
+            63,
+            598,
+            492,
+            658
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nanotechnology",
+        "text_level": 2,
+        "bbox": [
+            65,
+            669,
+            201,
+            684
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is in the last decade when the exploration of medicinal properties of plant extracts attained its peak, nanotechnology came into scenario. Nanotechnology is a science, engineering, and technology which operates at nanoscale, i.e., equal to or below 100 nm. The concept behind the nanoscience and most properly nanotechnology started with a talk entitled ‘There’s plenty of room at the bottom’ delivered by physicist Richard Feynman at an American Physical Society meeting at California Institute of Technology on December 29, 1959. It is long before the term nanotechnology was used. His talk focused on process where scientists would be able to manipulate and control individual atoms and molecules. Later during his exploration, Professor Norio Taniguchi coined the term nanotechnology [5-6]. In the last few decades, the idea of synthesis of metallic nanoparticles mediated by extracts obtained (via polar and non-polar extraction media) from plant parts such as leaves, roots, fruit peals, flowers and whole plant etc. started gaining grounds [7-10]. This idea gained importance and was explored widely by authors and researchers. Plant mediated nanoparticles can be synthesized using several metals such as silver [2,4], zinc [11], copper [12] iron [13] etc. The synthesized nanoparticles then need to be characterized for their properties such as size, shape, stability etc using several techniques such as SEM, UV-Vis, FTIR, DLS, Zeta potential analysis [14,15].",
+        "bbox": [
+            62,
+            692,
+            494,
+            901
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            504,
+            589,
+            934,
+            738
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X-ray diffraction",
+        "text_level": 2,
+        "bbox": [
+            505,
+            749,
+            645,
+            764
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X-ray diffraction (XRD) analysis of nanoparticles synthesized using plant extract is a rather new implementation of the technique to analysis the characteristic of synthesized nanoparticles [15-17]. The XRD analysis is done to analyse the structure and crystalline size of synthesized nanoparticles. Mehta et al. [17]. in their work characterized the synthesized silver (nano) using XRD. They concluded that the obtained data for 2θ positions identifies the sample as silver crystalline particles having hkl values corresponding to FCC silver. They estimated the crystalline size to be 20 nm, thus confirming the nano scale size of the synthesized particles. Various other workers such as Bykkam, Anandalakshmi, Ashraf & Abiola et al. [18-21] have reported successful characterization of metallic nanoparticles synthesized using plant extracts. The result obtained from XRD analysis cannot be directly utilized in the study. It needs use of additional software packages such as PowderX, MATCH! etc [22].",
+        "bbox": [
+            502,
+            771,
+            934,
+            907
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Electronic copy available at: https://ssrn.com/abstract=4385869",
+        "bbox": [
+            260,
+            977,
+            737,
+            991
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Global Journal of Pharmacy & Pharmaceutical Sciences ISSN: 2573-2250",
+        "bbox": [
+            70,
+            46,
+            547,
+            97
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Juniper UBLISHERS key to the Researchers",
+        "bbox": [
+            729,
+            47,
+            932,
+            89
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Glob J Pharmaceu Sci 10(1): GJPPS.MS.ID.555779 (2022)",
+        "bbox": [
+            65,
+            931,
+            379,
+            942
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "001",
+        "bbox": [
+            885,
+            931,
+            912,
+            942
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            63,
+            97,
+            494,
+            202
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ashraf et al. [20] obtained XRD pattern of silver nanoparticles using Bruker D8 diffractometer using CuKα radiation (λ=1.54056 Å). They calculated the particle size of the sample using Scherrer’s relationship",
+        "bbox": [
+            63,
+            209,
+            492,
+            268
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/dd7fae1d60eaaf3dfd7add68a272d75d7bdb927c8190b6d9c99813a89b481611.jpg",
+        "text": "$$\n\\mathrm { D } { = } 0 . 9 \\lambda / ( \\mathrm { B } \\mathrm { c o s } \\Theta )\n$$",
+        "text_format": "latex",
+        "bbox": [
+            233,
+            275,
+            347,
+            290
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Where λ is the wavelength of the x-ray, B is the broadening of the diffraction line measured as half of its maximum intensity in radians and θ is Bragg’s diffraction angle. The particle size of the sample is estimated from the width of the XRD peak [22].",
+        "bbox": [
+            63,
+            297,
+            492,
+            357
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Presently the XRD is commonly used extensive technique for characterization of nanoparticles. XRD provides information regarding the crystalline structure, nature of the phase, lattice parameters and crystalline grain size. The latter parameter is estimated by using Scherrer equation (stated earlier) using the broadening of the most intense peak of an XRD measurement for a specific sample. The nanoparticles are commonly analyzed in powder form after drying. The composition of the particles can be determined by comparing the position and intensity of the peaks with the reference patterns available from the international center for diffraction data (ICDD) [23-25].",
+        "bbox": [
+            63,
+            365,
+            492,
+            527
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conclusion",
+        "text_level": 2,
+        "bbox": [
+            65,
+            538,
+            161,
+            552
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thus, it can be concluded that out of many techniques used for characterization of nanoparticles, X-ray diffraction analysis provides concrete information regarding structure and crystalline size of nanoparticles, and it can play pivotal role in characterization of nanoparticles.",
+        "bbox": [
+            63,
+            562,
+            492,
+            636
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "References",
+        "text_level": 2,
+        "bbox": [
+            65,
+            648,
+            156,
+            661
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. Kumar M, Dandapat S, Kumar A, Sinha MP (2013) Determination of Nutritive value and mineral elements of five-leaf chaste tree (Vitex negundo L.) and Malabar nut (Adhatoda vasica Nees). Academic Journal of Plant Sciences 6(3): 103-108.",
+            "2. Kumar M, Dandapat S, Sinha MP (2014) Plant mediated synthesis of silver nanoparticles using Adhatoda vasica aqueous leaf extract. The Ecoscan, Special Issue, pp. 30-36.",
+            "3. Kumar M, Dandapat S, Sinha MP (2015) Phytochemical analysis of Growth inhibitory impact of Swertia chirayita aqueous leaf extract against Some Human Pathogens. World Journal of Zoology 10(3): 188- 190.",
+            "4. Kumar M, Dandapat S, Ranjan R, Kumar A, Sinha MP (2018) Plant mediated synthesis of silver nanoparticle using Punica granatum aqueous leaf extract. Journal of Microbiology and Experimentation 6(4): 175-178.",
+            "5. Feynman RP (1960) There’s plenty of room at the bottom. Eng Sci 23: 22-36.",
+            "6. Taniguchi N, Arakawa C, Kobayashi T (1974) On the basic concept of nanotechnology; proceedings of the International Conference on Production Engineering, Tokyo, Japan. pp. 26-29.",
+            "7. Zhang D, Xin-Lei M, Gu Y, Huang H, Zhang G (2020) Green synthesis of metallic nanoparticles and their potential applications to treat cancer. Front Chem 8: 799.",
+            "8. Agnihotri M, Joshi S, Kumar A, Zinjarde S, Kulkarni S (2009) Biosynthesis of gold nanoparticles by the tropical marine yeast Yarrowia lipolytica NCIM 3589. Mater Lett 63(15): 1231-1234.",
+            "9. Bhattacharya D, Gupta R (2005) Nanotechnology and potential microorganisms. Crit Rev Biotechnol 25(4): 199-204.",
+            "10. Kumar M, Sinha MP (2017) Green nanotechnology: Synthesis of silver nanoparticles using aqueous leaf extract of Swertia chirayita. Notulae Scientia Biologicae 9(3): 443-448.",
+            "11. Naseer M, Aslam U, Khalid B, Chen B (2020) Green route to synthesize Zinc Oxide nanoparticles using leaf extracts of Cassia fistula and Melia azedarach and their antibacterial potential. Nature: Scientific Reports 10: 9055.",
+            "12. Murthy HCA, Desalegn T, Kassa M, Abebe B, Assefa T (2020) Synthesis of green copper nanoparticles using medicinal plant Hagenia abyssinica (Brace) JF. Gmel. Leaf extract: Antimicrobial Properties. Journal of Nanomaterials.",
+            "13. Jain R, Mendiratta S, Kumar L, Srivastava A (2021) Green synthesis of iron nanoparticles using Artocarpus heterophyllus peel extract and their application as a heterogeneous Fenton-like catalyst for the degradation of Fuschin Basic Dye. Current Research in Green and Sustainable Chemistry 4: 100086.",
+            "14. Ranjan R, Dandapat S, Kumar M, Sinha MP (2019) Synthesis and characterization of Cuscuta reflexa (Roxb.) aqueous extract mediated silver nanoparticles. Journal of analytical and Pharmaceutical Research 8(2): 80-83.",
+            "15. Dandapat S, Kumar M, Ranjan R, Sinha MP (2022) Ganoderma applanatum extract mediated synthesis of silver nanoparticles. Brazilian Journal of Pharmaceutical Sciences 58: e19173.",
+            "16. Jemal K, Sandeep BV, Pola S (2017) Synthesis, characterization, and evaluation of the antibacterial activity of Allophylus serratus leaf and leaf derived callus extracts mediated silver nanoparticles. Journal of Nanomaterials.",
+            "17. Mehta BK, Chhajlani M, Shrivastava BD (2017) Green Synthesis of silver nanoparticles and their characterization by XRD. Journal of Physics.",
+            "18. Bykkam S, Ahmadipour M, Narisngam S, Kalagadda VR, Chidurala SC (2015) Extensive studies on X-ray diffraction of green synthesized nanoparticles. Advances in nanoparticles 4: 1-10.",
+            "19. Anandalakshmi K, Venugopal J, Ramasamy V (2015) Characterization of silver nanoparticles by green synthesis method using Pedalkum murex leaf extract and their antibacterial activity. Applied Nanoscience 6: 399-408.",
+            "20. Ashraf JM, Ansari MA, Khan HM, Alzohairy MA, Choi I (2016) Green synthesis of silver nanoparticles and characterization of their inhibitory effects on AGEs formation using biophysical techniques. Sci Rep 6: 20414.",
+            "21. Abiola GF, Dada AO, Otun KO, Adepoju AO, Fatoba OP (2019) Green synthesis of silver nanoparticles using terrestrial fern (Gleichenia pectinate (Wild.) C. Presl.): characterization and antimicrobial studies. Heliyon 5(4): e01543.",
+            "22. Akinsku AA, Ajani OO, Adekoya JA, Emetere ME, Dare EO (2020) Green synthesis of triclinic (anorthic) phase AgCoPO nanoparticles: optical studies and theoretical modelling. Helion 6(9): e05029."
+        ],
+        "bbox": [
+            65,
+            667,
+            492,
+            714
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Global Journal of Pharmacy & Pharmaceutical Sciences",
+        "bbox": [
+            260,
+            51,
+            736,
+            67
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "002",
+        "bbox": [
+            80,
+            931,
+            107,
+            941
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "How to cite this article: Manoj K, Rakesh R, M P Sinha. XRD Analysis for Characterization of Green Nanoparticles: A Mini Review. Glob J Pharmaceu Sci. 2022; 10(1): 555779. DOI: 10.19080/GJPPS.2022.09.555779",
+        "bbox": [
+            127,
+            923,
+            931,
+            945
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "Electronic copy available at: https://ssrn.com/abstract=4385869",
+        "bbox": [
+            260,
+            977,
+            737,
+            991
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "23. Mourdikoudis S, Pallares RM, Thanh NTK (2018) Characterization techniques for nanoparticles: comparison and complementarity upon studying nanoparticle properties. Nanoscale 10: 12871-12934.",
+            "24. Upadhyay S, Parekh K, Pandey B (2016) Influence of crystallite size on the magnetic properties of Fe O nanoparticles. Journal of Alloys and Compounds 678: 478-485."
+        ],
+        "bbox": [
+            65,
+            120,
+            490,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c25c8d0932fbc166c37793e02ac64c226c4050b92dff21c042dc47972dd2402.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            68,
+            258,
+            184,
+            286
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under Creative",
+        "bbox": [
+            186,
+            258,
+            381,
+            268
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Commons Attribution 4.0 License",
+        "bbox": [
+            186,
+            268,
+            366,
+            278
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DOI: 10.19080/GJPPS.2022.09.555779",
+        "bbox": [
+            184,
+            277,
+            401,
+            287
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "25. Ingham B (2016) X-ray scattering characterisation of nanoparticles. Crystallography Reviews 21: 229-303."
+        ],
+        "bbox": [
+            507,
+            120,
+            931,
+            143
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Your next submission with Juniper Publishers will reach you the below assets",
+        "text_level": 2,
+        "bbox": [
+            579,
+            261,
+            878,
+            288
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "• Quality Editorial service",
+        "bbox": [
+            541,
+            292,
+            707,
+            305
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "• Swift Peer Review",
+        "bbox": [
+            542,
+            306,
+            670,
+            319
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "• Reprints availability",
+        "bbox": [
+            542,
+            321,
+            684,
+            334
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "• E-prints Service",
+        "bbox": [
+            542,
+            335,
+            658,
+            348
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "• Manuscript Podcast for convenient understanding",
+        "bbox": [
+            542,
+            349,
+            860,
+            361
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "• Global attainment for your research",
+        "bbox": [
+            542,
+            363,
+            776,
+            376
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "• Manuscript accessibility in different formats",
+        "bbox": [
+            542,
+            378,
+            826,
+            392
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "( Pdf, E-pub, Full Text, Audio)",
+        "bbox": [
+            554,
+            391,
+            746,
+            405
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "• Unceasing customer service",
+        "bbox": [
+            542,
+            406,
+            731,
+            419
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Track the below URL for one-step submission",
+        "bbox": [
+            579,
+            428,
+            877,
+            441
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "https://juniperpublishers.com/online-submission.php",
+        "bbox": [
+            569,
+            442,
+            890,
+            456
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Global Journal of Pharmacy & Pharmaceutical Sciences",
+        "bbox": [
+            260,
+            51,
+            736,
+            67
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "003",
+        "bbox": [
+            80,
+            931,
+            107,
+            941
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "How to cite this article: Manoj K, Rakesh R, M P Sinha. XRD Analysis for Characterization of Green Nanoparticles: A Mini Review. Glob J Pharmaceu Sci. 2022; 10(1): 555779. DOI: 10.19080/GJPPS.2022.09.555779",
+        "bbox": [
+            129,
+            923,
+            931,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "Electronic copy available at: https://ssrn.com/abstract=4385869",
+        "bbox": [
+            260,
+            977,
+            737,
+            991
+        ],
+        "page_idx": 2
+    }
+]

@@ -1,0 +1,1932 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Radiation Safety Guidelines for Use of X-ray Diffraction Units"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                225,
+                184,
+                772,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X-ray Diffraction Laboratory Analytical Centre University of New South Wales"
+                    }
+                ]
+            },
+            "bbox": [
+                349,
+                388,
+                648,
+                452
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f7f50ec93c32c5154c21ecb7b290ccb0cc35e67c0c8bf29ad8b4db8c431be860.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                449,
+                488,
+                549,
+                607
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Emergency Contact"
+                    }
+                ]
+            },
+            "bbox": [
+                410,
+                672,
+                588,
+                690
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f62e4ee56fb32dd95473662250ae2cf613301fc1333bd6839d9cd6b8cfcd9359.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Radiation Safety Supervisor</td><td rowspan=1 colspan=1>Yu Wang (x54527)</td></tr><tr><td rowspan=1 colspan=1>Analytical Centre First Aid Officer</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>UNSW Radiation Safety Coordinator</td><td rowspan=1 colspan=1>Bob Armstrong (x52912)</td></tr><tr><td rowspan=1 colspan=1>UNSW Security</td><td rowspan=1 colspan=1>(x56666)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                174,
+                705,
+                823,
+                784
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "X-ray Diffraction (XRD) Laboratory, Analytical Centre, UNSW"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                44,
+                566,
+                60
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Management Document 0ol/2007"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                939,
+                370,
+                954
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "March 2007"
+                    }
+                ]
+            },
+            "bbox": [
+                457,
+                939,
+                542,
+                953
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                938,
+                852,
+                949
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Contents"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                433,
+                162,
+                565,
+                189
+            ]
+        },
+        {
+            "type": "index",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Emergency Contact.."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Radiation Safety Legislation and Code of Practice 3"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.1 Radiation Safety Legislation, Code of Practice and Rules . 3"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.2 Radiation Licensing and Training 3"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.3 Radiation Supervision. 4"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.4 Risk Assessment  4"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.5 Radiation Safety Information Board in XRD Laboratory 4"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Working with X-ray Diffraction Instruments. 5"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.1 Characteristics of X-ray Radiation . 5"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": " 2.2 Radiation monitoring and Permitted dose. 5"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.3 Radiation Protection Features in XRD instrument  6"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.4 Understanding Lab safety Features and Requirements 6"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.5 Medical Requirements . 7"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Radiation Safety Rules for Use of XRD Instruments  8"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                256,
+                852,
+                279
+            ]
+        },
+        {
+            "type": "index",
+            "content": {
+                "list_type": "text_list",
+                "list_items": []
+            },
+            "bbox": [
+                140,
+                337,
+                856,
+                603
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "X-ray Diffraction (XRD) Laboratory, Analytical Centre, UNSW"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                45,
+                566,
+                60
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Management Document 0o1/2007"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                939,
+                370,
+                954
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "March 2007"
+                    }
+                ]
+            },
+            "bbox": [
+                457,
+                939,
+                542,
+                953
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                841,
+                938,
+                854,
+                949
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Radiation Safety Legislation and Code of Practice"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                202,
+                122,
+                794,
+                143
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.1 Radiation Safety Legislation, Code of Practice and Rules"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                191,
+                720,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Besides the general occupational health and safety (OHS） practice, working with  sealed/unsealed radiation sources in NSW is regulated under the NSW Radiation Control Regulation (2003). Australian Standard 2234.4 - 1994 and Code of Practice for Protection Against Ionising Radiation Emitted from X-ray Analysis Equipment (1984). We have a statutory obligation to comply with the requirements and practices described  in these documents. The documents can be access through UNsW Library's online services."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                226,
+                856,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The University of New South Wales has developed its own radiation policy - “Radiation  Safety Policy and Program - Part A Ionising Radiation\". It is accessible from the UNSW  web site (http://www.riskman.unsw.edu.au/ohs/radiationsafety.shtml). The policy clearly outlines the all practical requirements and responsibilities of those, who are working with radiation sources or supervising the use of radiation sources in UNSW. All XRD users  must read this policy before starting their XRD work."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                364,
+                856,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The X-ray diffraction laboratory in the Analytical Centre UNSW has fully complied with  all of the above legislation, codes and policies. All users/operators have responsibility to follow these continuously."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                487,
+                856,
+                541
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.2 Radiation Licensing and Training"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                570,
+                506,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All intending users of ionising radiation sources must first obtain a radiation licence from  the Environment Protection Authority (EPA) (http://www.epa.nsw.gov.au/home.htm). This applies to most users. The licence will indicate the type of radiation sources to be  permitted, where appropriate and conditions."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                606,
+                856,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "An exception to this rule is all users working with sealed radiation sources at a fixed location. In this case,a Licensing Exception Approval has to be provided in writing,  identifying the student, the supervisor and the details of the work to be taken and any conditions associated with it. Using X-ray diffraction units, at X-ray diffraction  laboratory, Analytical Centre UNSW, is licensing excepted."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                693,
+                856,
+                782
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All users (licensed and licensing excepted) must undertake a training program for radiation safety and instrument operation before they can use X-ray diffraction units in  the XRD laboratory. Only qualified and licensed staff can provide this type of training. The training program must have appropriate record of trainer/trainee, date and associated. Trainee should obtain a copy of radiation guidelines (Management Document OO1/2007)  and standard operating procedure for specified XRD unit."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                796,
+                856,
+                905
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": " X-ray Diffraction (XRD) Laboratory, Analytical Centre, UNSW"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                45,
+                566,
+                60
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Management Document 0ol/2007"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                939,
+                370,
+                954
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "March 2007"
+                    }
+                ]
+            },
+            "bbox": [
+                457,
+                939,
+                542,
+                953
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                841,
+                938,
+                854,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.3 Radiation Supervision"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                143,
+                121,
+                393,
+                142
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the XRD laboratory, only qualified staff can provide radiation supervision. Their names have be displayed on the radiation safety information board in the lab."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                156,
+                854,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The responsibilities of the Radiation Safety Supervisor include."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                208,
+                647,
+                227
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Obtain and maintain knowledge of the principles and practices of protection  against radiation and of potential hazards;"
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                228,
+                854,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "·Training users for radiation safety and standard operation;"
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                263,
+                692,
+                281
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "·Approving standard operating procedures;"
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                284,
+                570,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "·Approving student exception to access XRD units, and"
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                300,
+                668,
+                318
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Identifying local radiation risk areas."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                319,
+                526,
+                337
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the school of Materials Science and Engineering, radiation safety supervisor is Dr. Yu Wang (x54527). UNSW radiation safety coordinator is Bob Armstrong (x52912). Any  issue related to radiation safety must be passed to those people directly."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                353,
+                854,
+                407
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.4 Risk Assessment"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                438,
+                341,
+                457
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Before a new user can start his/her own XRD test, a risk assessment must be carried out. After that the user must fill the Risk assessment form and submit to the radiation safety  supervisor and the safety officer at Analytical Centre."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                472,
+                854,
+                526
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.5 Radiation Safety Information Board in XRD Laboratory"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                555,
+                715,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Radiation Safety Information Board in the XRD Laboratory provides all information about radiation safety，which includes licenced staff names， student names under radiation licensing exception， radiation footprint， emergency evacuation procedure, incident reporting procedure and radiation legislation documents."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                589,
+                856,
+                661
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": " X-ray Diffraction (XRD) Laboratory， Analytical Centre, UNSW"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                45,
+                566,
+                60
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Management Document 0o1/2007"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                939,
+                370,
+                954
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "March 2007"
+                    }
+                ]
+            },
+            "bbox": [
+                457,
+                939,
+                542,
+                953
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                841,
+                938,
+                854,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": " 2. Working with X-ray Diffraction Instruments"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                230,
+                107,
+                766,
+                130
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1 Characteristics of X-ray Radiation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                160,
+                508,
+                180
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " X-rays are a very energetic form of electromagnetic radiation that will ionise matter with which they interact, by ejecting electrons from their atoms. They are classified as sealed radiation sources， when devices or materials, which generate X-rays，have been  permanently bonded or fixed in a capsule or tube to prevent release and dispersal of radiation under the most severe conditions,and unsealed radiation sources such as radioactive substances. The X-rays used in X-ray diffraction (XRD) unit is the sealed radiation sources which is enclosed in X-ray tube housing and produced only when they are energized."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                195,
+                857,
+                337
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X-ray radiation is harmful to the human body. A localised dose is sufficient to cause a  severe radiation burn (human tissues are killed). Doses are also accumulated in the human body by long term exposed to radiation that produce irradiated cells. The hazards  include an increased risk of leukaemia, cancer and genetic or hereditary effects."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                352,
+                856,
+                424
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Injury may occur to the operator and/or other personnel close to X-ray equipment due to  exposure to a primary beam or leakage or scattered radiation."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                439,
+                856,
+                477
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X-ray's wavelength, used with XRD, is around 1 - 4 A. They are invisible to naked eye and strongly penetrative. However， they are generated by electric power. Once the electric power being cut off, X-rays will completely vanish and no radioactive contamination retains in the area, no radiation hazard exists."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                491,
+                856,
+                563
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Three major factors are considered in preventing radiation hazard - time, distance and shielding."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                578,
+                856,
+                614
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2 Radiation monitoring and Permitted dose"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                650,
+                575,
+                670
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The IS measurement of X-ray intensity is the Sievert (Sv)， corresponding to the absorption of one joule in one kilogram of biological matter, taking into account the quality factor and other modifying factors."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                684,
+                856,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The radiation monitor measures the radiation in terms of rate - μSv/hr (micro-Sievert per hour). Normal background radiation level in our XRD lab is on the order of O.2 -0.5 μSv/hr. At this rate, one would expect to receive maximum 0.5x 24 hr = 12 μSv of exposure per day or 0.5x24x365 = 4.38 mSv/year."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                755,
+                857,
+                828
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Standard limits of effective dose are 2O mSv/year for occupational and 1 mSv/year for  general public. Although the standard prescribe limits on an annual basis, it is useful to ensure that doses received do not exceed lmSv/week. It should note that natural background radiation to which everybody is exposed from the environment is in an order of 2 mSv/year."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                843,
+                857,
+                897
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": " X-ray Diffraction (XRD) Laboratory， Analytical Centre, UNSW"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                45,
+                566,
+                60
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Management Document 0o1/2007"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                939,
+                370,
+                954
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "March 2007"
+                    }
+                ]
+            },
+            "bbox": [
+                457,
+                939,
+                542,
+                953
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                841,
+                938,
+                854,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                140,
+                90,
+                854,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A radiation monitor is provided in the XRD laboratory. All users need to know how to use the monitor. The results from lab inspections show on the Radiation Safety Information Board."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                142,
+                856,
+                195
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.3 Radiation Protection Features in XRD Instrument"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                226,
+                660,
+                246
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": " All X-ray difraction instruments have equipped with many radiation protection features."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Understanding of these features is the most important step to ensure radiation safety."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                261,
+                852,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X-ray tube housing Each X-ray tube is enclosed in a tube housing that can not be  fractured or deformed by normal use, accidental impact or misuse."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                315,
+                854,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The tube housing shutter (X-ray beam stop) is placed close to the housing aperture so that to attenuate the radiation doses. The shutter is opened only when measurement starts."
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                352,
+                856,
+                401
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " X-ray energised warning indicator (light) indicates X-ray tube is in operation and X-ray are generated, but they could be enclosed in the tube housing only."
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                404,
+                854,
+                439
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Shutter warning indicator If it is on, it indicates the shuter is opened. X-rays  are in the working chamber. In this case no one is allowed to open the door of chamber."
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                440,
+                856,
+                491
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Interlocks Many microswitches are fit on each XRD system to ensure that the  sample chamber has been properly enclosed before shutter opens. Any attempt to open the chamber, when the shutter is opened, will lead to system de-energised  immediately."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                493,
+                856,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Sample chamber It houses the test samples and prevents accessing the primary X-ray beams. The chamber is constructed of appropriate materials to attenuate Xray radiation during measurement."
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                564,
+                856,
+                617
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.4 Understanding Lab safety Features and Requirements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                647,
+                694,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Push-off button (Red Push Button) each XRD unit has a push-off button to shut down electric power. They are all labeled with red “Power Off’ whatever its location and type. Users should know its location and push it in emergency case."
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                699,
+                856,
+                752
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It can only be used in case of emergency."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                768,
+                531,
+                786
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Service/disruption Notice (Yellow Note) A yellow note is stored in the operating  procedure folder of each unit. When user finds a problem of operation or safety, please shut down the unit, put the note in front of the unit and then inform lab  safety supervisor."
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                804,
+                856,
+                875
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": " X-ray Diffraction (XRD) Laboratory, Analytical Centre, UNSW"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                45,
+                566,
+                60
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Management Document 0o1/2007"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                939,
+                370,
+                954
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "March 2007"
+                    }
+                ]
+            },
+            "bbox": [
+                457,
+                939,
+                542,
+                953
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                841,
+                938,
+                854,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When user find a yellow note has been placed to a XRD unit, don't use that unit until a school technical staff takes it off."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                90,
+                856,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Users are not allowed to do any repair， adjustment or modification of XRD hardware. Anyone, who tries to do so, will be dismissed from use XRDs in the laboratory."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                140,
+                856,
+                194
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Safe Samples To maintain a safe environment of the lab, the safety supervisor  may ask users to provide certain information of their samples. Users should insure  that their samples are safety samples, which means that to performing a XRD test will not lead to pollute or contaminate the lab."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                212,
+                856,
+                284
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "User must report to safety supervisor if their samples may contain radioactive  substances, nano-powders, something which may produce toxic gases under the low heat, or lead to contaminate instrument. Without taking necessary  precautions, user can not perform any test to those samples."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                299,
+                856,
+                371
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The lab can not be used as sample preparation room and not store any type of  samples."
+                    }
+                ]
+            },
+            "bbox": [
+                199,
+                386,
+                856,
+                421
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.5 Medical Requirements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                474,
+                397,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The operator or any other person involved in the use of XRD equipment should undergo a medical examination following any known or suspected occasion when the person has been exposed to a primary beam from XRD equipment."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                512,
+                856,
+                566
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": " X-ray Diffraction (XRD) Laboratory, Analytical Centre, UNSW"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                45,
+                566,
+                60
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Management Document 0o1/2007"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                939,
+                370,
+                954
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "March 2007"
+                    }
+                ]
+            },
+            "bbox": [
+                457,
+                939,
+                542,
+                953
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                841,
+                938,
+                854,
+                949
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": " Radiation Safety Rules for Use of XRD Instruments"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                205,
+                121,
+                790,
+                142
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.1 Check the placard on the door to know main potential hazards, the personal protective equipment to be worn and the names and phone numbers of the  persons to be contacted for emergencies."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                188,
+                856,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.2 No person is permitted to operate XRD equipment unless they have taken training of radiation safety and operating procedures, and done risk assessment. All users must follow the standard operating procedure to use XRD unit."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                272,
+                856,
+                327
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.3 Check “Service/Disruption Notice” (Yellow note). If one has been placed to a XRD unit, don't use that instrument until technical staff takes it out."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                357,
+                856,
+                393
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.4 Check shutter indicator before opening the door of sample chamber. If the indicator lights on, don't open the door of chamber at any circumstance."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                424,
+                854,
+                462
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Shutter indicator lights on is to say there are X-ray in the chamber."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                477,
+                741,
+                496
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.5 Turn off the equipment immediately when potentially hazardous situations occur arising from X-ray beam, due to any reason. Report to the radiation safety supervisor any actual or suspected case of radiation exposure."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                529,
+                854,
+                584
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the case of a building emergency, switch off the equipment completely before leaving the laboratory."
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                597,
+                854,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.6 In the case of radiation exposure incident, you must follow “Hazard and Incident Reporting and Investigation Procedure” on the radiation safety  information board or http://www.riskman.unsw.edu.au/ohs/hazard.shtml."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                661,
+                856,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.7 Recording your usage time, with actual operator's name (not research group), in the specific XRD logbook after use."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                750,
+                854,
+                786
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "X-ray Diffraction (XRD) Laboratory， Analytical Centre, UNSW"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                45,
+                566,
+                60
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Management Document 0o1/2007"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                939,
+                370,
+                954
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "March 2007"
+                    }
+                ]
+            },
+            "bbox": [
+                457,
+                939,
+                542,
+                953
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                841,
+                938,
+                854,
+                950
+            ]
+        }
+    ]
+]
